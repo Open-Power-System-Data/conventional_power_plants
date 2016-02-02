@@ -1,4 +1,4 @@
-id;efficiency_net;efficiency_gross;comment;date;url;source_type
+id;efficiency_net;efficiency_gross;efficiency_comment;date;efficiency_source;source_type
 BNA0001;;;;;;
 BNA0002;;;;;;
 BNA0003;;;;;;
@@ -171,7 +171,7 @@ BNA0179;;;;;;
 BNA0180;;;;;;
 BNA0181;;;;;;
 BNA0182;;;;;;
-BNA0183;0.004;;;05.01.2016;https://books.google.de/books?id=3gjxbjLZUIcC&pg=PA44&lpg=PA44&dq=Grevenbroich-Frimmersdorf+wirkungsgrad&source=bl&ots=Ov4NMifXMN&sig=9UFMsjWijfvUpdU2_A-dtbyh_tw&hl=de&sa=X&ved=0ahUKEwiki-rIupLKAhXFfw8KHe3cDRwQ6AEIQzAH#v=onepage&q=Grevenbroich-Frimmersdorf%20wirkungsgrad&f=false;B
+BNA0183;0.4;;;05.01.2016;https://books.google.de/books?id=3gjxbjLZUIcC&pg=PA44&lpg=PA44&dq=Grevenbroich-Frimmersdorf+wirkungsgrad&source=bl&ots=Ov4NMifXMN&sig=9UFMsjWijfvUpdU2_A-dtbyh_tw&hl=de&sa=X&ved=0ahUKEwiki-rIupLKAhXFfw8KHe3cDRwQ6AEIQzAH#v=onepage&q=Grevenbroich-Frimmersdorf%20wirkungsgrad&f=false;B
 BNA0184;;;;;;
 BNA0185;;;;;;
 BNA0186;;;;;;
