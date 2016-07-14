@@ -12,9 +12,9 @@ BNA0018;Altbach/Deizisau GT A-C, E;Erdgas
 BNA0019;Altbach/Deizisau HKW 1;Steinkohle
 BNA0020;Altbach/Deizisau HKW 2;Steinkohle
 BNA1659;Amrumbank West;Wind (O)
-BNA0027;Arneburg;Wind (L)
-BNA0028a;Arneburg;Biomasse
-BNA0028b;Arneburg;Biomasse
+BNA0027;Arneburg;Biomasse
+BNA0028a;Arneburg;Wind (L)
+BNA0028b;Arneburg;Wind (L)
 BNA1660;Baltic II (Kriegers Flak I);Wind (O)
 BNA0039;BARD Offshore;Wind (O)
 BNA0067;Bergkamen A;Steinkohle
