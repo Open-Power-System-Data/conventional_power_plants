@@ -66,12 +66,12 @@ BNA0603,0.46,,B1 und B2 zusammen,11/17/2015,http://www.rwe.com/web/cms/de/177064
 BNA0604,0.46,,B1 und B2 zusammen,11/17/2015,http://www.rwe.com/web/cms/de/1770644/rwe-generation-se/standorte/deutschland/kw-emsland/,A
 BNA0605,0.46,,C1 und C2 zusammen,11/17/2015,http://www.rwe.com/web/cms/de/1770644/rwe-generation-se/standorte/deutschland/kw-emsland/,A
 BNA0606,0.592,,,11/17/2015,http://www.rwe.com/web/cms/de/1770644/rwe-generation-se/standorte/deutschland/kw-emsland/,A
-BNA0607,0.345,,S. 22,11/11/2015,"https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CCcQFjACahUKEwiBlMqo1IjJAhWHhiwKHQntBTk&url=http%3A%2F%2Fwww.rwe.com%2Fapp%2FPressecenter%2FDownload.aspx%3Fpmid%3D4003986%26datei%3D1&usg=AFQjCNHNcvsd6A8PhpdUKD9qFsNgSPxURQ&bvm=bv.106923889,d.bGg&cad=rja",A
+BNA0607,0.345,,S. 22,11/11/2015,http://www.rwe.com/app/Pressecenter/Download.aspx?pmid=4003986&datei=1,A
 BNA0614b,0.43,,unsicher ob dieses Kraftwerk gemeint ist,10/29/2015,http://www.ingenieur.de/Politik-Wirtschaft/Unternehmen/BASF-setzt-autarke-Energieversorgung,B
 BNA0618,0.36,,unsicher ob dieses Kraftwerk gemeint ist,11/23/2015,http://www.trianel-luenen.de/pm/trianel-kohlekraftwerk-luenen-ausgezeichnet-1/,B
 BNA0619,0.36,,unsicher ob dieses Kraftwerk gemeint ist,11/23/2015,http://www.trianel-luenen.de/pm/trianel-kohlekraftwerk-luenen-ausgezeichnet-1/,B
 BNA0626,0.58,,,11/17/2015,http://www.kmw-ag.de/02_03kraftwerk3.html,A
-BNA0646b,0.464,,,11/9/2015,https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=13&ved=0CC0QFjACOApqFQoTCOy5jMueg8kCFYUWLAodabkAog&url=http%3A%2F%2Fwww.gkm.de%2Fmedia%2F%3Ffile%3D517_GKM_Block_9_Folder_DE.pdf%26download&usg=AFQjCNFLWlvXO32d9tXCNHmRhYi64KL-3w&sig2=_wjrcmN-1Pmz1l_w_9A5Ng,B
+BNA0646b,0.464,,,11/9/2015,http://www.gkm.de/media/?file=517_GKM_Block_9_Folder_DE.pdf&download,B
 BNA0652,0.75,,,11/23/2015,http://ins-erzgebirge.de/ausflugsziel.php?id=260,B
 BNA0661,0.38,,,11/3/2015,http://www.marlaktuell.de/?p=123972,C
 BNA0669,0.74,,,10/29/2015,http://www.gea.de/region+reutlingen/neckar+erms/pumpspeicherkraftwerk+in+glems+lecks+per+knopfdruck+schliessbar.2714095.htm,B
@@ -128,8 +128,8 @@ BNA1023,0.5,,,1/5/2016,https://de.wikipedia.org/wiki/Kraftwerk_Weisweiler,C
 BNA1024,0.5,,,1/5/2016,https://de.wikipedia.org/wiki/Kraftwerk_Weisweiler,C
 BNA1025,0.33,,,1/5/2016,https://de.wikipedia.org/wiki/Kraftwerk_Weisweiler,C
 BNA1026,0.33,,,1/5/2016,https://de.wikipedia.org/wiki/Kraftwerk_Weisweiler,C
-BNA1027,0.36,,,1/5/2016,https://books.google.de/books?id=3gjxbjLZUIcC&pg=PA44&lpg=PA44&dq=Grevenbroich-Frimmersdorf+wirkungsgrad&source=bl&ots=Ov4NMifXMN&sig=9UFMsjWijfvUpdU2_A-dtbyh_tw&hl=de&sa=X&ved=0ahUKEwiki-rIupLKAhXFfw8KHe3cDRwQ6AEIQzAH#v=onepage&q=Grevenbroich-Frimmersdorf%20wirkungsgrad&f=false,B
-BNA1028,0.36,,,1/5/2016,https://books.google.de/books?id=3gjxbjLZUIcC&pg=PA44&lpg=PA44&dq=Grevenbroich-Frimmersdorf+wirkungsgrad&source=bl&ots=Ov4NMifXMN&sig=9UFMsjWijfvUpdU2_A-dtbyh_tw&hl=de&sa=X&ved=0ahUKEwiki-rIupLKAhXFfw8KHe3cDRwQ6AEIQzAH#v=onepage&q=Grevenbroich-Frimmersdorf%20wirkungsgrad&f=false,B
+BNA1027,0.36,,,1/5/2016,https://books.google.de/books?id=3gjxbjLZUIcC&pg=PA44,B
+BNA1028,0.36,,,1/5/2016,https://books.google.de/books?id=3gjxbjLZUIcC&pg=PA44,B
 BNA1031,0.73,,"Vor der Modernisierung 2012, aktuell 0,78 http://corporate.vattenfall.de/newsroom/pressemeldungen/2014/fit-fur-die-energiewende-pumpspeicherwerk-wendefurth-geht-wieder-in-betrieb/",11/23/2015,http://www.stromtip.de/rubrik2/20223/Reportage-Pumpspeicherwerke-sollen-ein-Eckpfeiler-der-Energiewende-werden.html,B
 BNA1032,0.73,,"Vor der Modernisierung 2012, aktuell 0,78 http://corporate.vattenfall.de/newsroom/pressemeldungen/2014/fit-fur-die-energiewende-pumpspeicherwerk-wendefurth-geht-wieder-in-betrieb/",11/23/2015,http://www.stromtip.de/rubrik2/20223/Reportage-Pumpspeicherwerke-sollen-ein-Eckpfeiler-der-Energiewende-werden.html,B
 BNA1039,0.41,,Kombiprozess,11/17/2015,http://www.rwe.com/web/cms/de/1770664/rwe-generation-se/standorte/deutschland/kw-gersteinwerk/,A
@@ -160,4 +160,4 @@ BNA1508,0.4595,,,11/23/2015,http://www.trianel.com/de/pressemeldungen/details/ar
 BNA1509,,0.8,Brutto: KWK Wirkungsgrad,10/29/2015,http://www.bp.com/content/dam/bp/pdf/sustainability/country-reports/Lingen_VSR_2011.pdf,A
 BNA1528,0.4276,,S. 44,11/20/2015,http://www.umweltinnovationsprogramm.de/sites/default/files/benutzer/36/dokumente/20140830_endbericht_uip_projektnr_1785_sw_kempen.pdf,A
 BNA1531,0.39,,,11/11/2015,http://stefanschroeter.com/component/content/article.html?id=693:flinke-gasturbine-waermt-russisches-pipelinegas#.VkNWMCuriHs,B
-BNA1558,0.465,,,10/27/2015,http://corporate.vattenfall.de/uber-uns/geschaftsfelder/erzeugung/bauprojekte/Moorburg/Baustein_fuer_den_Klimaschutz/?_t_id=1B2M2Y8AsgTpgAmY7PhCfg%3d%3d&_t_q=wirkungsgrad&_t_tags=language%3ade%2csiteid%3a6137118f-e810-4130-802c-23139e8d9276&_t_ip=130.149.71.181&_t_hit.id=Kwd_Kestrel_Library_Epi_Types_Pages_InformationPageType/_4051c3db-ad42-4f08-bc2c-46c6072d56bf_de&_t_hit.pos=1,A
+BNA1558,0.465,,,10/27/2015,http://corporate.vattenfall.de/uber-uns/geschaftsfelder/erzeugung/bauprojekte/Moorburg/Baustein_fuer_den_Klimaschutz/?_t_id=1B2M2Y8AsgTpgAmY7PhCfg==&_t_q=wirkungsgrad&_t_tags=language:de,siteid:6137118f-e810-4130-802c-23139e8d9276&_t_ip=130.149.71.181&_t_hit.id=Kwd_Kestrel_Library_Epi_Types_Pages_InformationPageType/_4051c3db-ad42-4f08-bc2c-46c6072d56bf_de&_t_hit.pos=1,A
