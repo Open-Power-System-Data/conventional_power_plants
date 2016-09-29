@@ -1,0 +1,177 @@
+name: conventional_power_plants
+title: List of conventional power plants in Germany and selected European countries
+description: This datapackage contains data on conventional power plants for Germany as well as other selected European countries. The data includes individual power plants with their technical characteristics. These include installed capacity, main energy source, type of technology, CHP capability, and geographical information. The geographical scope is primarily on Germany and its neighboring countries. It will be extended to other European countries if power plant information are publicly available.
+version: "2016-09-29"
+keywords: [conventional power plants, Germany]
+geographical-scope: Germany, Poland, etc.
+opsd-changes-to-last-version: new structure
+resources:
+    - path: conventional_power_plants_DE.csv
+      format: csv
+      mediatype: text/csv
+      schema:  # Schema according to: http://dataprotocols.org/json-table-schema/        
+        fields:
+            - name: id
+              description: Power plant ID based on the ID provided in the
+                  BNetzA-list.
+              type: string
+            - name: country_code
+              description: Two-letter ISO code
+              type: string  
+            - name: company
+              description: Company name
+              type: string
+            - name: name
+              description: Power plant name
+              type: string
+              format: default
+            - name: postcode
+              description: Postcode
+              type: string
+              format: default
+            - name: city
+              description: City
+              type: string
+              format: default
+            - name: street
+              description: Street
+              type: string
+              format: default
+            - name: state
+              description: State
+              type: string
+              format: default
+            - name: block
+              description: Power plant block 
+              type: string
+              format: default
+            - name: commissioned_original
+              description: Year of commissioning (raw data)
+              type: string
+              format: default
+            - name: commissioned
+              description: Year of commissioning 
+              type: integer
+              format: default
+            - name: retrofit
+              description: Year of modernization according to UBA data
+              type: integer
+              format: default
+            - name: shutdown
+              description: Year of decommissioning
+              type: integer
+              format: default
+            - name: status
+              description: Power plant status
+              type: string
+              format: default
+            - name: fuel
+              description: Used fuel or energy source
+              type: string
+              format: default
+            - name: technology
+              description: Power plant technology or sort
+              type: string
+              format: default
+            - name: type
+              description: Purpose of the produced power
+              type: string
+              format: default
+            - name: eeg
+              description: Status of being entitled to a renumeration
+              type: boolean
+              format: default
+            - name: chp
+              description: Status of being able to supply heat
+              type: boolean
+              format: default
+            - name: capacity
+              description: Power capacity
+              type: number
+              format: default
+            - name: capacity_uba
+              description: Power capacity according to UBA data
+              type: number
+              format: default
+            - name: chp_capacity_uba
+              description: Heat capacity according to UBA data
+              type: number
+              format: default
+            - name: merge_comment
+              description: Comment on BNetzA - UBA merge
+              type: string
+              format: default              
+            - name: efficiency_data
+              description: Proportion between power output and input
+              type: number
+              format: default
+            - name: efficiency_estimate
+              description: Estimated proportion between power output and input
+              type: number
+              format: default
+            - name: efficiency_source
+              description: Source of efficiency data
+              type: string
+              format: default
+            - name: network_node
+              description: Connection point to the electricity grid 
+              type: string
+              format: default
+            - name: voltage
+              description: Grid or transformation level of the network node
+              type: string
+              format: default
+            - name: network_operator
+              description: Network operator of the grid or transformation level
+              type: string
+              format: default
+            - name: name_uba
+              description: Power plant name according to UBA data
+              type: string
+              format: default
+            - name: lat
+              description: Precise geographic coordinates - latitude
+              type: number
+              format: default
+            - name: lon
+              description: Precise geographic coordinates - longitude
+              type: number
+              format: default
+            - name: comment
+              description: Further comments
+              type: string
+              format: default
+    - path: conventional_power_plants_DE.xlsx
+      format: xlsx
+      mediatype: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet    
+
+licenses:
+    - type: MIT License
+      url: http://www.opensource.org/licenses/MIT
+
+sources:
+    - name: BNetzA Kraftwerksliste,
+      web: http://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/kraftwerksliste-node.html
+    - name: Umweltbundesamt Datenbank Kraftwerke in Deutschland,
+      web: http://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland
+
+maintainers:
+    - name: Clemens Gerbaulet
+      email: cfg@wip.tu-berlin.de
+      web: http://open-power-system-data.org/
+    - name: Friedrich Kunz
+      email: fkunz@diw.de
+      web: http://open-power-system-data.org/
+
+views:
+    # You can put hints here which kind of graphs or maps make sense to display your data. This makes the 
+    # Data Package Viewer at http://data.okfn.org/tools/view automatically display visualazations of your data.
+    # See http://data.okfn.org/doc/data-package#views for more details.    
+
+# extend your datapackage.json with attributes that are not
+# part of the data package spec
+# you can add your own attributes to a datapackage.json, too
+
+openpowersystemdata-enable-listing: True  # This is just an example we don't actually make use of yet.
+
+opsd-jupyter-notebook-url: https://github.com/Open-Power-System-Data/datapackage_power_plants/blob/master/Power_Plants_DE.ipynb
