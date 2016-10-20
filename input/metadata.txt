@@ -1,9 +1,14 @@
-title: conventional_power_plants
+name: opsd-conventional-power-plants
+title: Conventional power plants
 description: List of conventional power plants in Germany and selected European countries
 long_description: This datapackage contains data on conventional power plants for Germany as well as other selected European countries. The data includes individual power plants with their technical characteristics. These include installed capacity, main energy source, type of technology, CHP capability, and geographical information. The geographical scope is primarily on Germany and its neighboring countries. It will be extended to other European countries if power plant information are publicly available.
 version: "2016-10-20"
-keywords: [conventional power plants, Germany]
-geographical-scope: Germany, Poland, etc.
+keywords: 
+    - conventional power plants
+    - Open Power System Data
+    - Germany
+    - Europe
+geographical-scope: Germany, Poland, Belgium, the Netherlands, France, Switzerland, Czech Republic
 last_changes: optimizations
 sources:
     - name: BNetzA Kraftwerksliste,
