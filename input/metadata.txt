@@ -24,17 +24,22 @@ maintainers:
       email: fkunz@diw.de
       web: http://open-power-system-data.org/
 
-documentation: https://github.com/Open-Power-System-Data/datapackage_power_plants/blob/master/Power_Plants_DE.ipynb
+documentation: https://github.com/Open-Power-System-Data/datapackage_power_plants/blob/master/main.ipynb
 
 resources:
     - path: conventional_power_plants_DE.csv
       format: csv
       mediatype: text/csv
-      schema:  # Schema according to: http://dataprotocols.org/json-table-schema/        
+      encoding: UTF8
+      dialect:
+        csvddfversion: 1.0
+        delimiter: ","
+        lineterminator: "\\n"
+        header: true
+      schema: # Schema according to: http://dataprotocols.org/json-table-schema/        
         fields:
             - name: id
-              description: Power plant ID based on the ID provided in the
-                  BNetzA-list.
+              description: Power plant ID based on the ID provided in the BNetzA-list.
               type: string
             - name: country_code
               description: Two-letter ISO code
@@ -81,6 +86,15 @@ resources:
             - name: fuel
               description: Used fuel or energy source
               type: string
+            - name: energy_source_level_1
+              description: Energy source level 1 according to the documentation
+              type: string
+            - name: energy_source_level_2
+              description: Energy source level 2 according to the documentation
+              type: string     
+            - name: energy_source_level_3
+              description: Energy source level 3 according to the documentation
+              type: string                       
             - name: technology
               description: Power plant technology or sort
               type: string
@@ -186,6 +200,15 @@ resources:
             - name: fuel
               description: Used fuel or energy source
               type: string
+            - name: energy_source_level_1
+              description: Energy source level 1 according to the documentation
+              type: string
+            - name: energy_source_level_2
+              description: Energy source level 2 according to the documentation
+              type: string     
+            - name: energy_source_level_3
+              description: Energy source level 3 according to the documentation
+              type: string                          
             - name: technology
               description: Power plant technology or sort
               type: string
