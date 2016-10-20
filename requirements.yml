@@ -1,0 +1,16 @@
+name: conventional_power_plants
+
+channels:
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - python=3.5
+  - bokeh=0.12.2
+  - matplotlib
+  - notebook  # jupyter notebook
+  - numpy=1.11.1
+  - pandas=0.18.1
+  - pyproj
+  - pyyaml=3.12
+  - xlsxwriter
