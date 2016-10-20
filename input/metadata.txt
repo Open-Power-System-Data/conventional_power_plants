@@ -24,7 +24,7 @@ maintainers:
       email: fkunz@diw.de
       web: http://open-power-system-data.org/
 
-documentation: https://github.com/Open-Power-System-Data/datapackage_power_plants/blob/master/Power_Plants_DE.ipynb
+documentation: https://github.com/Open-Power-System-Data/datapackage_power_plants/blob/master/main.ipynb
 
 resources:
     - path: conventional_power_plants_DE.csv
