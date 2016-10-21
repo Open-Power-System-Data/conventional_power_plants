@@ -15,6 +15,20 @@ sources:
       web: http://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/kraftwerksliste-node.html
     - name: Umweltbundesamt Datenbank Kraftwerke in Deutschland
       web: http://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland
+    - name: ELIA Generation facilities (BE)
+      web: http://publications.elia.be/upload/ProductionParkOverview.xls?TS=20120416193815
+    - name: TenneT Available capacity 2015 (NL)
+      web: http://www.tennet.org/english/operational_management/export_data.aspx
+    - name: RTE List of production units with more than 100MW (FR)
+      web: https://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp
+    - name: GPI List of generation units (PL)
+      web: http://gpi.tge.pl/en/wykaz-jednostek;jsessionid=C2472043DF326CED2F9C0840B503F5B0.gpi-app1
+    - name: CEPS Available capacity (CZ)
+      web: https://www.ceps.cz/ENG/Data/Vsechna-data/Pages/Instalovany-vykon.aspx
+    - name: BFE Statistik der Wasserkraftanlagen der Schweiz (CH)
+      web: http://www.bfe.admin.ch/themen/00490/00491/index.html?lang=de&dossier_id=01049
+    - name: BFE Nuclear Energy (CH)
+      web: http://www.bfe.admin.ch/themen/00511/index.html?lang=en
 
 maintainers:
     - name: Clemens Gerbaulet
@@ -260,4 +274,127 @@ resources:
             - name: comment
               description: Further comments
               type: string 
-
+    - path: conventional_power_plants_EU.csv
+      format: csv
+      mediatype: text/csv
+      encoding: UTF8
+      dialect:
+        csvddfversion: 1.0
+        delimiter: ","
+        lineterminator: "\\n"
+        header: true
+      schema: # Schema according to: http://dataprotocols.org/json-table-schema/        
+        fields:
+            - name: name
+              description: Power plant name as specified in national data sources
+              type: string
+            - name: company
+              description: Company name
+              type: string
+            - name: street
+              description: Street as specified in national data source
+              type: string
+            - name: postcode
+              description: Postcode as specified in national data sourcee
+              type: string
+            - name: city
+              description: City as specified in national data source
+              type: string
+            - name: country
+              description: Two-letter ISO code
+              type: string  
+            - name: capacity
+              description: Installed generation capacity in MW
+              type: number
+            - name: technology
+              description: Power plant technology (e.g., gas turbine, steam turbine)
+              type: string
+            - name: additional_info
+              description: Additional information on power plants as provided in national data source
+              type: string
+            - name: energy_source (e.g., hard coal, lignite, nuclear)
+              description: Input energy source
+              type: string
+            - name: type
+              description: Purpose of the produced power (e.g. CHP or IPP)
+              type: string
+            - name: chp
+              description: Status of being able to supply heat
+              type: boolean
+            - name: commissioned
+              description: Year of commissioning formatted as integer, using data from BNetzA and UBA
+              type: integer
+            - name: comment
+              description: Own OPSD comments on data entries (e.g., errors, missing data, inconsistencies)
+              type: string
+            - name: source
+              description: Source of information
+              type: string
+            - name: eic_code
+              description: Experimental: EIC code
+              type: string
+            - name: lat
+              description: Precise geographic coordinates - latitude
+              type: number
+            - name: lon
+              description: Precise geographic coordinates - longitude
+              type: number
+    - path: conventional_power_plants_EU.xlsx
+      format: xlsx
+      mediatype: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet   
+      schema:  # Schema according to: http://dataprotocols.org/json-table-schema/        
+        fields:
+            - name: name
+              description: Power plant name as specified in national data sources
+              type: string
+            - name: company
+              description: Company name
+              type: string
+            - name: street
+              description: Street as specified in national data source
+              type: string
+            - name: postcode
+              description: Postcode as specified in national data sourcee
+              type: string
+            - name: city
+              description: City as specified in national data source
+              type: string
+            - name: country
+              description: Two-letter ISO code
+              type: string  
+            - name: capacity
+              description: Installed generation capacity in MW
+              type: number
+            - name: technology
+              description: Power plant technology (e.g., gas turbine, steam turbine)
+              type: string
+            - name: additional_info
+              description: Additional information on power plants as provided in national data source
+              type: string
+            - name: energy_source (e.g., hard coal, lignite, nuclear)
+              description: Input energy source
+              type: string
+            - name: type
+              description: Purpose of the produced power (e.g. CHP or IPP)
+              type: string
+            - name: chp
+              description: Status of being able to supply heat
+              type: boolean
+            - name: commissioned
+              description: Year of commissioning formatted as integer, using data from BNetzA and UBA
+              type: integer
+            - name: comment
+              description: Own OPSD comments on data entries (e.g., errors, missing data, inconsistencies)
+              type: string
+            - name: source
+              description: Source of information
+              type: string
+            - name: eic_code
+              description: Experimental: EIC code
+              type: string
+            - name: lat
+              description: Precise geographic coordinates - latitude
+              type: number
+            - name: lon
+              description: Precise geographic coordinates - longitude
+              type: number
