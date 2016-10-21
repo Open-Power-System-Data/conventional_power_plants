@@ -11,9 +11,9 @@ keywords:
 geographical-scope: Germany, Poland, Belgium, the Netherlands, France, Switzerland, Czech Republic
 last_changes: optimizations
 sources:
-    - name: BNetzA Kraftwerksliste,
+    - name: BNetzA Kraftwerksliste
       web: http://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/kraftwerksliste-node.html
-    - name: Umweltbundesamt Datenbank Kraftwerke in Deutschland,
+    - name: Umweltbundesamt Datenbank Kraftwerke in Deutschland
       web: http://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland
 
 maintainers:
