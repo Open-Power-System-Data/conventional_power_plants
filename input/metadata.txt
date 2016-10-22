@@ -331,7 +331,7 @@ resources:
               description: Source of information
               type: string
             - name: eic_code
-              description: Experimental: EIC code
+              description: EIC code
               type: string
             - name: lat
               description: Precise geographic coordinates - latitude
@@ -390,7 +390,7 @@ resources:
               description: Source of information
               type: string
             - name: eic_code
-              description: Experimental: EIC code
+              description: EIC code
               type: string
             - name: lat
               description: Precise geographic coordinates - latitude
