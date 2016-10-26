@@ -30,7 +30,7 @@ sources:
     - name: BFE Nuclear Energy (CH)
       web: http://www.bfe.admin.ch/themen/00511/index.html?lang=en
 
-maintainers:
+contributors:
     - name: Clemens Gerbaulet
       email: cfg@wip.tu-berlin.de
       web: http://open-power-system-data.org/
