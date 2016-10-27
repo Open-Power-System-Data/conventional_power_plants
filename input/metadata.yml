@@ -97,12 +97,14 @@ resources:
             - name: status
               description: Power plant status
               type: string
+              opsd-contentfilter: "true"
             - name: fuel
               description: Used fuel or energy source
               type: string
             - name: energy_source_level_1
               description: Energy source level 1 according to the documentation
               type: string
+              opsd-contentfilter: "true"
             - name: energy_source_level_2
               description: Energy source level 2 according to the documentation
               type: string     
@@ -112,6 +114,7 @@ resources:
             - name: technology
               description: Power plant technology or sort
               type: string
+              opsd-contentfilter: "true"
             - name: type
               description: Purpose of the produced power
               type: string
@@ -303,18 +306,21 @@ resources:
             - name: country
               description: Two-letter ISO code
               type: string  
+              opsd-contentfilter: "true"
             - name: capacity
               description: Installed generation capacity in MW
               type: number
             - name: technology
               description: Power plant technology (e.g., gas turbine, steam turbine)
               type: string
+              opsd-contentfilter: "true"
             - name: additional_info
               description: Additional information on power plants as provided in national data source
               type: string
             - name: energy_source (e.g., hard coal, lignite, nuclear)
               description: Input energy source
               type: string
+              opsd-contentfilter: "true"
             - name: type
               description: Purpose of the produced power (e.g. CHP or IPP)
               type: string
@@ -342,6 +348,7 @@ resources:
             - name: energy_source_level_1
               description: Energy source level 1 according to the documentation
               type: string
+              opsd-contentfilter: "true"
             - name: energy_source_level_2
               description: Energy source level 2 according to the documentation
               type: string     
