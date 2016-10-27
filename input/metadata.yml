@@ -317,8 +317,8 @@ resources:
             - name: additional_info
               description: Additional information on power plants as provided in national data source
               type: string
-            - name: energy_source (e.g., hard coal, lignite, nuclear)
-              description: Input energy source
+            - name: energy_source
+              description: Input energy source  (e.g., hard coal, lignite, nuclear)
               type: string
               opsd-contentfilter: "true"
             - name: type
@@ -387,8 +387,8 @@ resources:
             - name: additional_info
               description: Additional information on power plants as provided in national data source
               type: string
-            - name: energy_source (e.g., hard coal, lignite, nuclear)
-              description: Input energy source
+            - name: energy_source
+              description: Input energy source  (e.g., hard coal, lignite, nuclear)
               type: string
             - name: type
               description: Purpose of the produced power (e.g. CHP or IPP)
