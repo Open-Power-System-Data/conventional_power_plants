@@ -339,6 +339,15 @@ resources:
             - name: lon
               description: Precise geographic coordinates - longitude
               type: number
+            - name: energy_source_level_1
+              description: Energy source level 1 according to the documentation
+              type: string
+            - name: energy_source_level_2
+              description: Energy source level 2 according to the documentation
+              type: string     
+            - name: energy_source_level_3
+              description: Energy source level 3 according to the documentation
+              type: string                       
     - path: conventional_power_plants_EU.xlsx
       format: xlsx
       mediatype: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet   
@@ -398,3 +407,12 @@ resources:
             - name: lon
               description: Precise geographic coordinates - longitude
               type: number
+            - name: energy_source_level_1
+              description: Energy source level 1 according to the documentation
+              type: string
+            - name: energy_source_level_2
+              description: Energy source level 2 according to the documentation
+              type: string     
+            - name: energy_source_level_3
+              description: Energy source level 3 according to the documentation
+              type: string                       
