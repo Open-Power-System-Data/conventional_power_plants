@@ -310,6 +310,10 @@ resources:
             - name: capacity
               description: Installed generation capacity in MW
               type: number
+            - name: energy_source
+              description: Input energy source  (e.g., hard coal, lignite, nuclear)
+              type: string
+              opsd-contentfilter: "true"
             - name: technology
               description: Power plant technology (e.g., gas turbine, steam turbine)
               type: string
@@ -317,10 +321,6 @@ resources:
             - name: additional_info
               description: Additional information on power plants as provided in national data source
               type: string
-            - name: energy_source
-              description: Input energy source  (e.g., hard coal, lignite, nuclear)
-              type: string
-              opsd-contentfilter: "true"
             - name: type
               description: Purpose of the produced power (e.g. CHP or IPP)
               type: string
@@ -329,7 +329,7 @@ resources:
               type: boolean
             - name: commissioned
               description: Year of commissioning formatted as integer, using data from BNetzA and UBA
-              type: integer
+              type: number
             - name: comment
               description: Own OPSD comments on data entries (e.g., errors, missing data, inconsistencies)
               type: string
@@ -381,14 +381,14 @@ resources:
             - name: capacity
               description: Installed generation capacity in MW
               type: number
+            - name: energy_source
+              description: Input energy source  (e.g., hard coal, lignite, nuclear)
+              type: string
             - name: technology
               description: Power plant technology (e.g., gas turbine, steam turbine)
               type: string
             - name: additional_info
               description: Additional information on power plants as provided in national data source
-              type: string
-            - name: energy_source
-              description: Input energy source  (e.g., hard coal, lignite, nuclear)
               type: string
             - name: type
               description: Purpose of the produced power (e.g. CHP or IPP)
@@ -398,7 +398,7 @@ resources:
               type: boolean
             - name: commissioned
               description: Year of commissioning formatted as integer, using data from BNetzA and UBA
-              type: integer
+              type: number
             - name: comment
               description: Own OPSD comments on data entries (e.g., errors, missing data, inconsistencies)
               type: string
