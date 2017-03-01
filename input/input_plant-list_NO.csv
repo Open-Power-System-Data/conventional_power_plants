@@ -1,0 +1,82 @@
+company,name,street,postcode,city,country,capacity,energy_source,technology,additional_info,type,chp,commissioned,comment,source,eic_code,lat,lon
+,Åbjøra G1,,,,NO,100,Hydro,Reservoir,Zone: NO-1,,,,,Nordpool,50WP00000000855F,60.916976,9.378796
+,Alta G1,,,,NO,100,Hydro,Reservoir,Zone: NO-4,,,,,Nordpool,50WP00000000006N,69.705012,23.818703
+,Aurland 1 G1,,,,NO,230,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP00000000020T,60.86052,7.304738
+,Aurland 1 G2,,,,NO,230,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP00000000020T,60.86052,7.304738
+,Aurland 1 G3,,,,NO,230,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP00000000020T,60.86052,7.304738
+,Aurland 3 G1,,,,NO,140,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP00000000023N,60.80109,7.566662
+,Aurland 3 G2,,,,NO,150,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP00000000023N,60.80109,7.566662
+,Blåfalli vik G1,,,,NO,230,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000063B,59.846062,5.986961
+,Brokke G4,,,,NO,115,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,,59.124858,7.509912
+,Dale 2 G1,,,,NO,114,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP00000000100V,60.58344,5.81926
+,Duge G1,,,,NO,100,Hydro,Pumped storage,Zone: NO-2,,,,,Nordpool,50WP00000000119A,59.131931,6.89742
+,Duge G2,,,,NO,100,Hydro,Pumped storage,Zone: NO-2,,,,,Nordpool,50WP00000000119A,59.131931,6.89742
+,Evanger G1,,,,NO,110,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP00000000144B,60.656951,6.112152
+,Evanger G2,,,,NO,110,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP00000000144B,60.656951,6.112152
+,Evanger G3,,,,NO,110,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP00000000144B,60.656951,6.112152
+,Grytten G1,,,,NO,143,Hydro,Reservoir,Zone: NO-3,,,,,Nordpool,50WP000000002293,62.492536,8.804476
+,Holen 1-2 G1,,,,NO,120,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP000000002811,59.345375,7.249102
+,Holen 1-2 G2,,,,NO,120,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP000000002811,59.345375,7.249102
+,Holen 3 G1,,,,NO,175,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP000000002811,59.345375,7.249102
+,Jostedal G1,,,,NO,290,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP000000003281,61.526723,7.287339
+,Kobbelv G1,,,,NO,150,Hydro,Reservoir,Zone: NO-4,,,,,Nordpool,50WP00000000366U,67.62385,15.990489
+,Kobbelv G2,,,,NO,150,Hydro,Reservoir,Zone: NO-4,,,,,Nordpool,50WP00000000366U,67.62385,15.990489
+,Kvilldal G1,,,,NO,310,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000389I,59.521829,6.658071
+,Kvilldal G2,,,,NO,310,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000389I,59.521829,6.658071
+,Kvilldal G3,,,,NO,310,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000389I,59.521829,6.658071
+,Kvilldal G4,,,,NO,310,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000389I,59.521829,6.658071
+,Lang-Sima G3,,,,NO,250,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP000000008783,60.49965,7.14204
+,Lang-Sima G4,,,,NO,250,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP000000008783,60.49965,7.14204
+,Leirdøla G1,,,,NO,115,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP00000000411E,61.438633,7.244372
+,Mauranger G1,,,,NO,128,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP000000004512,60.130164,6.316389
+,Mauranger G2,,,,NO,128,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP000000004512,60.130164,6.316389
+,Myster G1,,,,NO,110,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP00000000480W,60.74044,5.80706
+,Naddvik G1,,,,NO,100,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP00000000488G,61.18224,7.63551
+,Naturkraft I G1,,,,NO,450,Natural gas,Combined cycle,Zone: NO-2,,,,,Nordpool,50WP00000000493N,59.274089,5.515715
+,N-Vinstra G5,,,,NO,108,Hydro,Reservoir,Zone: NO-1,,,,,Nordpool,,61.577808,9.803327
+,Oksla G1,,,,NO,220,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP000000005330,60.121184,6.556201
+,Rana G1,,,,NO,125,Hydro,Reservoir,Zone: NO-4,,,,,Nordpool,50WP00000000552X,66.286267,14.284172
+,Rana G2,,,,NO,125,Hydro,Reservoir,Zone: NO-4,,,,,Nordpool,50WP00000000552X,66.286267,14.284172
+,Rana G3,,,,NO,125,Hydro,Reservoir,Zone: NO-4,,,,,Nordpool,50WP00000000552X,66.286267,14.284172
+,Rana G4,,,,NO,125,Hydro,Reservoir,Zone: NO-4,,,,,Nordpool,50WP00000000552X,66.286267,14.284172
+,Saurdal G1,,,,NO,160,Hydro,Pumped storage,Zone: NO-2,,,,,Nordpool,50WP00000000607Y,59.484893,6.671228
+,Saurdal G2,,,,NO,160,Hydro,Pumped storage,Zone: NO-2,,,,,Nordpool,50WP00000000607Y,59.484893,6.671228
+,Saurdal G3,,,,NO,160,Hydro,Pumped storage,Zone: NO-2,,,,,Nordpool,50WP00000000607Y,59.484893,6.671228
+,Saurdal G4,,,,NO,160,Hydro,Pumped storage,Zone: NO-2,,,,,Nordpool,50WP00000000607Y,59.484893,6.671228
+,Siso G2,,,,NO,100,Hydro,Reservoir,Zone: NO-4,,,,,Nordpool,,67.32504,15.70731
+,Skjerka nye G1,,,,NO,104,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000632Z,58.55396,7.37625
+,Skjomen G1,,,,NO,100,Hydro,Reservoir,Zone: NO-4,,,,,Nordpool,50WP00000000633X,68.182858,17.349864
+,Skjomen G2,,,,NO,100,Hydro,Reservoir,Zone: NO-4,,,,,Nordpool,50WP00000000633X,68.182858,17.349864
+,Skjomen G3,,,,NO,100,Hydro,Reservoir,Zone: NO-4,,,,,Nordpool,50WP00000000633X,68.182858,17.349864
+,Solbergfoss 2 G1,,,,NO,100,Hydro,Reservoir,Zone: NO-1,,,,,Nordpool,50WP00000000651V,59.63611,11.112157
+,Solhom G1,,,,NO,100,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000653R,58.768486,7.020037
+,Solhom G2,,,,NO,100,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000653R,58.768486,7.020037
+,Songa G1,,,,NO,136,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000654P,59.777981,7.725929
+,Sønnå G1,,,,NO,103,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000718P,59.644269,6.368738
+,Sønnå G2,,,,NO,103,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000718P,59.644269,6.368738
+,Sundsbarm G1,,,,NO,110,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000687A,59.497689,8.634745
+,Svartisen G1,,,,NO,250,Hydro,Reservoir,Zone: NO-4,,,,,Nordpool,50WP00000000695B,66.728748,13.914312
+,Svartisen G2,,,,NO,350,Hydro,Reservoir,Zone: NO-4,,,,,Nordpool,50WP00000000695B,66.728748,13.914312
+,Sy-Sima G1,,,,NO,310,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP000000008791,60.497875,7.144529
+,Sy-Sima G2,,,,NO,310,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP000000008791,60.497875,7.144529
+,Tjodan G1,,,,NO,113,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000741U,59.05214,6.6524
+,Tokke G1,,,,NO,103,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000745M,59.444742,8.037991
+,Tokke G2,,,,NO,103,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000745M,59.444742,8.037991
+,Tokke G3,,,,NO,103,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000745M,59.444742,8.037991
+,Tokke G4,,,,NO,103,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000745M,59.444742,8.037991
+,Tonstad G1,,,,NO,160,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000747I,58.659281,6.717194
+,Tonstad G2,,,,NO,160,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000747I,58.659281,6.717194
+,Tonstad G3,,,,NO,160,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000747I,58.659281,6.717194
+,Tonstad G4,,,,NO,160,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000747I,58.659281,6.717194
+,Tonstad G5,,,,NO,320,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000747I,58.659281,6.717194
+,Trollheim G1,,,,NO,130,Hydro,Reservoir,Zone: NO-3,,,,,Nordpool,50WP00000000755J,63.002761,9.019152
+,Tyin G1,,,,NO,195,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP00000000771L,61.31018,7.83131
+,Tyin G2,,,,NO,195,Hydro,Reservoir,Zone: NO-5,,,,,Nordpool,50WP00000000771L,61.31018,7.83131
+,Tysso 2 G1,,,,NO,110,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000775D,60.12838,6.629255
+,Tysso 2 G2,,,,NO,110,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000775D,60.12838,6.629255
+,Vamma G11,,,,NO,105,Hydro,Reservoir,Zone: NO-1,,,,,Nordpool,,59.542616,11.170011
+,Vemork G1,,,,NO,101,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000807Q,59.87119,8.49219
+,Vemork G2,,,,NO,101,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000807Q,59.87119,8.49219
+,Vinje G1,,,,NO,103,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000822U,59.61641,7.856513
+,Vinje G2,,,,NO,103,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000822U,59.61641,7.856513
+,Vinje G3,,,,NO,103,Hydro,Reservoir,Zone: NO-2,,,,,Nordpool,50WP00000000822U,59.61641,7.856513

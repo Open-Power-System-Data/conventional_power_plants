@@ -1,0 +1,153 @@
+company,name,street,postcode,city,country,capacity,energy_source,technology,additional_info,type,chp,commissioned,comment,source,eic_code,lat,lon
+,Abwinden-Asten,,,,AT,168.0,Hydro,Run-of-river,,,,1980.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.248186,14.429929
+,Altenmarkt,,,,AT,26.0,Hydro,Run-of-river,,,,1960.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+,Altenwörth,,,,AT,328.0,Hydro,Run-of-river,,,,1976.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.374728,15.855343
+,Annabrücke,,,,AT,90.0,Hydro,Run-of-river,,,,1981.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.561407,14.479829
+,Arnstein,,,,AT,30.0,Hydro,Reservoir,,,,1925.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.01822,15.16064
+,Aschach,,,,AT,287.0,Hydro,Run-of-river,,,,1964.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.385414,14.0227
+,Bischofshofen,,,,AT,16.0,Hydro,Run-of-river,,,,1986.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.4069,13.220614
+,Bodendorf-Mur,,,,AT,7.0,Hydro,Run-of-river,,,,1982.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.107688,14.065071
+,Bodendorf-Paal,,,,AT,27.0,Hydro,Reservoir,,,,1982.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.107717,14.065156
+,Bösdornau,,,,AT,25.0,Hydro,Reservoir,,,,1940.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.15192,11.833298
+,Braunau-Simbach,,,,AT,100.0,Hydro,Run-of-river,,,,1954.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.244957,13.0075
+,Dionysen,,,,AT,16.0,Hydro,Run-of-river,,,,1949.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+,Edling,,,,AT,87.0,Hydro,Run-of-river,,,,1962.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.628959,14.701371
+,Egglfing-Obernberg,,,,AT,84.0,Hydro,Run-of-river,,,,1944.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.319842,13.318739
+,Ering-Frauenstein,,,,AT,72.0,Hydro,Run-of-river,,,,1943.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.290628,13.159357
+,Erzbach,,,,AT,1.0,Hydro,Run-of-river,,,,1986.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.573384,14.839885
+,Feistritz-Ludmannsdorf,,,,AT,88.0,Hydro,Run-of-river,,,,1968.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.534807,14.170814
+,Ferlach-Maria Rain,,,,AT,75.0,Hydro,Run-of-river,,,,1975.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.546625,14.298528
+,Fisching,,,,AT,22.0,Hydro,Run-of-river,,,,1994.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.1743,14.723143
+,Friesach,,,,AT,12.0,Hydro,Run-of-river,,,,1998.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.186513,15.336014
+,Funsingau,,,,AT,25.0,Hydro,Reservoir,,,,1968.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.235342,12.05805
+,Gabersdorf,,,,AT,14.0,Hydro,Run-of-river,,,,1974.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.785118,15.585557
+,Garsten-St. Ulrich,,,,AT,38.0,Hydro,Run-of-river,,,,1967.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.018488,14.411714
+,Gemeinschaftskraftwerk Inn,,,,AT,89.0,Hydro,Run-of-river,,,,,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.062954,10.662868
+,Gerlos,,,,AT,200.0,Hydro,Reservoir,,,,1949.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.233704,11.899669
+,Gössendorf,,,,AT,19.0,Hydro,Run-of-river,,,,2012.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.997841,15.467519
+,Gralla,,,,AT,15.0,Hydro,Run-of-river,,,,2012.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.828285,15.566222
+,Gratkorn,,,,AT,11.0,Hydro,Run-of-river,,,,,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.139091,15.328046
+,Graz Puntigam,,,,AT,16.0,Hydro,Run-of-river,,,,,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.039749,15.442537
+,Greifenstein,,,,AT,293.0,Hydro,Run-of-river,,,,1985.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.355951,16.241844
+,Gries,,,,AT,9.0,Hydro,Run-of-river,,,,,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.287673,12.885052
+,Großraming,,,,AT,72.0,Hydro,Run-of-river,,,,1950.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.892954,14.512341
+,Gstatterboden,,,,AT,2.0,Hydro,Run-of-river,,,,2009.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+,Gunggl,,,,AT,4.0,Hydro,Run-of-river,,,,1992.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.09048,11.792702
+,Häusling,,,,AT,360.0,Hydro,Reservoir,,,,1988.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.146432,11.967219
+,Hieflau,,,,AT,63.0,Hydro,Reservoir,,,,2009.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.605957,14.742821
+,Hieflau-Erzbach,,,,AT,1.0,Hydro,Run-of-river,,,,1956.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.6056,14.74317
+,Hirzbach,,,,AT,1.0,Hydro,Run-of-river,,,,2012.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+,Jettenbach I,,,,AT,1.0,Hydro,Run-of-river,,,,1924.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.178615,12.383643
+,Jettenbach II,,,,AT,5.0,Hydro,Run-of-river,,,,2004.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.177714,12.381857
+,Jochenstein,,,,AT,132.0,Hydro,Run-of-river,,,,1956.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.518812,13.707428
+,Kalsdorf,,,,AT,19.0,Hydro,Run-of-river,,,,2013.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.944097,15.50363
+,Kaprun Hauptstufe,,,,AT,240.0,Hydro,Reservoir,,,,1953.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.259591,12.738799
+,Kaprun Limberg II,,,,AT,480.0,Hydro,Reservoir,,,,2011.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.198206,12.720008
+,Kaprun Oberstufe,,,,AT,113.0,Hydro,Reservoir,,,,1956.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.197317,12.719513
+,Kellerberg,,,,AT,25.0,Hydro,Run-of-river,,,,1985.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.669879,13.725482
+,Klammsee,,,,AT,1.0,Hydro,Run-of-river,,,,1947.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.259384,12.738691
+,Klaus,,,,AT,20.0,Hydro,Run-of-river,,,,1975.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.82845,14.157217
+,Kolbnitz Trinkwasser,,,,AT,1.0,Hydro,Run-of-river,,,,2005.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.880169,13.31654
+,Kreuzbergmaut,,,,AT,18.0,Hydro,Run-of-river,,,,1996.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.441364,13.210862
+,Kreuzeck Tagesspeicher,,,,AT,45.0,Hydro,Reservoir,,,,1960.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.872977,13.311516
+,Krippau,,,,AT,30.0,Hydro,Run-of-river,,,,1965.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.703511,14.689298
+,Landl,,,,AT,25.0,Hydro,Run-of-river,,,,1967.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.651131,14.750286
+,Laufnitzdorf,,,,AT,18.0,Hydro,Run-of-river,,,,1931.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.292402,15.323134
+,Lavamünd,,,,AT,28.0,Hydro,Run-of-river,,,,1949.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.643429,14.937028
+,Lebring,,,,AT,20.0,Hydro,Run-of-river,,,,1988.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.857847,15.5373
+,Leoben,,,,AT,10.0,Hydro,Run-of-river,,,,2005.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.388476,15.095161
+,Limberg III,,,,AT,480.0,Hydro,Reservoir,,,,,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.198085,12.720278
+,Losenstein,,,,AT,39.0,Hydro,Run-of-river,,,,1962.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.923315,14.433857
+,Malta Hauptstufe,,,,AT,730.0,Hydro,Reservoir,,,,1979.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.870564,13.329601
+,Malta Oberstufe,,,,AT,120.0,Hydro,Reservoir,,,,1979.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.065944,13.353102
+,Malta Unterstufe,,,,AT,41.0,Hydro,Run-of-river,,,,1979.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.8332,13.360071
+,Mandling,,,,AT,6.0,Hydro,Run-of-river,,,,1985.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.399874,13.581941
+,Mayrhofen,,,,AT,355.0,Hydro,Reservoir,,,,1977.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.158171,11.850272
+,Melk,,,,AT,187.0,Hydro,Run-of-river,,,,1982.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.223472,15.304143
+,Mellach Laufkraftwerk,,,,AT,16.0,Hydro,Run-of-river,,,,1985.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.911629,15.486243
+,Mühldorf,,,,AT,1.0,Hydro,Run-of-river,,,,1925.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.860839,13.347763
+,Mühlrading,,,,AT,25.0,Hydro,Run-of-river,,,,1948.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.131686,14.473996
+,Neuötting,,,,AT,26.0,Hydro,Run-of-river,,,,1951.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.249729,12.691057
+,Niklai,,,,AT,2.0,Hydro,Run-of-river,,,,1960.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.823629,13.295556
+,Nussdorf,,,,AT,48.0,Hydro,Run-of-river,,,,1982.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.744692,12.134782
+,Nußdorf bei Wien,,,,AT,5.0,Hydro,Run-of-river,,,,2005.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.259257,16.369185
+,Oberaudorf-Ebbs,,,,AT,60.0,Hydro,Run-of-river,,,,1992.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.641158,12.1984
+,Obervogau,,,,AT,13.0,Hydro,Run-of-river,,,,1978.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.745776,15.571428
+,Ottensheim-Wilhering,,,,AT,179.0,Hydro,Run-of-river,,,,1975.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.3165,14.151057
+,Pack,,,,AT,1.0,Hydro,Reservoir,,,,1931.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.979012,15.022876
+,Passau-Ingling,,,,AT,86.0,Hydro,Run-of-river,,,,1966.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.553672,13.435228
+,Paternion,,,,AT,24.0,Hydro,Run-of-river,,,,1988.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.720841,13.645572
+,Peggau,,,,AT,13.0,Hydro,Run-of-river,,,,1965.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.20926,15.335656
+,Pernegg,,,,AT,22.0,Hydro,Run-of-river,,,,2013.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.365229,15.334486
+,Pichlern,,,,AT,2.0,Hydro,Run-of-river,,,,2005.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.022415,14.322989
+,Pöls,,,,AT,2.0,Hydro,Run-of-river,,,,1904.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.217744,14.599075
+,Rabenstein,,,,AT,14.0,Hydro,Run-of-river,,,,1987.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.251148,15.31034
+,Ramsaubach,,,,AT,1.0,Hydro,Run-of-river,,,,1985.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.531152,14.886815
+,Reißeck Jahresspeicher,,,,AT,68.0,Hydro,Reservoir,,,,1962.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.873171,13.311824
+,Reißeck Tagesspeicher,,,,AT,23.0,Hydro,Reservoir,,,,1953.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.87281,13.311533
+,Retznei,,,,AT,1.0,Hydro,Run-of-river,,,,1992.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.744338,15.570455
+,Rosegg-St. Jakob,,,,AT,80.0,Hydro,Run-of-river,,,,1974.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.569737,14.026774
+,Rosenau,,,,AT,34.0,Hydro,Run-of-river,,,,1953.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.992886,14.376871
+,Roßhag,,,,AT,231.0,Hydro,Reservoir,,,,1972.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.086876,11.774061
+,Salza,,,,AT,8.0,Hydro,Reservoir,,,,1949.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.491345,13.956943
+,Schärding-Neuhaus,,,,AT,96.0,Hydro,Run-of-river,,,,1966.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.435486,13.440387
+,Schönau,,,,AT,30.0,Hydro,Run-of-river,,,,1972.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.775426,14.650605
+,Schwabeck,,,,AT,79.0,Hydro,Run-of-river,,,,1943.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.658193,14.873028
+,Schwarzach,,,,AT,120.0,Hydro,Reservoir,,,,1960.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.315375,13.138786
+,Sölk,,,,AT,61.0,Hydro,Reservoir,,,,1978.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.433855,13.948905
+,Spielfeld,,,,AT,13.0,Hydro,Run-of-river,,,,1982.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.716449,15.62127
+,St. Georgen,,,,AT,6.0,Hydro,Run-of-river,,,,1985.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.104453,14.087593
+,St. Johann,,,,AT,16.0,Hydro,Run-of-river,,,,1991.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.338685,13.197147
+,St. Martin,,,,AT,10.0,Hydro,Reservoir,,,,1965.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.987392,15.091178
+,St. Pantaleon,,,,AT,52.0,Hydro,Run-of-river,,,,1966.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.224936,14.53116
+,St. Veit,,,,AT,16.0,Hydro,Run-of-river,,,,1989.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.321488,13.174577
+,Staning,,,,AT,43.0,Hydro,Run-of-river,,,,1946.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.098607,14.468763
+,Steinfeld,,,,AT,1.0,Hydro,Run-of-river,,,,1963.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.760732,13.2476
+,Stübing,,,,AT,12.0,Hydro,Run-of-river,,,,,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.175225,15.320385
+,Talbach,,,,AT,1.0,Hydro,Run-of-river,,,,1897.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.39026,13.685191
+,Teigitschmühle,,,,AT,1.0,Hydro,Run-of-river,,,,1926.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.021513,15.166537
+,Ternberg,,,,AT,40.0,Hydro,Run-of-river,,,,1949.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.941095,14.35266
+,Triebenbach,,,,AT,10.0,Hydro,Run-of-river,,,,1995.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.492176,14.472268
+,Tuxbach,,,,AT,1.0,Hydro,Run-of-river,,,,1930.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.151436,11.832163
+,Unterer Tuxbach – Kleinkraftwerk Stillupp,,,,AT,2.0,Hydro,Run-of-river,,,,,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.120332,11.865024
+,Urreiting,,,,AT,16.0,Hydro,Run-of-river,,,,1986.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.374752,13.210196
+,Villach,,,,AT,25.0,Hydro,Run-of-river,,,,1984.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.632859,13.829237
+,Vordernberg,,,,AT,1.0,Hydro,Run-of-river,,,,1987.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.495437,14.99248
+,Wallnerau Salzachstufe,,,,AT,13.0,Hydro,Run-of-river,,,,1990.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.31608,13.140994
+,Wallnerau Unterwasserstufe,,,,AT,5.0,Hydro,Run-of-river,,,,1989.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.315609,13.140893
+,Wallsee-Mitterkirchen,,,,AT,210.0,Hydro,Run-of-river,,,,1969.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.166415,14.695103
+,Weinzödl,,,,AT,16.0,Hydro,Run-of-river,,,,1982.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.108388,15.392094
+,Weissenegg,,,,AT,1.0,Hydro,Run-of-river,,,,1985.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,46.912548,15.486664
+,Werfen-Pfarrwerfen,,,,AT,16.0,Hydro,Run-of-river,,,,2009.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,47.472081,13.193148
+,Weyer,,,,AT,37.0,Hydro,Run-of-river,,,,1969.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+,Wien-Freudenau,,,,AT,172.0,Hydro,Run-of-river,,,,1999.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.176872,16.481754
+,Ybbs 2020 - Turbinenerneuerung,,,,AT,18.0,Hydro,Run-of-river,,,,,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.189357,15.067755
+,Ybbs-Persenbeug,,,,AT,236.0,Hydro,Run-of-river,,,,1960.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,48.189357,15.067755
+, Bachwinkl,,,,AT,0.12,Hydro,Run-of-river,,,,,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Bärenwerk,,,,AT,11.6,Hydro,Reservoir,,,,,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Bischofshofen,,,,AT,16.0,Hydro,Run-of-river,,,,1984.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Böckstein,,,,AT,44.5,Hydro,Reservoir,,,,1981.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Dießbach,,,,AT,24.0,Hydro,Reservoir,,,,,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Eichetmühle,,,,AT,0.14,Hydro,Run-of-river,,,,1899.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Gamp,,,,AT,8.6,Hydro,Run-of-river,,,,2007.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Hammer,,,,AT,0.1,Hydro,Run-of-river,,,,,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Hintermuhr,,,,AT,36.0,Hydro,Pumped storage,,,,1991.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Hollersbach,,,,AT,5.2,Hydro,Reservoir,,,,2010.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Kreuzbergmaut,,,,AT,17.7,Hydro,Run-of-river,,,,1995.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Murfall,,,,AT,0.78,Hydro,Reservoir,,,,,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Nassfeld,,,,AT,31.5,Hydro,Pumped storage,,,,1982.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Remsach,,,,AT,30.9,Hydro,Reservoir,,,,1995.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Rotgülden,,,,AT,4.9,Hydro,Reservoir,,,,,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Rott,,,,AT,5.0,Hydro,Run-of-river,,,,2004.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Sohlstufe Hallein,,,,AT,11.7,Hydro,Run-of-river,,,,1987.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Sohlstufe Lehen,,,,AT,13.7,Hydro,Run-of-river,,,,2013.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, St. Johann,,,,AT,16.5,Hydro,Run-of-river,,,,1990.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Strubklamm,,,,AT,15.0,Hydro,Reservoir,,,,1984.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Trattenbach,,,,AT,5.0,Hydro,Reservoir,,,,2005.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Urreiting,,,,AT,16.5,Hydro,Run-of-river,,,,1985.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Urstein,,,,AT,22.0,Hydro,Run-of-river,,,,1971.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Wald,,,,AT,23.5,Hydro,Reservoir,,,,1988.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Werfen/Pfarrwerfen,,,,AT,16.0,Hydro,Run-of-river,,,,2009.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Wiestal,,,,AT,28.0,Hydro,Reservoir,,,,1977.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Wiestal-Ausgleichsbecken,,,,AT,0.22,Hydro,Reservoir,,,,2005.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
+, Zederhaus,,,,AT,9.8,Hydro,Reservoir,,,,1984.0,,https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke,,,
