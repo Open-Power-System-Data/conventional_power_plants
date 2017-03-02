@@ -17,11 +17,11 @@ company,name,street,postcode,city,country,capacity,energy_source,technology,addi
 ,Kyndby Power Station (Unit 22),,,,DK ,260,Oil,,Zone: East (DK2),,,1976,,Energinet DK,1,45V0000000000083,55.81028,11.87987
 ,Kyndby Power Station (Unit 41),,,,DK ,20,Oil,,Zone: East (DK2),,,1974,,Energinet DK,1,45V0000000000083,55.81028,11.87987
 ,Kyndby Power Station (Unit 51+52),,,,DK ,125,Oil,,Zone: East (DK2),,,1973,,Energinet DK,1,45V0000000000083,55.81028,11.87987
-,Masnedø Power Station (Unit 31),,,,DK ,70,UNKNOWN,,Zone: East (DK2),,,1975,,Energinet DK,1,,54.99552,11.88538
+,Masnedø Power Station (Unit 31),,,,DK ,70,Other or unspecified energy sources,,Zone: East (DK2),,,1975,,Energinet DK,1,,54.99552,11.88538
 ,Nordjylland Power Station (Gas Turbine Unit),,,,DK ,25,Hard coal,Steam turbine,Zone: West (DK1),,,1976,,Energinet DK,1,45V0000000000156,57.0726,10.04252
 ,Nordjylland Power Station (Unit 2),,,,DK ,220,Hard coal,Steam turbine,Zone: West (DK1),,,1977,,Energinet DK,partly,45V0000000000156,57.0726,10.04252
 ,Nordjylland Power Station (Unit 3),,,,DK ,410,Hard coal,Steam turbine,Zone: West (DK1),,,1998,,Energinet DK,1,45V0000000000156,57.0726,10.04252
-,Østkraft,,,,DK ,90,UNKNOWN,,Zone: East (DK2),,,2014,,Energinet DK,1,,55.09371,14.69715
+,Østkraft,,,,DK ,90,Other or unspecified energy sources,,Zone: East (DK2),,,2014,,Energinet DK,1,,55.09371,14.69715
 ,Skærbæk Power Station (Unit 3),,,,DK ,430,Natural gas,,Zone: West (DK1),,,1997,,Energinet DK,1,45V000000000010G,55.51132,9.61331
 ,Stigsnæs Power Station (Unit 2),,,,DK ,265,Mixed fossil fuels,,Zone: East (DK2),,,1970,,Energinet DK,0,45V0000000000172,55.20529,11.25351
 ,Studstrup Power Station (Unit 3),,,,DK ,380,Hard coal,Steam turbine,Zone: West (DK1),,,1984,,Energinet DK,1,45V0000000000148,56.24895,10.34725
