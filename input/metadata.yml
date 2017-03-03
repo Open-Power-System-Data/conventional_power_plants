@@ -1,34 +1,52 @@
 name: opsd-conventional-power-plants
 title: Conventional power plants
-description: List of conventional power plants in Germany and selected European countries
-long_description: This datapackage contains data on conventional power plants for Germany as well as other selected European countries. The data includes individual power plants with their technical characteristics. These include installed capacity, main energy source, type of technology, CHP capability, and geographical information. The geographical scope is primarily on Germany and its neighboring countries. It will be extended to other European countries if power plant information are publicly available.
-version: "2016-10-27"
+description: List of conventional power plants in Germany and European countries
+long_description: This datapackage contains data on conventional power plants for Germany as well as other selected European countries. The data includes individual power plants with their technical characteristics. These include installed capacity, main energy source, type of technology, CHP capability, and geographical information. The geographical scope is primarily on Germany and its neighboring countries. The datapackage currently covers Germany, Austria, Belgium, Switzerland, Czech Republic, Denmark, Spain, Finland, France, Italy, the Netherlands, Norway, Poland, Sweden, Slovakia, Slovenia, and United Kingdom. Due to varying data quality of publicly available data, not all information can be provided for each country. Sources for European countries comprise detailed power plants lists from national institutions, ministries, or market participants as well as manually compiled lists of power plants for countries without a system-wide power plant list. All data processing is conducted in Python and pandas, and has been documented in the Jupyter Notebooks linked below.
+version: "2017-03-03"
 keywords: 
     - conventional power plants
     - Open Power System Data
     - Germany
     - Europe
-geographical-scope: Germany, Poland, Belgium, the Netherlands, France, Switzerland, Czech Republic
-last_changes: release
+geographical-scope: Germany, Austria, Belgium, Switzerland, Czech Republic, Denmark, Spain, Finland, France, Italy, the Netherlands, Norway, Poland, Sweden, Slovakia, Slovenia, United Kingdom
+last_changes: Updated data sources and spatial coverage by more European countries
 sources:
     - name: BNetzA Kraftwerksliste
       web: http://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/kraftwerksliste-node.html
     - name: Umweltbundesamt Datenbank Kraftwerke in Deutschland
       web: http://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland
+    - name: Verbund AG hydro power plants (AT)
+      web: https://www.verbund.com/en-at/about-verbund/power-plants/our-power-plants
     - name: ELIA Generation facilities (BE)
       web: http://publications.elia.be/upload/ProductionParkOverview.xls?TS=20120416193815
-    - name: TenneT Available capacity 2015 (NL)
-      web: http://www.tennet.org/english/operational_management/export_data.aspx
-    - name: RTE List of production units with more than 100MW (FR)
-      web: https://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp
-    - name: GPI List of generation units (PL)
-      web: http://gpi.tge.pl/en/wykaz-jednostek;jsessionid=C2472043DF326CED2F9C0840B503F5B0.gpi-app1
-    - name: CEPS Available capacity (CZ)
-      web: https://www.ceps.cz/ENG/Data/Vsechna-data/Pages/Instalovany-vykon.aspx
     - name: BFE Statistik der Wasserkraftanlagen der Schweiz (CH)
       web: http://www.bfe.admin.ch/themen/00490/00491/index.html?lang=de&dossier_id=01049
     - name: BFE Nuclear Energy (CH)
       web: http://www.bfe.admin.ch/themen/00511/index.html?lang=en
+    - name: CEPS Available capacity (CZ)
+      web: https://www.ceps.cz/ENG/Data/Vsechna-data/Pages/Instalovany-vykon.aspx
+    - name: Energinet.dk List of power plants (DK)
+      web: https://www.energinet.dk/SiteCollectionDocuments/Engelske%20dokumenter/El/Energinet%20dk%27s%20assumptions%20for%20analysis%202014-2035,%20September%202014.xlsm
+    - name: SEDE Productores (ES)
+      web: https://sedeaplicaciones.minetur.gob.es/electra/BuscarDatos.aspx
+    - name: Energy authority Power plant register (FI)
+      web: http://www.energiavirasto.fi/documents/10191/0/Energiaviraston+Voimalaitosrekisteri+010117.xlsx
+    - name: RTE List of production units with more than 100MW (FR)
+      web: https://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp
+    - name: TERNA Installed generation capacity 2014 (IT)
+      web: http://www.terna.it/it-it/sistemaelettrico/transparencyreport/generation/installedgenerationcapacity.aspx
+    - name: TenneT Available capacity 2016 (NL)
+      web: http://www.tennet.org/english/operational_management/export_data.aspx
+    - name: Nordpool Power plant units (NO)
+      web: http://www.nordpoolspot.com/globalassets/download-center/tso/generation-capacity_norway_valid-from-2-december-2013_larger-than-100mw.pdf
+    - name: GPI List of generation units (PL)
+      web: http://gpi.tge.pl/en/wykaz-jednostek;jsessionid=C2472043DF326CED2F9C0840B503F5B0.gpi-app1
+    - name: Nordpool Power plant units (SE)
+      web: http://www.nordpoolspot.com/globalassets/download-center/tso/generation-capacity_sweden_larger-than-100mw-per-unit_17122014.pdf
+    - name: SEAS Power plants (SK)
+      web: https://www.seas.sk/power-plants
+    - name: Statistical office Power stations in the United Kingdom (Dukes 5.10) (UK)
+      web: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446457/dukes5_10.xls
 
 contributors:
     - name: Clemens Gerbaulet
@@ -38,7 +56,7 @@ contributors:
       email: fkunz@diw.de
       web: http://open-power-system-data.org/
 
-documentation: https://github.com/Open-Power-System-Data/conventional_power_plants/blob/2016-10-27/main.ipynb
+documentation: https://github.com/Open-Power-System-Data/conventional_power_plants/blob/2017-03-03/main.ipynb
 
 resources:
     - path: conventional_power_plants_DE.csv
