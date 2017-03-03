@@ -75,6 +75,9 @@ resources:
               type: string
             - name: country_code
               description: Two-letter ISO code
+              type: string
+            - name: eic_code
+              description: EIC code
               type: string  
             - name: company
               description: Company name
@@ -192,7 +195,10 @@ resources:
               type: string
             - name: country_code
               description: Two-letter ISO code
-              type: string  
+              type: string 
+            - name: eic_code
+              description: EIC code
+              type: string                 
             - name: company
               description: Company name
               type: string
