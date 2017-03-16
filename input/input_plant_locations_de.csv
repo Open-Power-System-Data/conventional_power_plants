@@ -1,4 +1,4 @@
-id,lat,lon,eic_code
+id,lat,lon,eic_code_plant,eic_code_block
 BNA0005,52.58950001,13.5586524
 BNA0006,52.58950001,13.5586524
 BNA0007,52.58950001,13.5586524
