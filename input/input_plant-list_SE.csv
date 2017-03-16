@@ -6,7 +6,7 @@ company,name,street,postcode,city,country,capacity,energy_source,technology,addi
 ,Forsmark G11+G12,,,,SE,984,Nuclear,Steam turbine,Zone: SE-3,,,,,Nordpool,46WPU0000000015W,60.403993,18.174347
 ,Forsmark G21+G22,,,,SE,1120,Nuclear,Steam turbine,Zone: SE-3,,,,,Nordpool,46WPU0000000016U,60.403993,18.174347
 ,Forsmark G3,,,,SE,1187,Nuclear,Steam turbine,Zone: SE-3,,,,,Nordpool,46WPU0000000017S,60.403993,18.174347
-,Fyris (Uppsala) G1,,,,SE,120,Biomass and biogas,,Zone: SE-3,CHP,yes,,,Nordpool,,59.852308,17.678173
+,Fyris (Uppsala) G1,,,,SE,120,Biomass and biogas,,Zone: SE-3,CHP,yes,,,Nordpool,46WPU0000000055K,59.852308,17.678173
 ,Gallejaur G1,,,,SE,113,Hydro,Reservoir,Zone: SE-1,,,,,Nordpool,46WPU0000000039I,65.127297,19.467367
 ,Gallejaur G2,,,,SE,101,Hydro,Reservoir,Zone: SE-1,,,,,Nordpool,46WPU0000000039I,65.127297,19.467367
 ,Harsprånget G1,,,,SE,120,Hydro,Reservoir,Zone: SE-1,,,,,Nordpool,46WPU0000000029L,66.885309,19.818399

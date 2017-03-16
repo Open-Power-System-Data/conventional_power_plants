@@ -3,12 +3,12 @@ company,name,street,postcode,city,country,capacity,energy_source,technology,addi
 ,Bešeňová G2,,,,SK,2.32,Hydro,,,,,1976.0,,SEAS,,49.09691,19.44735
 ,Bohunice G1,,,,SK,500.0,Nuclear,Steam turbine,,,,1985.0,,SEAS,24WV--EBO------8,48.4914,17.67734
 ,Bohunice G2,,,,SK,500.0,Nuclear,Steam turbine,,,,1985.0,,SEAS,24WV--EBO------8,48.4914,17.67734
-,Čierny Váh G1,,,,SK,122.4,Hydro,Pumped storage,,,,1982.0,,SEAS,,49.0091,19.91203
-,Čierny Váh G2,,,,SK,122.4,Hydro,Pumped storage,,,,1982.0,,SEAS,,49.0091,19.91203
-,Čierny Váh G3,,,,SK,122.4,Hydro,Pumped storage,,,,1982.0,,SEAS,,49.0091,19.91203
-,Čierny Váh G4,,,,SK,122.4,Hydro,Pumped storage,,,,1982.0,,SEAS,,49.0091,19.91203
-,Čierny Váh G5,,,,SK,122.4,Hydro,Pumped storage,,,,1982.0,,SEAS,,49.0091,19.91203
-,Čierny Váh G6,,,,SK,122.4,Hydro,Pumped storage,,,,1982.0,,SEAS,,49.0091,19.91203
+,Čierny Váh G1,,,,SK,122.4,Hydro,Pumped storage,,,,1982.0,,SEAS,24WV--HCV------O,49.0091,19.91203
+,Čierny Váh G2,,,,SK,122.4,Hydro,Pumped storage,,,,1982.0,,SEAS,24WV--HCV------O,49.0091,19.91203
+,Čierny Váh G3,,,,SK,122.4,Hydro,Pumped storage,,,,1982.0,,SEAS,24WV--HCV------O,49.0091,19.91203
+,Čierny Váh G4,,,,SK,122.4,Hydro,Pumped storage,,,,1982.0,,SEAS,24WV--HCV------O,49.0091,19.91203
+,Čierny Váh G5,,,,SK,122.4,Hydro,Pumped storage,,,,1982.0,,SEAS,24WV--HCV------O,49.0091,19.91203
+,Čierny Váh G6,,,,SK,122.4,Hydro,Pumped storage,,,,1982.0,,SEAS,24WV--HCV------O,49.0091,19.91203
 ,Čierny Váh prietok,,,,SK,0.76,Hydro,,,,,1982.0,,SEAS,,,
 ,Dobrohošť,,,,SK,1.87,Hydro,,,,,,,VVB,,47.9917,17.3522
 ,Dobšiná 2,,,,SK,2.0,Hydro,Run-of-river,,,,1994.0,,SEAS,,48.80591,20.38578
@@ -19,7 +19,7 @@ company,name,street,postcode,city,country,capacity,energy_source,technology,addi
 ,Domaša G2,,,,SK,6.2,Hydro,,,,,1966.0,,SEAS,,49.00068,21.69717
 ,Dubnica G1,,,,SK,8.25,Hydro,Run-of-river,,,,1949.0,,SEAS,,48.96319,18.1451
 ,Dubnica G2,,,,SK,8.25,Hydro,Run-of-river,,,,1949.0,,SEAS,,48.96319,18.1451
-,Gabčíkovo ,,,,SK,720.0,Hydro,Reservoir,,,,1992.0,,VVB,,47.88004,17.53841
+,Gabčíkovo ,,,,SK,720.0,Hydro,Reservoir,,,,1992.0,,VVB,24WV--HGA------8,47.88004,17.53841
 ,Horná Streda G1,,,,SK,12.75,Hydro,Run-of-river,,,,1955.0,,SEAS,,48.66046,17.85503
 ,Horná Streda G2,,,,SK,12.75,Hydro,Run-of-river,,,,1955.0,,SEAS,,48.66046,17.85503
 ,Hričov G1,,,,SK,10.5,Hydro,Run-of-river,,,,1964.0,,SEAS,,49.25737,18.68102
