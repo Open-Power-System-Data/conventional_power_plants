@@ -18,19 +18,19 @@ sources:
     - name: Verbund AG hydro power plants (AT)
       web: https://www.verbund.com/en-at/about-verbund/power-plants/our-power-plants
     - name: ELIA Generation facilities (BE)
-      web: http://publications.elia.be/upload/ProductionParkOverview.xls?TS=20120416193815
+      web: http://www.elia.be/en/grid-data/power-generation/generating-facilities
     - name: BFE Statistik der Wasserkraftanlagen der Schweiz (CH)
       web: http://www.bfe.admin.ch/themen/00490/00491/index.html?lang=de&dossier_id=01049
     - name: BFE Nuclear Energy (CH)
       web: http://www.bfe.admin.ch/themen/00511/index.html?lang=en
     - name: CEPS Available capacity (CZ)
       web: https://www.ceps.cz/ENG/Data/Vsechna-data/Pages/Instalovany-vykon.aspx
-    - name: Energinet.dk List of power plants (DK)
+    - name: Energinet.dk List of power plants (DK) (link inactive)
       web: https://www.energinet.dk/SiteCollectionDocuments/Engelske%20dokumenter/El/Energinet%20dk%27s%20assumptions%20for%20analysis%202014-2035,%20September%202014.xlsm
     - name: SEDE Productores (ES)
       web: https://sedeaplicaciones.minetur.gob.es/electra/BuscarDatos.aspx
     - name: Energy authority Power plant register (FI)
-      web: http://www.energiavirasto.fi/documents/10191/0/Energiaviraston+voimalaitosrekisteri+21032017.xlsx
+      web: http://www.energiavirasto.fi/en/web/energy-authority/power-plant-register
     - name: RTE List of production units with more than 100MW (FR)
       web: https://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp
     - name: TERNA Installed generation capacity 2014 (IT)
@@ -46,7 +46,7 @@ sources:
     - name: SEAS Power plants (SK)
       web: https://www.seas.sk/power-plants
     - name: Statistical office Power stations in the United Kingdom (Dukes 5.10) (UK)
-      web: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446457/dukes5_10.xls
+      web: https://www.gov.uk/government/statistics/electricity-chapter-5-digest-of-united-kingdom-energy-statistics-dukes
 
 contributors:
     - name: Clemens Gerbaulet
