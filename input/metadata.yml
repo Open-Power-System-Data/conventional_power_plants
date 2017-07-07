@@ -73,9 +73,6 @@ resources:
             - name: id
               description: Power plant ID based on the ID provided in the BNetzA-list.
               type: string
-            - name: company
-              description: Company name
-              type: string
             - name: name_bnetza
               description: Power plant name as specified in the BNetzA power plant list
               type: string
@@ -85,24 +82,48 @@ resources:
             - name: name_uba
               description: Power plant name according to UBA data
               type: string
+            - name: company
+              description: Company name
+              type: string
+            - name: street
+              description: Street as specified in the BNetzA power plant list
+              type: string
             - name: postcode
               description: Postcode as specified in the BNetzA power plant list
               type: string
             - name: city
               description: City as specified in the BNetzA power plant list
               type: string
-            - name: street
-              description: Street as specified in the BNetzA power plant list
-              type: string
             - name: state
               description: State as specified in the BNetzA power plant list
               type: string
-            - name: commissioned_original
-              description: Year of commissioning (raw data)
+            - name: country_code
+              description: Two-letter ISO code
               type: string
+            - name: capacity_net_bnetza
+              description: Net installed capacity based on BNetzA
+              type: number
+            - name: capacity_gross_uba
+              description: Gross installed capacity according to UBA data
+              type: number
+            - name: fuel
+              description: Used fuel or energy source
+              type: string
+            - name: technology
+              description: Power plant technology or sort
+              type: string
+            - name: chp
+              description: Status of being able to supply heat
+              type: boolean
+            - name: chp_capacity_uba
+              description: Heat capacity according to UBA data
+              type: number
             - name: commissioned
               description: Year of commissioning formatted as integer, using data from BNetzA and UBA
               type: integer
+            - name: commissioned_original
+              description: Year of commissioning (raw data)
+              type: string
             - name: retrofit
               description: Year of modernization according to UBA data
               type: integer
@@ -113,9 +134,30 @@ resources:
               description: Power plant status
               type: string
               opsd-contentfilter: "true"
-            - name: fuel
-              description: Used fuel or energy source
+            - name: type
+              description: Purpose of the produced power
               type: string
+            - name: lat
+              description: Precise geographic coordinates - latitude
+              type: number
+            - name: lon
+              description: Precise geographic coordinates - longitude
+              type: number
+            - name: eic_code_plant
+              description: EIC code of plant
+              type: string  
+            - name: eic_code_block
+              description: EIC code of block
+              type: string  
+            - name: efficiency_data
+              description: Proportion between power output and input, self researched values
+              type: number
+            - name: efficiency_source
+              description: Source of efficiency data
+              type: string
+            - name: efficiency_estimate
+              description: Estimated proportion between power output and input
+              type: number
             - name: energy_source_level_1
               description: Energy source level 1 according to the documentation
               type: string
@@ -126,40 +168,10 @@ resources:
             - name: energy_source_level_3
               description: Energy source level 3 according to the documentation
               type: string                       
-            - name: technology
-              description: Power plant technology or sort
-              type: string
               opsd-contentfilter: "true"
-            - name: type
-              description: Purpose of the produced power
-              type: string
             - name: eeg
               description: Status of being entitled to a renumeration
               type: boolean
-            - name: chp
-              description: Status of being able to supply heat
-              type: boolean
-            - name: capacity_net_bnetza
-              description: Net installed capacity based on BNetzA
-              type: number
-            - name: capacity_gross_uba
-              description: Gross installed capacity according to UBA data
-              type: number
-            - name: chp_capacity_uba
-              description: Heat capacity according to UBA data
-              type: number
-            - name: merge_comment
-              description: Comment on BNetzA - UBA merge
-              type: string              
-            - name: efficiency_data
-              description: Proportion between power output and input, self researched values
-              type: number
-            - name: efficiency_source
-              description: Source of efficiency data
-              type: string
-            - name: efficiency_estimate
-              description: Estimated proportion between power output and input
-              type: number
             - name: network_node
               description: Connection point to the electricity grid based on BNetzA data
               type: string
@@ -169,21 +181,9 @@ resources:
             - name: network_operator
               description: Network operator of the grid or transformation level based on BNetzA data
               type: string
-            - name: lat
-              description: Precise geographic coordinates - latitude
-              type: number
-            - name: lon
-              description: Precise geographic coordinates - longitude
-              type: number
-            - name: country_code
-              description: Two-letter ISO code
-              type: string
-            - name: eic_code_plant
-              description: EIC code of plant
-              type: string  
-            - name: eic_code_block
-              description: EIC code of block
-              type: string  
+            - name: merge_comment
+              description: Comment on BNetzA - UBA merge
+              type: string              
             - name: comment
               description: Further comments
               type: string
@@ -193,11 +193,7 @@ resources:
       schema:  # Schema according to: http://dataprotocols.org/json-table-schema/        
         fields:
             - name: id
-              description: Power plant ID based on the ID provided in the
-                  BNetzA-list.
-              type: string
-            - name: company
-              description: Company name
+              description: Power plant ID based on the ID provided in the BNetzA-list.
               type: string
             - name: name_bnetza
               description: Power plant name as specified in the BNetzA power plant list
@@ -208,24 +204,48 @@ resources:
             - name: name_uba
               description: Power plant name according to UBA data
               type: string
+            - name: company
+              description: Company name
+              type: string
+            - name: street
+              description: Street as specified in the BNetzA power plant list
+              type: string
             - name: postcode
               description: Postcode as specified in the BNetzA power plant list
               type: string
             - name: city
               description: City as specified in the BNetzA power plant list
               type: string
-            - name: street
-              description: Street as specified in the BNetzA power plant list
-              type: string
             - name: state
               description: State as specified in the BNetzA power plant list
               type: string
-            - name: commissioned_original
-              description: Year of commissioning (raw data)
+            - name: country_code
+              description: Two-letter ISO code
               type: string
+            - name: capacity_net_bnetza
+              description: Net installed capacity based on BNetzA
+              type: number
+            - name: capacity_gross_uba
+              description: Gross installed capacity according to UBA data
+              type: number
+            - name: fuel
+              description: Used fuel or energy source
+              type: string
+            - name: technology
+              description: Power plant technology or sort
+              type: string
+            - name: chp
+              description: Status of being able to supply heat
+              type: boolean
+            - name: chp_capacity_uba
+              description: Heat capacity according to UBA data
+              type: number
             - name: commissioned
               description: Year of commissioning formatted as integer, using data from BNetzA and UBA
               type: integer
+            - name: commissioned_original
+              description: Year of commissioning (raw data)
+              type: string
             - name: retrofit
               description: Year of modernization according to UBA data
               type: integer
@@ -235,42 +255,22 @@ resources:
             - name: status
               description: Power plant status
               type: string
-            - name: fuel
-              description: Used fuel or energy source
-              type: string
-            - name: energy_source_level_1
-              description: Energy source level 1 according to the documentation
-              type: string
-            - name: energy_source_level_2
-              description: Energy source level 2 according to the documentation
-              type: string     
-            - name: energy_source_level_3
-              description: Energy source level 3 according to the documentation
-              type: string                          
-            - name: technology
-              description: Power plant technology or sort
-              type: string
+              opsd-contentfilter: "true"
             - name: type
               description: Purpose of the produced power
               type: string
-            - name: eeg
-              description: Status of being entitled to a renumeration
-              type: boolean
-            - name: chp
-              description: Status of being able to supply heat
-              type: boolean
-            - name: capacity_net_bnetza
-              description: Net installed capacity based on BNetzA
+            - name: lat
+              description: Precise geographic coordinates - latitude
               type: number
-            - name: capacity_gross_uba
-              description: Gross installed capacity according to UBA data
+            - name: lon
+              description: Precise geographic coordinates - longitude
               type: number
-            - name: chp_capacity_uba
-              description: Heat capacity according to UBA data
-              type: number
-            - name: merge_comment
-              description: Comment on BNetzA - UBA merge
-              type: string              
+            - name: eic_code_plant
+              description: EIC code of plant
+              type: string  
+            - name: eic_code_block
+              description: EIC code of block
+              type: string  
             - name: efficiency_data
               description: Proportion between power output and input, self researched values
               type: number
@@ -280,6 +280,20 @@ resources:
             - name: efficiency_estimate
               description: Estimated proportion between power output and input
               type: number
+            - name: energy_source_level_1
+              description: Energy source level 1 according to the documentation
+              type: string
+              opsd-contentfilter: "true"
+            - name: energy_source_level_2
+              description: Energy source level 2 according to the documentation
+              type: string     
+            - name: energy_source_level_3
+              description: Energy source level 3 according to the documentation
+              type: string                       
+              opsd-contentfilter: "true"
+            - name: eeg
+              description: Status of being entitled to a renumeration
+              type: boolean
             - name: network_node
               description: Connection point to the electricity grid based on BNetzA data
               type: string
@@ -289,24 +303,12 @@ resources:
             - name: network_operator
               description: Network operator of the grid or transformation level based on BNetzA data
               type: string
-            - name: lat
-              description: Precise geographic coordinates - latitude
-              type: number
-            - name: lon
-              description: Precise geographic coordinates - longitude
-              type: number
-            - name: country_code
-              description: Two-letter ISO code
-              type: string 
-            - name: eic_code_plant
-              description: EIC code of plant
-              type: string  
-            - name: eic_code_block
-              description: EIC code of block
-              type: string  
+            - name: merge_comment
+              description: Comment on BNetzA - UBA merge
+              type: string              
             - name: comment
               description: Further comments
-              type: string 
+              type: string
     - path: conventional_power_plants_EU.csv
       format: csv
       mediatype: text/csv
