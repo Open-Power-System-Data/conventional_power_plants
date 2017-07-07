@@ -348,26 +348,14 @@ resources:
               description: Power plant technology (e.g., gas turbine, steam turbine)
               type: string
               opsd-contentfilter: "true"
-            - name: additional_info
-              description: Additional information on power plants as provided in national data source
-              type: string
-            - name: type
-              description: Purpose of the produced power (e.g. CHP or IPP)
-              type: string
             - name: chp
               description: Status of being able to supply heat
               type: boolean
             - name: commissioned
               description: Year of commissioning formatted as integer, using data from BNetzA and UBA
               type: number
-            - name: comment
-              description: Own OPSD comments on data entries (e.g., errors, missing data, inconsistencies)
-              type: string
-            - name: source
-              description: Source of information
-              type: string
-            - name: eic_code
-              description: EIC code
+            - name: type
+              description: Purpose of the produced power (e.g. CHP or IPP)
               type: string
             - name: lat
               description: Precise geographic coordinates - latitude
@@ -375,6 +363,9 @@ resources:
             - name: lon
               description: Precise geographic coordinates - longitude
               type: number
+            - name: eic_code
+              description: EIC code
+              type: string
             - name: energy_source_level_1
               description: Energy source level 1 according to the documentation
               type: string
@@ -385,6 +376,15 @@ resources:
             - name: energy_source_level_3
               description: Energy source level 3 according to the documentation
               type: string                       
+            - name: additional_info
+              description: Additional information on power plants as provided in national data source
+              type: string
+            - name: comment
+              description: Own OPSD comments on data entries (e.g., errors, missing data, inconsistencies)
+              type: string
+            - name: source
+              description: Source of information
+              type: string
     - path: conventional_power_plants_EU.xlsx
       format: xlsx
       mediatype: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet   
@@ -417,26 +417,14 @@ resources:
             - name: technology
               description: Power plant technology (e.g., gas turbine, steam turbine)
               type: string
-            - name: additional_info
-              description: Additional information on power plants as provided in national data source
-              type: string
-            - name: type
-              description: Purpose of the produced power (e.g. CHP or IPP)
-              type: string
             - name: chp
               description: Status of being able to supply heat
               type: boolean
             - name: commissioned
               description: Year of commissioning formatted as integer, using data from BNetzA and UBA
               type: number
-            - name: comment
-              description: Own OPSD comments on data entries (e.g., errors, missing data, inconsistencies)
-              type: string
-            - name: source
-              description: Source of information
-              type: string
-            - name: eic_code
-              description: EIC code
+            - name: type
+              description: Purpose of the produced power (e.g. CHP or IPP)
               type: string
             - name: lat
               description: Precise geographic coordinates - latitude
@@ -444,6 +432,9 @@ resources:
             - name: lon
               description: Precise geographic coordinates - longitude
               type: number
+            - name: eic_code
+              description: EIC code
+              type: string
             - name: energy_source_level_1
               description: Energy source level 1 according to the documentation
               type: string
@@ -453,3 +444,12 @@ resources:
             - name: energy_source_level_3
               description: Energy source level 3 according to the documentation
               type: string                       
+            - name: additional_info
+              description: Additional information on power plants as provided in national data source
+              type: string
+            - name: comment
+              description: Own OPSD comments on data entries (e.g., errors, missing data, inconsistencies)
+              type: string
+            - name: source
+              description: Source of information
+              type: string
