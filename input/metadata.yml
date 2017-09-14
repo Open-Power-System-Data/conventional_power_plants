@@ -60,6 +60,7 @@ documentation: https://github.com/Open-Power-System-Data/conventional_power_plan
 
 resources:
     - path: conventional_power_plants_DE.csv
+      name: conventional_power_plants_DE
       format: csv
       mediatype: text/csv
       encoding: UTF8
@@ -188,6 +189,7 @@ resources:
               description: Further comments
               type: string
     - path: conventional_power_plants_DE.xlsx
+      name: conventional_power_plants_DE_xlsx
       format: xlsx
       mediatype: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet   
       schema:  # Schema according to: http://dataprotocols.org/json-table-schema/        
@@ -310,6 +312,7 @@ resources:
               description: Further comments
               type: string
     - path: conventional_power_plants_EU.csv
+      name: conventional_power_plants_EU
       format: csv
       mediatype: text/csv
       encoding: UTF8
@@ -388,6 +391,7 @@ resources:
               description: Source of information
               type: string
     - path: conventional_power_plants_EU.xlsx
+      name: conventional_power_plants_EU_xlsx
       format: xlsx
       mediatype: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet   
       schema:  # Schema according to: http://dataprotocols.org/json-table-schema/        
