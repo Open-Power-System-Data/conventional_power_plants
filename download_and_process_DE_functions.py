@@ -12,6 +12,7 @@ import json
 import sqlite3
 import hashlib
 import yaml
+import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 #from bokeh.io import output_notebook
