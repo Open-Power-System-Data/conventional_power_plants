@@ -236,7 +236,7 @@ def getlistdifferences(oldplantlist, newplantlist):
     Parameters
     ----------
     oldplantlist : DataFrame
-        Old PlantList
+        Old Plantlist
     newplantlist : DataFrame
         New Plantlist
 
@@ -269,7 +269,7 @@ def matchinglistcheck(plantlist_bnetza, plantlist_uba, matchinglist):
     Parameters
     ----------
     oldplantlist : DataFrame
-        Old PlantList
+        Old Plantlist
     newplantlist : DataFrame
         New Plantlist
 
