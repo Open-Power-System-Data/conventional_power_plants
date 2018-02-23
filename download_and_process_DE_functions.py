@@ -260,7 +260,7 @@ def getlistdifferences(oldplantlist, newplantlist):
     return comparisonplantlist
 
 
-def matchinglistcheck(plantlist_bnetza, plantlist_uba, matchinglist):
+def matchinglistcheck(url_bnetza, url_uba):
     """
     This function checks the BNetzA and UBA plantlists against the
     matchinglist and prints out errors. For entries form the UBA Plantlist a
@@ -275,6 +275,11 @@ def matchinglistcheck(plantlist_bnetza, plantlist_uba, matchinglist):
 
     """
     logger.info('Starting Matchinglistcheck')
+
+    plantlist_uba = getubalist(url_uba)
+    plantlist_bnetza = getbnetzalist(url_bnetza)
+    matchinglist = getmatchinglist()
+
     plantlist_uba['uba_id_string'] = (plantlist_uba['Kraftwerksname / Standort']
                                       + '_' + plantlist_uba['Primärenergieträger'])
 #    print(plantlist_uba.uba_id_string)
@@ -282,18 +287,80 @@ def matchinglistcheck(plantlist_bnetza, plantlist_uba, matchinglist):
 
     uba_entrylist = [x for x in plantlist_uba.uba_id_string.tolist() if str(x) != 'nan']
 
+    errorfound = False
     for entry in matchinglist.index:
         #        print(entry, matchinglist.loc[entry].bnetza_id,  matchinglist.loc[entry].uba_id_string)
         bnetza_entries = plantlist_bnetza.loc[(plantlist_bnetza['Kraftwerksnummer Bundesnetzagentur'] == matchinglist.loc[entry].bnetza_id)]
 #        print(entry, len(bnetza_entries))
         if len(bnetza_entries) == 0:
-            print('Entry not in Bnetzalist:', matchinglist.loc[entry].bnetza_id, matchinglist.loc[entry].uba_id_string)
+            logger.error('Entry not in Bnetzalist:', matchinglist.loc[entry].bnetza_id, matchinglist.loc[entry].uba_id_string)
+            errorfound = True
         uba_entries = plantlist_uba.loc[(plantlist_uba['uba_id_string'] == matchinglist.loc[entry].uba_id_string)]
 #        print(entry, len(uba_entries))
         if len(uba_entries) == 0:
             alternatives = difflib.get_close_matches(matchinglist.loc[entry].uba_id_string, uba_entrylist, n=3, cutoff=0.6)
-            print('Not in ubalist: ' + matchinglist.loc[entry].uba_id_string + ' ' + matchinglist.loc[entry].bnetza_id + ' Possible alternatives: ' + ', '.join(alternatives))
+            logger.error('Not in ubalist: ' + matchinglist.loc[entry].uba_id_string + ' ' + matchinglist.loc[entry].bnetza_id + ' Possible alternatives: ' + ', '.join(alternatives))
 #            raise ValueError('Value in Ubalist missing')
+            errorfound = True
+    if errorfound == False:
+        logger.info('No obvious errors in Matchinglist check found')
+    else:
+        logger.error('Errors in Matchinglist exist')
+
+
+
+def potentialmatching(url_bnetza, url_uba):
+    """
+    This function looks for power plants form the UBA list not contained in the
+    matching lists. It looks up possible matches based on name similarity.
+    It returns a list of tuples with the plants name of the UBA List, augmented
+    with possible matches.
+
+    Parameters
+    ----------
+    url_bnetza : string
+        Link to BNetzA List
+    url_uba: string
+        Link to UBA List
+
+    """
+    plantlist_uba = getubalist(url_uba)
+    plantlist_bnetza = getbnetzalist(url_bnetza)
+    matchinglist = getmatchinglist()
+
+    plantlist_bnetza.rename(columns={'Kraftwerksnummer Bundesnetzagentur':'id'}, inplace=True)
+    plantlist_bnetza_reduced = plantlist_bnetza[plantlist_bnetza['id'].isin(matchinglist['ID BNetzA']) == False]
+    plantlist_bnetza_reduced = plantlist_bnetza_reduced[plantlist_bnetza_reduced['Energieträger'] != 'Solare Strahlungsenergie']
+    plantlist_bnetza_reduced = plantlist_bnetza_reduced[plantlist_bnetza_reduced['Energieträger'] != 'Windenergie (Onshore-Anlage)']
+    plantlist_bnetza_reduced = plantlist_bnetza_reduced[plantlist_bnetza_reduced['Energieträger'] != 'Windenergie (Offshore-Anlage)']
+    plantlist_bnetza_reduced['name_and_block'] = plantlist_bnetza_reduced['Kraftwerksname'] + ' ' + plantlist_bnetza_reduced['Blockname'] + '_' + plantlist_bnetza_reduced['Energieträger']
+
+    plantlist_uba.rename(columns={'Kraftwerksname / Standort' : 'name',
+                                  'Primärenergieträger': 'fuel',
+                                  'Anlagenart': 'type'}, inplace=True)
+#    print(plantlist_uba.columns)
+    plantlist_uba['uba_id_string'] = (plantlist_uba['name']
+                                      + '_' + plantlist_uba['fuel'])
+
+    # Reduce uba list
+    plantlist_uba_reduced = plantlist_uba[plantlist_uba['uba_id_string'].isin(matchinglist['uba_id_string']) == False]
+    plantlist_uba_reduced = plantlist_uba_reduced[plantlist_uba_reduced['type'] != 'WEA']
+    plantlist_uba_reduced = plantlist_uba_reduced[plantlist_uba_reduced['type'] != 'PV']
+    plantlist_uba_reduced = plantlist_uba_reduced[plantlist_uba_reduced['type'].isnull() == False]
+
+    possiblematcheslist = []
+    for entry in plantlist_uba_reduced.index:
+#        print(entry)
+        moin = str(plantlist_uba_reduced.loc[entry].uba_id_string)
+        moin2 = [x for x in plantlist_bnetza_reduced.name_and_block.tolist() if str(x) != 'nan']# plantlist_bnetza_reduced['name_and_block'].tolist()
+#        print(moin)
+#        print(moin2)
+        possiblealternative = difflib.get_close_matches(moin, moin2, n=2, cutoff=0.3)
+#        print(moin, possiblealternative)
+        logger.info('Plant ' + moin + ' not in Matchinglist. Possible Matches from BNetzA List: ' + str(possiblealternative))
+        possiblematcheslist.append((moin, possiblealternative))
+#    return possiblematcheslist
+    return plantlist_bnetza_reduced
 
 
 # Testing this file
@@ -311,11 +378,13 @@ if __name__ == "__main__":
     matchinglist = getmatchinglist()
 
     plantlist_bnetza = getbnetzalist(url_bnetza, previous=False)
-    plantlist_bnetza_previous = getbnetzalist(url_bnetza, previous=True)
-    plantlist_bnetza_differences = getlistdifferences(plantlist_bnetza_previous, plantlist_bnetza)
+#    plantlist_bnetza_previous = getbnetzalist(url_bnetza, previous=True)
+#    plantlist_bnetza_differences = getlistdifferences(plantlist_bnetza_previous, plantlist_bnetza)
 
-    plantlist_uba = getubalist(url_uba, previous=False)
-    plantlist_uba_previous = getubalist(url_uba, previous=True)
-    plantlist_uba_differences = getlistdifferences(plantlist_uba_previous, plantlist_uba)
+#    plantlist_uba = getubalist(url_uba, previous=False)
+#    plantlist_uba_previous = getubalist(url_uba, previous=True)
+#    plantlist_uba_differences = getlistdifferences(plantlist_uba_previous, plantlist_uba)
 
-    matchinglistcheck(plantlist_bnetza, plantlist_uba, matchinglist)
+    matchinglistcheck(url_bnetza, url_uba)
+
+    res = potentialmatching(url_bnetza, url_uba)
