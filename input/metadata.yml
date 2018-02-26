@@ -1,19 +1,20 @@
+hide: yes
 name: opsd-conventional-power-plants
 title: Conventional power plants
 description: List of conventional power plants in Germany and European countries
 long_description: This datapackage contains data on conventional power plants for Germany as well as other selected European countries. The data includes individual power plants with their technical characteristics. These include installed capacity, main energy source, type of technology, CHP capability, and geographical information. The geographical scope is primarily on Germany and its neighboring countries. The datapackage currently covers Germany, Austria, Belgium, Switzerland, Czech Republic, Denmark, Spain, Finland, France, Italy, the Netherlands, Norway, Poland, Sweden, Slovakia, Slovenia, and United Kingdom. Due to varying data quality of publicly available data, not all information can be provided for each country. Sources for European countries comprise detailed power plants lists from national institutions, ministries, or market participants as well as manually compiled lists of power plants for countries without a system-wide power plant list. All data processing is conducted in Python and pandas, and has been documented in the Jupyter Notebooks linked below.
-version: "2017-07-07"
+version: "2018-02-27"
 keywords: 
     - conventional power plants
     - Open Power System Data
     - Germany
     - Europe
 geographical-scope: Germany, Austria, Belgium, Switzerland, Czech Republic, Denmark, Spain, Finland, France, Italy, the Netherlands, Norway, Poland, Sweden, Slovakia, Slovenia, United Kingdom
-last_changes: Updated data and added EIC codes
+last_changes: Updated data to new powerplant list
 sources:
-    - name: BNetzA Kraftwerksliste
+    - name: BNetzA Kraftwerksliste (DE)
       web: http://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/kraftwerksliste-node.html
-    - name: Umweltbundesamt Datenbank Kraftwerke in Deutschland
+    - name: Umweltbundesamt Datenbank Kraftwerke in Deutschland (DE)
       web: http://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland
     - name: Verbund AG hydro power plants (AT)
       web: https://www.verbund.com/en-at/about-verbund/power-plants/our-power-plants
@@ -24,7 +25,7 @@ sources:
     - name: BFE Nuclear Energy (CH)
       web: http://www.bfe.admin.ch/themen/00511/index.html?lang=en
     - name: CEPS Available capacity (CZ)
-      web: https://www.ceps.cz/ENG/Data/Vsechna-data/Pages/Instalovany-vykon.aspx
+      web: http://www.ceps.cz/en/all-data#AvailableCapacity
     - name: Energinet.dk List of power plants (DK) (link inactive)
       web: https://www.energinet.dk/SiteCollectionDocuments/Engelske%20dokumenter/El/Energinet%20dk%27s%20assumptions%20for%20analysis%202014-2035,%20September%202014.xlsm
     - name: SEDE Productores (ES)
@@ -52,11 +53,11 @@ contributors:
     - name: Clemens Gerbaulet
       email: cfg@wip.tu-berlin.de
       web: http://open-power-system-data.org/
-    - name: Friedrich Kunz
-      email: fkunz@diw.de
+    - name: Jens Weibezahn
+      email: jew@wip.tu-berlin.de
       web: http://open-power-system-data.org/
 
-documentation: https://github.com/Open-Power-System-Data/conventional_power_plants/blob/2017-07-07/main.ipynb
+documentation: https://github.com/Open-Power-System-Data/conventional_power_plants/blob/2018-02-27/main.ipynb
 
 resources:
     - path: conventional_power_plants_DE.csv
