@@ -1,4 +1,3 @@
-hide: yes
 name: opsd-conventional-power-plants
 title: Conventional power plants
 description: List of conventional power plants in Germany and European countries
@@ -10,7 +9,7 @@ keywords:
     - Germany
     - Europe
 geographical-scope: Germany, Austria, Belgium, Switzerland, Czech Republic, Denmark, Spain, Finland, France, Italy, the Netherlands, Norway, Poland, Sweden, Slovakia, Slovenia, United Kingdom
-last_changes: Updated data to new powerplant list
+last_changes: Updated data to new powerplant lists
 sources:
     - name: BNetzA Kraftwerksliste (DE)
       web: http://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/kraftwerksliste-node.html
@@ -169,7 +168,6 @@ resources:
             - name: energy_source_level_3
               description: Energy source level 3 according to the documentation
               type: string                       
-              opsd-contentfilter: "true"
             - name: eeg
               description: Status of being entitled to a renumeration
               type: boolean
@@ -291,7 +289,6 @@ resources:
             - name: energy_source_level_3
               description: Energy source level 3 according to the documentation
               type: string                       
-              opsd-contentfilter: "true"
             - name: eeg
               description: Status of being entitled to a renumeration
               type: boolean
