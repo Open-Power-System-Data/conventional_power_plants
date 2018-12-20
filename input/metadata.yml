@@ -1,74 +1,62 @@
 name: opsd-conventional-power-plants
 title: Conventional power plants
 description: List of conventional power plants in Germany and European countries
-long_description: This datapackage contains data on conventional power plants for Germany as well as other selected European countries. The data includes individual power plants with their technical characteristics. These include installed capacity, main energy source, type of technology, CHP capability, and geographical information. The geographical scope is primarily on Germany and its neighboring countries. The datapackage currently covers Germany, Austria, Belgium, Switzerland, Czech Republic, Denmark, Spain, Finland, France, Italy, the Netherlands, Norway, Poland, Sweden, Slovakia, Slovenia, and United Kingdom. Due to varying data quality of publicly available data, not all information can be provided for each country. Sources for European countries comprise detailed power plants lists from national institutions, ministries, or market participants as well as manually compiled lists of power plants for countries without a system-wide power plant list. All data processing is conducted in Python and pandas, and has been documented in the Jupyter Notebooks linked below.
-version: "2018-02-27"
-keywords: 
+longDescription: This datapackage contains data on conventional power plants for Germany as well as other selected European countries. The data includes individual power plants with their technical characteristics. These include installed capacity, main energy source, type of technology, CHP capability, and geographical information. The geographical scope is primarily on Germany and its neighboring countries. The datapackage currently covers Germany, Austria, Belgium, Switzerland, Czech Republic, Denmark, Spain, Finland, France, Italy, the Netherlands, Norway, Poland, Sweden, Slovakia, Slovenia, and United Kingdom. Due to varying data quality of publicly available data, not all information can be provided for each country. Sources for European countries comprise detailed power plants lists from national institutions, ministries, or market participants as well as manually compiled lists of power plants for countries without a system-wide power plant list. All data processing is conducted in Python and pandas, and has been documented in the Jupyter Notebooks linked below.
+profile: tabular_data_package
+_external: false
+_metadataVersion: 1.2
+attribution: "Attribution should be given as follows: Open Power System Data. 2018. Data Package Conventional power plants. Version 2018-12-XX. https://doi.org/10.25832/conventional_power_plants/2018-12-XX. (Primary data from various sources, for a complete list see URL)."
+keywords:
     - conventional power plants
     - Open Power System Data
     - Germany
     - Europe
-geographical-scope: Germany, Austria, Belgium, Switzerland, Czech Republic, Denmark, Spain, Finland, France, Italy, the Netherlands, Norway, Poland, Sweden, Slovakia, Slovenia, United Kingdom
-last_changes: Updated data to new powerplant lists
-sources:
-    - name: BNetzA Kraftwerksliste (DE)
-      web: http://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/kraftwerksliste-node.html
-    - name: Umweltbundesamt Datenbank Kraftwerke in Deutschland (DE)
-      web: http://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland
-    - name: Verbund AG hydro power plants (AT)
-      web: https://www.verbund.com/en-at/about-verbund/power-plants/our-power-plants
-    - name: ELIA Generation facilities (BE)
-      web: http://www.elia.be/en/grid-data/power-generation/generating-facilities
-    - name: BFE Statistik der Wasserkraftanlagen der Schweiz (CH)
-      web: http://www.bfe.admin.ch/themen/00490/00491/index.html?lang=de&dossier_id=01049
-    - name: BFE Nuclear Energy (CH)
-      web: http://www.bfe.admin.ch/themen/00511/index.html?lang=en
-    - name: CEPS Available capacity (CZ)
-      web: http://www.ceps.cz/en/all-data#AvailableCapacity
-    - name: Energinet.dk List of power plants (DK) (link inactive)
-      web: https://www.energinet.dk/SiteCollectionDocuments/Engelske%20dokumenter/El/Energinet%20dk%27s%20assumptions%20for%20analysis%202014-2035,%20September%202014.xlsm
-    - name: SEDE Productores (ES)
-      web: https://sedeaplicaciones.minetur.gob.es/electra/BuscarDatos.aspx
-    - name: Energy authority Power plant register (FI)
-      web: http://www.energiavirasto.fi/en/web/energy-authority/power-plant-register
-    - name: RTE List of production units with more than 100MW (FR)
-      web: https://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp
-    - name: TERNA Installed generation capacity 2014 (IT)
-      web: http://www.terna.it/it-it/sistemaelettrico/transparencyreport/generation/installedgenerationcapacity.aspx
-    - name: TenneT Available capacity 2016 (NL)
-      web: http://www.tennet.org/english/operational_management/export_data.aspx
-    - name: Nordpool Power plant units (NO)
-      web: http://www.nordpoolspot.com/globalassets/download-center/tso/generation-capacity_norway_valid-from-2-december-2013_larger-than-100mw.pdf
-    - name: GPI List of generation units (PL)
-      web: http://gpi.tge.pl/en/wykaz-jednostek;jsessionid=C2472043DF326CED2F9C0840B503F5B0.gpi-app1
-    - name: Nordpool Power plant units (SE)
-      web: http://www.nordpoolspot.com/globalassets/download-center/tso/generation-capacity_sweden_larger-than-100mw-per-unit_17122014.pdf
-    - name: SEAS Power plants (SK)
-      web: https://www.seas.sk/power-plants
-    - name: Statistical office Power stations in the United Kingdom (Dukes 5.10) (UK)
-      web: https://www.gov.uk/government/statistics/electricity-chapter-5-digest-of-united-kingdom-energy-statistics-dukes
-
+spatial:
+    location: Germany, Austria, Belgium, Switzerland, Czech Republic, Denmark, Spain, Finland, France, Italy, the Netherlands, Norway, Poland, Sweden, Slovakia, Slovenia, United Kingdom
+    resolution: individual power plants
+temporal:
+    referenceDate: '2018'
+version: '2018-12-20'
+publicationDate: '2018-12-20'
+id: https://doi.org/10.25832/conventional_power_plants/2018-12-20
+homepage: https://data.open-power-system-data.org/conventional_power_plants/2018-12-20
+lastChanges: Updated data to new powerplant lists, bugfixes
+documentation: https://github.com/Open-Power-System-Data/conventional_power_plants/blob/2018-12-20/main.ipynb
 contributors:
-    - name: Clemens Gerbaulet
-      email: cfg@wip.tu-berlin.de
-      web: http://open-power-system-data.org/
-    - name: Jens Weibezahn
+    - title: Jens Weibezahn
       email: jew@wip.tu-berlin.de
-      web: http://open-power-system-data.org/
-
-documentation: https://github.com/Open-Power-System-Data/conventional_power_plants/blob/2018-02-27/main.ipynb
-
+      path: https://www.wip.tu-berlin.de/
+      organization: TU Berlin, Workgroup for Infrastructure Policy (WIP)
+      role: maintainer
+    - title: Richard Weinhold
+      email: riw@wip.tu-berlin.de
+      path: https://www.wip.tu-berlin.de/
+      organization: TU Berlin, Workgroup for Infrastructure Policy (WIP)
+      role: maintainer
+    - title: Clemens Gerbaulet
+      organization: TU Berlin, Workgroup for Infrastructure Policy (WIP)
+      role: author
+    - title: Friedrich Kunz
+      organization: German Institute for Economic Research (DIW Berlin)
+      role: author
 resources:
-    - path: conventional_power_plants_DE.csv
+    - name: opsd_conventional_power_plants_DE
+      profile: tabular-data-resource
+      title: List of conventional power plants in Germany
+      bytes: 300999
+      hash: bda10d8d5eab6898620d1f974e7996784e5722003b065c1dcf06f59a7485e591
+      path: conventional_power_plants_DE.csv
       format: csv
       mediatype: text/csv
       encoding: UTF8
       dialect:
-        csvddfversion: 1.0
+        csvddfVersion: 1.2
         delimiter: ","
-        lineterminator: "\\n"
+        lineTerminator: "\\n"
         header: true
-      schema: # Schema according to: http://dataprotocols.org/json-table-schema/        
+      schema: # Schema according to: http://dataprotocols.org/json-table-schema/
+        missingValues: ""
+        primaryKey: id
         fields:
             - name: id
               description: Power plant ID based on the ID provided in the BNetzA-list.
@@ -133,7 +121,7 @@ resources:
             - name: status
               description: Power plant status
               type: string
-              opsd-contentfilter: "true"
+              opsdContentfilter: "true"
             - name: type
               description: Purpose of the produced power
               type: string
@@ -161,13 +149,13 @@ resources:
             - name: energy_source_level_1
               description: Energy source level 1 according to the documentation
               type: string
-              opsd-contentfilter: "true"
+              opsdContentfilter: "true"
             - name: energy_source_level_2
               description: Energy source level 2 according to the documentation
               type: string     
             - name: energy_source_level_3
               description: Energy source level 3 according to the documentation
-              type: string                       
+              type: string
             - name: eeg
               description: Status of being entitled to a renumeration
               type: boolean
@@ -182,14 +170,21 @@ resources:
               type: string
             - name: merge_comment
               description: Comment on BNetzA - UBA merge
-              type: string              
+              type: string
             - name: comment
               description: Further comments
               type: string
-    - path: conventional_power_plants_DE.xlsx
+    - name: opsd_conventional_power_plants_DE
+      profile: tabular-data-resource
+      title: List of conventional power plants in Germany
+      bytes: 160749
+      hash: a73fabb01b6fc872f4d945a7167493751a44288a5bde78ff949c1cd4acd12801
+      path: conventional_power_plants_DE.xlsx
       format: xlsx
-      mediatype: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet   
-      schema:  # Schema according to: http://dataprotocols.org/json-table-schema/        
+      mediatype: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+      schema:  # Schema according to: http://dataprotocols.org/json-table-schema/
+        missingValues: ""
+        primaryKey: id
         fields:
             - name: id
               description: Power plant ID based on the ID provided in the BNetzA-list.
@@ -254,7 +249,7 @@ resources:
             - name: status
               description: Power plant status
               type: string
-              opsd-contentfilter: "true"
+              opsdContentfilter: "true"
             - name: type
               description: Purpose of the produced power
               type: string
@@ -282,13 +277,13 @@ resources:
             - name: energy_source_level_1
               description: Energy source level 1 according to the documentation
               type: string
-              opsd-contentfilter: "true"
+              opsdContentfilter: "true"
             - name: energy_source_level_2
               description: Energy source level 2 according to the documentation
-              type: string     
+              type: string
             - name: energy_source_level_3
               description: Energy source level 3 according to the documentation
-              type: string                       
+              type: string
             - name: eeg
               description: Status of being entitled to a renumeration
               type: boolean
@@ -303,20 +298,27 @@ resources:
               type: string
             - name: merge_comment
               description: Comment on BNetzA - UBA merge
-              type: string              
+              type: string
             - name: comment
               description: Further comments
               type: string
-    - path: conventional_power_plants_EU.csv
+    - name: opsd_conventional_power_plants_EU
+      profile: tabular-data-resource
+      title: List of conventional power plants in Europe
+      bytes: 798241
+      hash: 0c4f9fb7ca2ef2fde265ae96d28dcda24b12773ebb2cce023b1028d60018f2d4
+      path: conventional_power_plants_EU.csv
       format: csv
       mediatype: text/csv
       encoding: UTF8
       dialect:
-        csvddfversion: 1.0
+        csvddfVersion: 1.2
         delimiter: ","
-        lineterminator: "\\n"
+        lineTerminator: "\\n"
         header: true
-      schema: # Schema according to: http://dataprotocols.org/json-table-schema/        
+      schema: # Schema according to: http://dataprotocols.org/json-table-schema/
+        missingValues: ""
+        primaryKey: id 
         fields:
             - name: name
               description: Power plant name as specified in national data sources
@@ -336,18 +338,18 @@ resources:
             - name: country
               description: Two-letter ISO code
               type: string  
-              opsd-contentfilter: "true"
+              opsdContentfilter: "true"
             - name: capacity
               description: Installed generation capacity in MW
               type: number
             - name: energy_source
               description: Input energy source  (e.g., hard coal, lignite, nuclear)
               type: string
-              opsd-contentfilter: "true"
+              opsdContentfilter: "true"
             - name: technology
               description: Power plant technology (e.g., gas turbine, steam turbine)
               type: string
-              opsd-contentfilter: "true"
+              opsdContentfilter: "true"
             - name: chp
               description: Status of being able to supply heat
               type: boolean
@@ -369,7 +371,7 @@ resources:
             - name: energy_source_level_1
               description: Energy source level 1 according to the documentation
               type: string
-              opsd-contentfilter: "true"
+              opsdContentfilter: "true"
             - name: energy_source_level_2
               description: Energy source level 2 according to the documentation
               type: string     
@@ -385,10 +387,17 @@ resources:
             - name: source
               description: Source of information
               type: string
-    - path: conventional_power_plants_EU.xlsx
+    - name: opsd_conventional_power_plants_EU
+      profile: tabular-data-resource
+      title: List of conventional power plants in Europe
+      bytes: 407268
+      hash: 08c13d0d44a85b35adcd3e003d313bb41272b57f598cf25d7950c90b76a4dcac
+      path: conventional_power_plants_EU.xlsx
       format: xlsx
-      mediatype: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet   
-      schema:  # Schema according to: http://dataprotocols.org/json-table-schema/        
+      mediatype: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet  
+      schema:  # Schema according to: http://dataprotocols.org/json-table-schema/
+        missingValues: ""
+        primaryKey: id 
         fields:
             - name: name
               description: Power plant name as specified in national data sources
@@ -407,7 +416,7 @@ resources:
               type: string
             - name: country
               description: Two-letter ISO code
-              type: string  
+              type: string
             - name: capacity
               description: Installed generation capacity in MW
               type: number
@@ -440,10 +449,10 @@ resources:
               type: string
             - name: energy_source_level_2
               description: Energy source level 2 according to the documentation
-              type: string     
+              type: string
             - name: energy_source_level_3
               description: Energy source level 3 according to the documentation
-              type: string                       
+              type: string
             - name: additional_info
               description: Additional information on power plants as provided in national data source
               type: string
@@ -453,3 +462,40 @@ resources:
             - name: source
               description: Source of information
               type: string
+sources:
+    - title: BNetzA Kraftwerksliste (DE)
+      path: http://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/kraftwerksliste-node.html
+    - title: Umweltbundesamt Datenbank Kraftwerke in Deutschland (DE)
+      path: http://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland
+    - title: Verbund AG hydro power plants (AT)
+      path: https://www.verbund.com/en-at/about-verbund/power-plants/our-power-plants
+    - title: ELIA Generation facilities (BE)
+      path: http://www.elia.be/en/grid-data/power-generation/generating-facilities
+    - title: BFE Statistik der Wasserkraftanlagen der Schweiz (CH)
+      path: http://www.bfe.admin.ch/themen/00490/00491/index.html?lang=de&dossier_id=01049
+    - title: BFE Nuclear Energy (CH)
+      path: http://www.bfe.admin.ch/themen/00511/index.html?lang=en
+    - title: CEPS Available capacity (CZ)
+      path: http://www.ceps.cz/en/all-data#AvailableCapacity
+    - title: Energinet.dk List of power plants (DK) (link inactive)
+      path: https://www.energinet.dk/SiteCollectionDocuments/Engelske%20dokumenter/El/Energinet%20dk%27s%20assumptions%20for%20analysis%202014-2035,%20September%202014.xlsm
+    - title: SEDE Productores (ES)
+      path: https://sedeaplicaciones.minetur.gob.es/electra/BuscarDatos.aspx
+    - title: Energy authority Power plant register (FI)
+      path: http://www.energiavirasto.fi/en/path/energy-authority/power-plant-register
+    - title: RTE List of production units with more than 100MW (FR)
+      path: https://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp
+    - title: TERNA Installed generation capacity 2014 (IT)
+      path: http://www.terna.it/it-it/sistemaelettrico/transparencyreport/generation/installedgenerationcapacity.aspx
+    - title: TenneT Available capacity 2016 (NL)
+      path: http://www.tennet.org/english/operational_management/export_data.aspx
+    - title: Nordpool Power plant units (NO)
+      path: http://www.nordpoolspot.com/globalassets/download-center/tso/generation-capacity_norway_valid-from-2-december-2013_larger-than-100mw.pdf
+    - title: GPI List of generation units (PL)
+      path: http://gpi.tge.pl/en/wykaz-jednostek;jsessionid=C2472043DF326CED2F9C0840B503F5B0.gpi-app1
+    - title: Nordpool Power plant units (SE)
+      path: http://www.nordpoolspot.com/globalassets/download-center/tso/generation-capacity_sweden_larger-than-100mw-per-unit_17122014.pdf
+    - title: SEAS Power plants (SK)
+      path: https://www.seas.sk/power-plants
+    - title: Statistical office Power stations in the United Kingdom (Dukes 5.10) (UK)
+      path: https://www.gov.uk/government/statistics/electricity-chapter-5-digest-of-united-kingdom-energy-statistics-dukes
