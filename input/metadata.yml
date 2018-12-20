@@ -5,7 +5,7 @@ longDescription: This datapackage contains data on conventional power plants for
 profile: tabular_data_package
 _external: false
 _metadataVersion: 1.2
-attribution: "Attribution should be given as follows: Open Power System Data. 2018. Data Package Conventional power plants. Version 2018-12-XX. https://doi.org/10.25832/conventional_power_plants/2018-12-XX. (Primary data from various sources, for a complete list see URL)."
+attribution: "Attribution should be given as follows: Open Power System Data. 2018. Data Package Conventional power plants. Version 2018-12-20. https://doi.org/10.25832/conventional_power_plants/2018-12-20. (Primary data from various sources, for a complete list see URL)."
 keywords:
     - conventional power plants
     - Open Power System Data
@@ -44,7 +44,7 @@ resources:
       profile: tabular-data-resource
       title: List of conventional power plants in Germany
       bytes: 300999
-      hash: bda10d8d5eab6898620d1f974e7996784e5722003b065c1dcf06f59a7485e591
+      hash: 31b94b386913b05f451814141cdc6a315bd68c2b2b1bf3eb55595aafe39c80b9
       path: conventional_power_plants_DE.csv
       format: csv
       mediatype: text/csv
@@ -178,7 +178,7 @@ resources:
       profile: tabular-data-resource
       title: List of conventional power plants in Germany
       bytes: 160749
-      hash: a73fabb01b6fc872f4d945a7167493751a44288a5bde78ff949c1cd4acd12801
+      hash: db8578101ad8b8ee82bcf2abfce0e950a1138fa0a2a7fd910d3c348948c48b4b
       path: conventional_power_plants_DE.xlsx
       format: xlsx
       mediatype: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
