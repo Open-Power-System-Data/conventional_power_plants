@@ -2,7 +2,7 @@ name: opsd-conventional-power-plants
 title: Conventional power plants
 description: List of conventional power plants in Germany and European countries
 longDescription: This datapackage contains data on conventional power plants for Germany as well as other selected European countries. The data includes individual power plants with their technical characteristics. These include installed capacity, main energy source, type of technology, CHP capability, and geographical information. The geographical scope is primarily on Germany and its neighboring countries. The datapackage currently covers Germany, Austria, Belgium, Switzerland, Czech Republic, Denmark, Spain, Finland, France, Italy, the Netherlands, Norway, Poland, Sweden, Slovakia, Slovenia, and United Kingdom. Due to varying data quality of publicly available data, not all information can be provided for each country. Sources for European countries comprise detailed power plants lists from national institutions, ministries, or market participants as well as manually compiled lists of power plants for countries without a system-wide power plant list. All data processing is conducted in Python and pandas, and has been documented in the Jupyter Notebooks linked below.
-profile: tabular_data_package
+profile: tabular-data-package
 _external: false
 _metadataVersion: 1.2
 attribution: "Attribution should be given as follows: Open Power System Data. 2018. Data Package Conventional power plants. Version 2018-12-20. https://doi.org/10.25832/conventional_power_plants/2018-12-20. (Primary data from various sources, for a complete list see URL)."
