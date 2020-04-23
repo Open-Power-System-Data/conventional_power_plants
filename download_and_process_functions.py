@@ -362,6 +362,28 @@ def potentialmatching(url_bnetza, url_uba):
 #    return possiblematcheslist
     return plantlist_bnetza_reduced
 
+def add_location_and_EIC(country, df):
+    
+    # Access the second list with EIC-Codes and geographic coordinates
+    filepath = os.path.join('input', 'locations', ('input_plant_locations_' + country + '.csv'))
+    additional_data_df = pd.read_csv(filepath, encoding='utf-8', header=0, index_col=None)
+
+    # Initiate matching
+    merged_df = df.merge(additional_data_df,
+                            left_on='name',
+                            right_on='name',
+                            how='left',
+                            suffixes=('_x', ''))
+
+    # Drop columns after merger
+    colsToDrop = ['eic_code_x', 'lat_x', 'lon_x']
+    merged_df = merged_df.drop(colsToDrop, axis=1)
+    
+    # add country abbreviation
+    merged_df.country = country
+    
+    return merged_df
+
 
 # Testing this file
 if __name__ == "__main__":
