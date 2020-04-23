@@ -1,0 +1,89 @@
+/* initially hide all groups (even before JS is loaded), so the page will never render them while loading */
+[data-class="wpcf7cf_group"], .wpcf7cf_remove, .wpcf7cf_add {
+    display:none;
+}
+
+.wpcf7cf_repeater_sub {
+    margin-bottom: 20px;
+}
+
+.wpcf7cf_repeater_controls, .wpcf7cf_step_controls {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.wpcf7cf_steps {
+    /* display:flex; */
+}
+
+.wpcf7cf_multistep .wpcf7cf_step {
+    /* display:none; */
+    width: 100%;
+}
+
+.wpcf7cf_multistep .wpcf7cf_steps-dots {
+    display: flex;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.wpcf7cf_multistep .wpcf7cf_steps-dots .dot .step-index {
+    display: inline-block;
+    border-radius: 50%;
+    background: #dfdfdf;
+    color: #000000;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.wpcf7cf_multistep .wpcf7cf_steps-dots .dot {
+    border-bottom: 5px solid #dfdfdf;
+    text-align: center;
+    flex: 1;
+    padding: 15px;
+}
+.wpcf7cf_multistep .wpcf7cf_steps-dots .dot.completed {
+    border-bottom: 5px solid #333;
+}
+.wpcf7cf_multistep .wpcf7cf_steps-dots .dot.active {
+    border-bottom: 5px solid #333;
+    font-weight: bold;
+}
+
+.wpcf7cf_multistep .wpcf7cf_steps-dots .dot.completed .step-index {
+    background-color: #333;
+    color: #ffffff;
+}
+
+.wpcf7cf_multistep .wpcf7cf_steps-dots .dot.active .step-index {
+    background-color: #333;
+    color: #ffffff;
+}
+
+.wpcf7cf_step_controls .disabled {
+    pointer-events: none;
+    cursor: default;
+    opacity: .5;
+}   
+
+.page-template-tpl-form-tester .wpcf7cf_repeater {
+    border: 3px solid #f0f0f0;
+    background: #d9d9d9;
+    padding: 20px 40px 20px 20px;
+}
+
+.page-template-tpl-form-tester .wpcf7cf_repeater_sub {
+    border: 3px solid #f0f0f0;
+    background: #ffffff;
+    padding: 20px 40px 20px 20px;
+}
+
+.page-template-tpl-form-tester [data-class="wpcf7cf_group"] {
+    border: 3px solid #f0f0f0;
+    background: #8efca6b9;
+    padding: 20px 40px 20px 20px;
+}

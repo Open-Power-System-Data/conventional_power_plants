@@ -1,0 +1,51 @@
+#buflag{
+  display: none;
+}
+
+#eloquaForm .prog-btn{
+  display: none;
+}
+
+.spinner {
+  background: url('../img/icis-form.gif') no-repeat center;
+  background-size: 48px 48px;
+  display: block;
+  opacity: .7;
+  filter: alpha(opacity=70);
+  width: 100%;
+  height: 48px;
+  margin: 20px 10px !important;
+  /*display:none;*/
+}
+
+.contact-form-7-thankyou{
+  display:none;
+  margin-bottom:60px;
+  margin-top:60px;
+}
+
+.wpcf7-form .wpcf7-response-output{
+/*  display:none !important; */
+}
+
+.Business_Unit_Flag .wpcf7-checkbox .wpcf7-list-item-label {
+    line-height: 1.5 !important;
+    font-size: 14px;
+    margin-left: 0px;
+    display:inline;
+}
+
+.Business_Unit_Flag .wpcf7-checkbox .wpcf7-list-item input[type="checkbox"]{
+  display:inline!important;
+  vertical-align: middle;
+  position: relative;
+  bottom: 1px;
+}
+
+.icis-stage{
+  display: none;
+}
+
+#progressive-btn{
+  visibility: hidden;
+}

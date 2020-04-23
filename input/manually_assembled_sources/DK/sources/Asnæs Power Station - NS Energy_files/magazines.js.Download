@@ -1,0 +1,30 @@
+const pageNavSmContainer = document.querySelector(".page-nav-sm-container");
+const mobileNavHeader = document.querySelector(".mobile-nav-header");
+const tabLinks = [...document.querySelectorAll("#aboutus-magazine-links li")];
+
+mobileNavHeader.addEventListener("click", () => {
+    if (pageNavSmContainer.offsetHeight > 50) {
+        pageNavSmContainer.style.height = "40px";
+        return;
+	}
+	const pageNavLinks = document.querySelector(".page-navigation-links").offsetHeight;
+	const tabLinksHeight = tabLinks.reduce((acc, curr) => acc + curr.offsetHeight, 0);
+    pageNavSmContainer.style.height = `${pageNavLinks + 5}px`;
+});
+
+tabLinks.forEach(element => {
+	if (element.classList[0] !== "mobile-nav-header") {
+		var classToDisplay;
+		if (element.attributes["data-tab"]) {
+			classToDisplay = element.attributes["data-tab"].value;
+			element.addEventListener("click", () => {
+			document.querySelector(".tab-1").style.display = "none";
+			[...document.querySelectorAll(".current")].forEach(element => element.classList.remove("current"));
+			[...document.querySelectorAll("li[data-tab]")].forEach(element => element.classList.remove("active"));
+			document.querySelector(`.${classToDisplay}`).classList.add("current");
+			document.querySelector(`li[data-tab=${classToDisplay}]`).classList.add("active");
+		})
+		}
+		
+	}
+})

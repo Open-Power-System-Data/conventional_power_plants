@@ -1,0 +1,51 @@
+const filterContainer = document.querySelector(".a-z-category-filter-container");
+const filterTitle = document.querySelector(".filter-title");
+const supplierTileArr = document.querySelectorAll(".supplier-tile");
+const showBtnElementArr = Array.from(document.querySelectorAll(".company-a-z-container .companies-section-container .company-index-container p"));
+const hideBtnElementArr = Array.from(document.querySelectorAll(".company-a-z-container .companies-section-container .company-details .top-container p"));
+const firstCompanySectionContainer = document.querySelector("section.companies-section-container:first-of-type");
+const firstCompanySectionContainerChildrenHeight = Array.from(firstCompanySectionContainer.children).reduce((acc, curr) => acc + curr.offsetHeight, 0);
+
+if (window.screen.availWidth < 900) {
+  firstCompanySectionContainer.style.height = `${firstCompanySectionContainerChildrenHeight + 17}px`;
+}
+
+// filterContainer.addEventListener("click", () => {
+//     if (window.screen.width < 900) {
+//         filterContainer.style.height = `${[...filterContainer.children].reduce((acc, curr) => acc + curr.offsetHeight, 0)}px`
+//         filterTitle.style.display = "none";
+//     }
+// })
+
+supplierTileArr.forEach(element => {
+    element.addEventListener("click", () => {
+        if (window.screen.width < 900) {
+            element.style.height = "270px"
+        }
+    });
+});
+
+showBtnElementArr.forEach(element => {
+    if (window.screen.availWidth < 900) {
+        element.addEventListener("click", () => {
+    const companiesSectionContainer = element.parentElement.parentElement;      
+		const elementChildrenArr = [...element.parentElement.parentElement.children];
+		const height = elementChildrenArr.reduce((acc, curr) => {
+			return acc + curr.offsetHeight;
+		    }, 0);
+        companiesSectionContainer.style.height = `${height + 17}px`;
+        element.style.display = 'none';	
+        })
+    }
+});
+
+hideBtnElementArr.forEach(element => {
+    if (window.screen.availWidth < 900) {
+        element.addEventListener("click", () => {
+    const companiesSectionContainer = element.parentElement.parentElement.parentElement;
+    const showBtn = companiesSectionContainer.querySelector(".company-index-container p");      
+        companiesSectionContainer.style.height = "43px";
+        showBtn.style.display = "flex";	
+        })
+    }
+});

@@ -1,0 +1,153 @@
+﻿Typ,Palivo,název elektrárny,oznacení bloku,výkon instalovaný (MW)
+PE ,HU ,Alpiq‐ECK,7,135
+PE ,HU ,Alpiq‐ECK,B5 ,135
+PE ,HU ,Alpiq‐ECK,B7 ,135
+PE ,HU ,C.Budejovice,TCB ,66.2
+PE ,HU ,DRPEMO ,"VKR,TEV ",18
+PE ,HU ,Dvur Kralove,TDK ,18.3
+PE ,HU ,Energotrans ,TG1 ,60
+PE ,HU ,Energotrans ,TG2 ,60
+PE ,HU ,Energotrans ,TG3 ,60
+PE ,HU ,Energotrans ,TG4 ,60
+PE ,HU ,Hodonin ,EHO ,107
+PE ,HU ,CHEZA ,,275
+PE ,HU ,Chvaletice ,B1 ,205
+PE ,HU ,Chvaletice ,B2 ,205
+PE ,HU ,Chvaletice ,B3 ,205
+PE ,HU ,Chvaletice ,B4 ,205
+PE ,HU ,Karlovy Vary ,KVT ,1.3
+PE ,HU ,Karvina ,TG4 ,15
+PE ,HU ,Karvina ,TG5 ,40
+PE ,HU ,Kauc.Kralupy,TG1 ,27
+PE ,HU ,Kauc.Kralupy,TG2 ,33
+PE ,HU ,Kolin Zalabi ,TG4 ,4.5
+PE ,HU ,Kolin Zalabi ,TG5 ,12
+PE ,HU ,Komorany,TG20 ,35
+PE ,HU ,Komorany,TG21 ,22
+PE ,HU ,Komorany,TG22 ,34
+PE ,HU ,Komorany,TG4 ,32
+PE ,HU ,Komorany,TG5 ,32
+PE ,HU ,Komorany,TG6 ,32
+PE ,HU ,Komorany,TG9 ,32
+PE ,HU ,Ledvice 2 ,B2 ,110
+PE ,HU ,Ledvice 2 ,B3 ,110
+PE ,HU ,Ledvice 3 ,B4 ,110
+PE ,HU ,Ledvice 4 ,B6 ,660
+PE ,HU ,Liberec ,TLI ,15
+ PE , HU , Melník2 , B10 ,110
+ PE , HU , Melník2 , B9 ,110
+ PE , HU , Melník3 , B11 ,500
+ PE , HU , Náchod , TNA ,17
+ PE , HU , Olomouc , TG3 ,41
+ PE , HU , Olomouc , TG4 ,8
+ PE , HU , Opatovice , TG1 ,60
+ PE , HU , Opatovice , TG2 ,60
+ PE , HU , Opatovice , TG3 ,63
+ PE , HU , Opatovice , TG4 ,60
+ PE , HU , Opatovice , TG5 ,60
+ PE , HU , Opatovice , TG6 ,63
+ PE , HU , Ostrava , TPV ,13.5
+ PE , HU ,Ostrov n. O., TOS ,6
+ PE , HU , Otrokovice , TG1 ,25
+ PE , HU , Otrokovice , TG2 ,27.5
+ PE , HU , PEVTZ , PEActherm ,26
+ PE , HU , PE CEZ Morava , PESME ,129
+ PE , HU , PE CEZ sever , PESCE ,173.7
+ PE , HU , PE CEZ východ , PEVCE ,135
+ PE , HU , PE CEZ západ , PEZCE ,26
+ PE , HU , PE CEZstred , PESTE ,77.2
+ PE , HU , PE EONvýchod , PEJME ,71
+ PE , HU , PE EONzápad , PEJCE ,48.8
+ PE , HU , PE PREdi , PEPRE ,11
+ PE , HU , PE Vresová , TG1 ,55
+ PE , HU , PE Vresová , TG2 ,55
+ PE , HU , PE Vresová , TG3 ,55
+ PE , HU , PE Vresová , TG4 ,55
+ PE , HU , Písek , TPI ,7.8
+ PE , HU , Planá n/L. , TG3 ,20.7
+ PE , HU , Plzen teplárna , TG1 ,67
+ PE , HU , Plzen teplárna , TG2 ,67
+ PE , HU , Plzenská energetika , TG10 ,26
+ PE , HU , Plzenská energetika , TG8 ,31
+ PE , HU , Plzenská energetika , TG9 ,33
+ PE , HU , Pocerady , B2 ,200
+ PE , HU , Pocerady , B3 ,200
+ PE , HU , Pocerady , B4 ,200
+ PE , HU , Pocerady , B5 ,200
+ PE , HU , Pocerady , B6 ,200
+ PE , HU , Prunérov 1 , B3 ,110
+ PE , HU , Prunérov 1 , B4 ,110
+ PE , HU , Prunérov 1 , B5 ,110
+ PE , HU , Prunérov 1 , B6 ,110
+ PE , HU , Prunérov 2 , B23 ,250
+ PE , HU , Prunérov 2 , B24 ,250
+ PE , HU , Prunérov 2 , B25 ,250
+ PE , HU , Prerov , TG1 ,42.5
+ PE , HU , Prerov , TG2 ,8
+ PE , HU , Príbram , TG1 ,44.4
+ PE , HU , Strakonice , TST ,30
+ PE , HU , ŠKO-ENERGO , ,87.2
+ PE , HU , Špitálka , PS ,80.6
+ PE , HU , Tábor , TTB ,22.5
+ PE , HU , Terea(Cheb) , Terea ,5.1
+ PE , HU , Tisová2 , B6 ,112
+ PE , HU , Trmice , TG4 ,20
+ PE , HU , Trmice , TG5 ,20
+ PE , HU , Trmice , TG6 ,16
+ PE , HU , Trmice , TG7 ,16
+ PE , HU , Trmice , TG8 ,16
+ PE , HU , Trebovice , TG15 ,72
+ PE , HU , Trebovice , TG16 ,72
+ PE , HU , Trebovice , TG33 ,33
+ PE , HU , Tušimice 2 , B21 ,200
+ PE , HU , Tušimice 2 , B22 ,200
+ PE , HU , Tušimice 2 , B23 ,200
+ PE , HU , Tušimice 2 , B24 ,200
+ PE , CU , Detmarovice , B1 ,200
+ PE , CU , Detmarovice , B2 ,200
+ PE , CU , Detmarovice , B3 ,200
+ PE , CU , Detmarovice , B4 ,200
+ PE , CU , PEVitkovice , EVI ,79
+ PE , CU ,Porici 2 , EPO2 ,165
+ PE , CU , CS Armáda , CSA ,24
+ PE , CU , MITTAL , NH ,254
+ PE , CU , Trinec , TZ ,96
+ PE , CU , VCHZ Semtín , VCHZ ,75.6
+ PE , CU , Brno Sever , PBS ,4
+ PE , CU , Zlín , ,69
+ PE , CU , Malešice 2 , TMA ,122
+ PE , CU , Pražská tepl ," TMI,TVE ",10.8
+ PE , BIO , Plzen teplárna , TG3 ,11.5
+ PE , BIO , Spalovna Brno , SAKO ,22.7
+ PE , BIO , Spalovna Malešice , SMA ,17.4
+ PPE , PLYN , Pocerady2 , B21 ,845
+ PPE , PLYN , PP C.Mlýn , TG1 ,72
+ PPE , PLYN , PP C.Mlýn , TG2 ,24
+ PPE , PLYN , PP Kyjov , TG1 ,7.5
+ PPE , PLYN , PP Kyjov , TG2 ,7.5
+ PPE , PLYN , PP Vresová , B1 ,191
+ PPE , PLYN , PP Vresová , B2 ,190
+ PSE , PLYN , Alpiq-PS , ECKGB6 ,66.9
+ PSE , PLYN , Alpiq-PS , GTB8 ,45
+ PSE , OLEJ , Plzenská energetika , TG11D ,21
+ PSE , PLYN , Prostejov , EPRJ ,58.9
+ PSE , PLYN , Planán/L. , TG4P ,36
+ PSE , PLYN , Kauc.Kralupy , TG4 ,32
+ JE , URAN , Dukovany , RE1 ,510
+ JE , URAN , Dukovany , RE2 ,510
+ JE , URAN , Dukovany , RE3 ,510
+ JE , URAN , Dukovany , RE4 ,510
+ JE , URAN , Temelín , B1 ,1125
+ JE , URAN , Temelín , B2 ,1125
+ PVE , VODA , fiktivníbloky , Dalesice ,480
+ PVE , VODA , fiktivníbloky , DlouheStrane,650
+ PVE , VODA , fiktivníbloky , Stechovice2 ,45
+ VE , VODA , fiktivníbloky , Malevody Cechy ,262.8
+ VE , VODA , fiktivníbloky , MalevodyMorava ,106.5
+ VE , VODA , Dl.Stráne 2 , TG3 ,0.2
+ VE , VODA , fiktivníbloky , Vltava ,703.3
+ VE , VODA , Korensko2 , TG1 ,0.9
+ VE , VODA , MVEZelina , TG1 ,0.3
+ VE , VODA , MVEZelina , TG2 ,0.3
+ VE , VODA , MVEZelina , TG3 ,0
+ VE , VODA , MVEZelina , TG4 ,0

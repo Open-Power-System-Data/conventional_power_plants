@@ -1,0 +1,96 @@
+company,name,street,postcode,city,country,capacity,energy_source,technology,additional_info,type,chp,commissioned,comment,source,eic_code,lat,lon
+Soške elektrarne Nova Gorica (SENG),Ajba,,,,SI,0.25,Hydro,,,,,2008,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,,
+Hidroelektrarne na Spodnji Savi (HESS),Arto-Blanca G1,,,,SI,13.04,Hydro,Run-of-river,,,,2009,,http://www.he-ss.si/eng/he-blanca-general-info.html,,45.99027,15.38183
+Hidroelektrarne na Spodnji Savi (HESS),Arto-Blanca G2,,,,SI,13.04,Hydro,Run-of-river,,,,2009,,http://www.he-ss.si/eng/he-blanca-general-info.html,,45.99027,15.38183
+Hidroelektrarne na Spodnji Savi (HESS),Arto-Blanca G3,,,,SI,13.04,Hydro,Run-of-river,,,,2009,,http://www.he-ss.si/eng/he-blanca-general-info.html,,45.99027,15.38183
+Soške elektrarne Nova Gorica (SENG),Avče,,,,SI,185,Hydro,Pumped storage,,,,2009,,https://www.seng.si/en/hydropower-plants/pumped-storage-hydropower-plant/,28W-G-0000000009,46.08412,13.66757
+Soške elektrarne Nova Gorica (SENG),Bača,,,,SI,0.5,Hydro,,,,,1991,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,,
+Hidroelektrarne na Spodnji Savi (HESS),Boštanj G1,,,,SI,10.84,Hydro,Run-of-river,,,,2006,,http://www.he-ss.si/eng/he-bostanj-general-info.html,,46.01704,15.28121
+Hidroelektrarne na Spodnji Savi (HESS),Boštanj G2,,,,SI,10.84,Hydro,Run-of-river,,,,2006,,http://www.he-ss.si/eng/he-bostanj-general-info.html,,46.01704,15.28121
+Hidroelektrarne na Spodnji Savi (HESS),Boštanj G3,,,,SI,10.84,Hydro,Run-of-river,,,,2006,,http://www.he-ss.si/eng/he-bostanj-general-info.html,,46.01704,15.28121
+Termoelektrarna Brestanica (TEB),Brestanica GT1,Cesta prvih borcev 18,8280,Brestanica,SI,23,Natural gas,Gas turbine,,,,1975,will be replaced by GT 6 & 7,http://www.teb.si/en/production-units,28W-G-000000122W,45.99757,15.47853
+Termoelektrarna Brestanica (TEB),Brestanica GT2,Cesta prvih borcev 19,8280,Brestanica,SI,23,Natural gas,Gas turbine,,,,1975,will be replaced by GT 6 & 7,http://www.teb.si/en/production-units,28W-G-000000122W,45.99757,15.47853
+Termoelektrarna Brestanica (TEB),Brestanica GT3,Cesta prvih borcev 20,8280,Brestanica,SI,23,Natural gas,Gas turbine,,,,1975,will be replaced by GT 6 & 7,http://www.teb.si/en/production-units,28W-G-000000122W,45.99757,15.47853
+Termoelektrarna Brestanica (TEB),Brestanica GT4,Cesta prvih borcev 21,8280,Brestanica,SI,114,Natural gas,Gas turbine,,,,2000,,http://www.teb.si/en/production-units,28W-G-000000122W,45.99757,15.47853
+Termoelektrarna Brestanica (TEB),Brestanica GT5,Cesta prvih borcev 22,8280,Brestanica,SI,114,Natural gas,Gas turbine,,,,2000,,http://www.teb.si/en/production-units,28W-G-000000122W,45.99757,15.47853
+Termoelektrarna Brestanica (TEB),Brestanica GT6,Cesta prvih borcev 22,8280,Brestanica,SI,53,Natural gas,Gas turbine,,,,,,http://www.teb.si/en/production-units,28W-G-000000122W,45.99757,15.47853
+Hidroelektrarne na Spodnji Savi (HESS),Brežice G1,,,,SI,15.8,Hydro,Run-of-river,,,,2017,,http://www.he-ss.si/eng/he-brezice-general-info.html,,45.89888,15.5882
+Hidroelektrarne na Spodnji Savi (HESS),Brežice G2,,,,SI,15.8,Hydro,Run-of-river,,,,2017,,http://www.he-ss.si/eng/he-brezice-general-info.html,,45.89888,15.5882
+Hidroelektrarne na Spodnji Savi (HESS),Brežice G3,,,,SI,15.8,Hydro,Run-of-river,,,,2017,,http://www.he-ss.si/eng/he-brezice-general-info.html,,45.89888,15.5882
+Soške elektrarne Nova Gorica (SENG),Cerkno,,,,SI,0.436,Hydro,,,,,1984,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,,
+Dravske elektrarne Maribor (DEM),Ceršak G1,,,,SI,0.325,Hydro,Run-of-river,,,,1955,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,,
+Dravske elektrarne Maribor (DEM),Ceršak G2,,,,SI,0.325,Hydro,Run-of-river,,,,1955,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,,
+Soške elektrarne Nova Gorica (SENG),Doblar 1 G1,,,,SI,10,Hydro,Run-of-river,,,,1939,,https://www.seng.si/en/hydropower-plants/large-hydropower-plants/,,46.11382,13.68811
+Soške elektrarne Nova Gorica (SENG),Doblar 1 G2,,,,SI,10,Hydro,Run-of-river,,,,1939,,https://www.seng.si/en/hydropower-plants/large-hydropower-plants/,,46.11382,13.68811
+Soške elektrarne Nova Gorica (SENG),Doblar 1 G3,,,,SI,10,Hydro,Run-of-river,,,,1939,,https://www.seng.si/en/hydropower-plants/large-hydropower-plants/,,46.11382,13.68811
+Soške elektrarne Nova Gorica (SENG),Doblar 2,,,,SI,40,Hydro,Run-of-river,,,,2002,,https://www.seng.si/en/hydropower-plants/large-hydropower-plants/,,46.11382,13.68811
+Dravske elektrarne Maribor (DEM),Dravograd G1,,,,SI,8.73,Hydro,Run-of-river,,,,1944,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.58558,15.01881
+Dravske elektrarne Maribor (DEM),Dravograd G2,,,,SI,8.73,Hydro,Run-of-river,,,,1944,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.58558,15.01881
+Dravske elektrarne Maribor (DEM),Dravograd G3,,,,SI,8.73,Hydro,Run-of-river,,,,1955,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.58558,15.01881
+Dravske elektrarne Maribor (DEM),Fala G1,,,,SI,19.3,Hydro,Run-of-river,,,,1918,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.55874,15.44511
+Dravske elektrarne Maribor (DEM),Fala G2,,,,SI,19.3,Hydro,Run-of-river,,,,1918,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.55874,15.44511
+Dravske elektrarne Maribor (DEM),Fala G3,,,,SI,19.3,Hydro,Run-of-river,,,,1918,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.55874,15.44511
+Dravske elektrarne Maribor (DEM),Formin G1,,,,SI,58,Hydro,Run-of-river,,,,1978,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,28W-G-000000091H,46.40251,16.03374
+Dravske elektrarne Maribor (DEM),Formin G2,,,,SI,58,Hydro,Run-of-river,,,,1978,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,28W-G-000000091H,46.40251,16.03374
+Soške elektrarne Nova Gorica (SENG),Gradišče,,,,SI,0.15,Hydro,,,,,1922,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,,
+Soške elektrarne Nova Gorica (SENG),Hubelj,,,,SI,2.1,Hydro,,,,,1931,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,45.89431,13.90556
+Soške elektrarne Nova Gorica (SENG),Jelenk,,,,SI,0.07,Hydro,,,,,1987,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,,
+Soške elektrarne Nova Gorica (SENG),Klavžarica,,,,SI,0.303,Hydro,,,,,2006,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,,
+Soške elektrarne Nova Gorica (SENG),Knežke Ravne 1,,,,SI,0.1,Hydro,,,,,1979,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,,
+Soške elektrarne Nova Gorica (SENG),Knežke Ravne 2,,,,SI,0.81,Hydro,,,,,1993,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,,
+Nuklearna Elektrarna Krško  (NEK),Krško ,Vrbina 12,8270,Krško ,SI,696,Nuclear,Steam turbine,,,,,,https://www.nek.si/en/about-nuclear-technology/technical-data,28W-G-000000119L,45.93833,15.51554
+Hidroelektrarne na Spodnji Savi (HESS),Krško G1,,,,SI,13.04,Hydro,Run-of-river,,,,2013,,http://www.he-ss.si/eng/he-krsko-general-info.html,,45.97461,15.48091
+Hidroelektrarne na Spodnji Savi (HESS),Krško G2,,,,SI,13.04,Hydro,Run-of-river,,,,2013,,http://www.he-ss.si/eng/he-krsko-general-info.html,,45.97461,15.48091
+Hidroelektrarne na Spodnji Savi (HESS),Krško G3,,,,SI,13.04,Hydro,Run-of-river,,,,2013,,http://www.he-ss.si/eng/he-krsko-general-info.html,,45.97461,15.48091
+ENERGETIKA LJUBLJANA,Ljubljana 1,Verovškova ulica 62,1000,Ljubljana,SI,42,Lignite,Steam turbine,,CHP,yes,1966,,https://www.energetika-lj.si/sites/www.jhl.si/files/dokumenti/energetika-id-brosura-ang-web.pdf,28W-G-000000082I,46.05811,14.54381
+ENERGETIKA LJUBLJANA,Ljubljana 2,Verovškova ulica 62,1000,Ljubljana,SI,42,Lignite,Steam turbine,,CHP,yes,1967,,https://www.energetika-lj.si/sites/www.jhl.si/files/dokumenti/energetika-id-brosura-ang-web.pdf,28W-G-000000082I,46.05811,14.54381
+ENERGETIKA LJUBLJANA,Ljubljana 3,Verovškova ulica 62,1000,Ljubljana,SI,50,Lignite,Steam turbine,,CHP,yes,1985,reconstructed: 2008,https://www.energetika-lj.si/sites/www.jhl.si/files/dokumenti/energetika-id-brosura-ang-web.pdf,28W-G-000000082I,46.05811,14.54381
+Soške elektrarne Nova Gorica (SENG),Log,,,,SI,1.6,Hydro,,,,,1931,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,46.41081,13.61339
+Dravske elektrarne Maribor (DEM),Mariborski otok G1,,,,SI,20,Hydro,Run-of-river,,,,1948,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.56804,15.60415
+Dravske elektrarne Maribor (DEM),Mariborski otok G2,,,,SI,20,Hydro,Run-of-river,,,,1953,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.56804,15.60415
+Dravske elektrarne Maribor (DEM),Mariborski otok G3,,,,SI,20,Hydro,Run-of-river,,,,1960,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.56804,15.60415
+Dravske elektrarne Maribor (DEM),Markovci G1,,,,SI,0.3875,Hydro,Run-of-river,,,,2012,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.38817,15.92648
+Dravske elektrarne Maribor (DEM),Markovci G2,,,,SI,0.3875,Hydro,Run-of-river,,,,2012,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.38817,15.92648
+Soške elektrarne Nova Gorica (SENG),Marof,,,,SI,0.44,Hydro,,,,,1932,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,,
+Savske elektrarne Ljubljana (SEL),Mavcice,,,,SI,38,Hydro,Reservoir,,,,1986,,https://www.sel.si/HE-mavcice,,46.18387,14.40805
+Savske elektrarne Ljubljana (SEL),Medvode,,,,SI,25,Hydro,Reservoir,,,,1953,,https://www.sel.si/HE-medvode,,46.14578,14.41438
+Dravske elektrarne Maribor (DEM),Melje G1,,,,SI,1.13,Hydro,Run-of-river,,,,,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.56087,15.67309
+Dravske elektrarne Maribor (DEM),Melje G1,,,,SI,1.13,Hydro,Run-of-river,,,,,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.56087,15.67309
+Soške elektrarne Nova Gorica (SENG),Mesto,,,,SI,0.2,Hydro,,,,,1909,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,,
+Hidroelektrarne na Spodnji Savi (HESS),Mokrice G1,,,,SI,9.35,Hydro,Run-of-river,,,,,Under construction,http://www.he-ss.si/eng/he-mokrice-specifications.html,,45.87102,15.67196
+Hidroelektrarne na Spodnji Savi (HESS),Mokrice G2,,,,SI,9.35,Hydro,Run-of-river,,,,,Under construction,http://www.he-ss.si/eng/he-mokrice-specifications.html,,45.87102,15.67196
+Hidroelektrarne na Spodnji Savi (HESS),Mokrice G3,,,,SI,9.35,Hydro,Run-of-river,,,,,Under construction,http://www.he-ss.si/eng/he-mokrice-specifications.html,,45.87102,15.67196
+Savske elektrarne Ljubljana (SEL),Moste,,,,SI,21,Hydro,Reservoir,,,,1977,,https://www.sel.si/HE-moste,,46.41016,14.12601
+Soške elektrarne Nova Gorica (SENG),Možnica,,,,SI,0.53,Hydro,,,,,1911,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,,
+Soške elektrarne Nova Gorica (SENG),Mrzla Rupa,,,,SI,0.648,Hydro,,,,,1989,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,,
+Dravske elektrarne Maribor (DEM),Ožbalt G1,,,,SI,24.4,Hydro,Run-of-river,,,,1960,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.57729,15.40599
+Dravske elektrarne Maribor (DEM),Ožbalt G2,,,,SI,24.4,Hydro,Run-of-river,,,,1960,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.57729,15.40599
+Dravske elektrarne Maribor (DEM),Ožbalt G3,,,,SI,24.4,Hydro,Run-of-river,,,,1960,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.57729,15.40599
+Soške elektrarne Nova Gorica (SENG),Pečnik,,,,SI,0.125,Hydro,,,,,1983,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,,
+Soške elektrarne Nova Gorica (SENG),Planina,,,,SI,0.136,Hydro,,,,,1989,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,,
+Soške elektrarne Nova Gorica (SENG),Plave 1 G1,,,,SI,7.5,Hydro,Run-of-river,,,,1940,,https://www.seng.si/en/hydropower-plants/large-hydropower-plants/,,46.09935,13.64256
+Soške elektrarne Nova Gorica (SENG),Plave 1 G2,,,,SI,7.5,Hydro,Run-of-river,,,,1940,,https://www.seng.si/en/hydropower-plants/large-hydropower-plants/,,46.09935,13.64256
+Soške elektrarne Nova Gorica (SENG),Plave 2,,,,SI,20,Hydro,Run-of-river,,,,2002,,https://www.seng.si/en/hydropower-plants/large-hydropower-plants/,,46.05256,13.60608
+Soške elektrarne Nova Gorica (SENG),Plužna,,,,SI,1.72,Hydro,,,,,1931,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,46.32449,13.51293
+Soške elektrarne Nova Gorica (SENG),Podmelec,,,,SI,0.425,Hydro,,,,,1931,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,,
+Dravske elektrarne Maribor (DEM),Ruše G1,,,,SI,0.053,Hydro,Run-of-river,,,,2012,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,,
+Dravske elektrarne Maribor (DEM),Ruše G2,,,,SI,0.053,Hydro,Run-of-river,,,,2012,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,,
+Soške elektrarne Nova Gorica (SENG),Solkan G1,,,,SI,10.66,Hydro,Run-of-river,,,,1984,,https://www.seng.si/en/hydropower-plants/large-hydropower-plants/,,45.98441,13.65506
+Soške elektrarne Nova Gorica (SENG),Solkan G2,,,,SI,10.66,Hydro,Run-of-river,,,,1984,,https://www.seng.si/en/hydropower-plants/large-hydropower-plants/,,45.98441,13.65506
+Soške elektrarne Nova Gorica (SENG),Solkan G3,,,,SI,10.66,Hydro,Run-of-river,,,,1984,,https://www.seng.si/en/hydropower-plants/large-hydropower-plants/,,45.98441,13.65506
+Termoelektrarna Šoštanj (TEŠ ),Šoštanj 5,Cesta Lole Ribarja 18,3325,Šoštanj,SI,345,Lignite,Steam turbine,,CHP,yes,,will be replaced by Šoštanj 6,https://www.icis.com/explore/resources/news/2015/02/17/9861364/giant-unit-will-lower-slovenia-electricity-prices-from-mid-april-traders/,28W-G-000000080M,46.37305,15.05384
+Termoelektrarna Šoštanj (TEŠ ),Šoštanj 6,Cesta Lole Ribarja 18,3325,Šoštanj,SI,600,Lignite,Steam turbine,,CHP,yes,2015,,https://www.icis.com/explore/resources/news/2015/02/17/9861364/giant-unit-will-lower-slovenia-electricity-prices-from-mid-april-traders/,28W-G-000000080M,46.37305,15.05384
+Termoelektrarna Šoštanj (TEŠ ),Šoštanj GU1,Cesta Lole Ribarja 18,3325,Šoštanj,SI,42,Natural gas,,,CHP,yes,,,http://www.hse.si/en/group-hse/companies-in-slovenia/termoelektrarna-sostanj,28W-G-000000080M,46.37305,15.05384
+Termoelektrarna Šoštanj (TEŠ ),Šoštanj GU2,Cesta Lole Ribarja 18,3325,Šoštanj,SI,42,Natural gas,,,CHP,yes,,,http://www.hse.si/en/group-hse/companies-in-slovenia/termoelektrarna-sostanj,28W-G-000000080M,46.37305,15.05384
+Soške elektrarne Nova Gorica (SENG),Tolmin,,,,SI,0.109,Hydro,,,,,1995,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,,
+Soške elektrarne Nova Gorica (SENG),Trebuša,,,,SI,0.76,Hydro,,,,,1985,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,,
+Savske elektrarne Ljubljana (SEL),Vrhovo,,,,SI,34,Hydro,Reservoir,,,,1989,,https://www.sel.si/HE-vrhovo,,46.04415,15.22365
+Dravske elektrarne Maribor (DEM),Vuhred G1,,,,SI,24.1,Hydro,Run-of-river,,,,1956,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.58659,15.27548
+Dravske elektrarne Maribor (DEM),Vuhred G2,,,,SI,24.1,Hydro,Run-of-river,,,,1956,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.58659,15.27548
+Dravske elektrarne Maribor (DEM),Vuhred G3,,,,SI,24.1,Hydro,Run-of-river,,,,1958,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.58659,15.27548
+Dravske elektrarne Maribor (DEM),Vuzenica G1,,,,SI,18.53,Hydro,Run-of-river,,,,1957,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.59257,15.15301
+Dravske elektrarne Maribor (DEM),Vuzenica G2,,,,SI,18.53,Hydro,Run-of-river,,,,1957,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.59257,15.15301
+Dravske elektrarne Maribor (DEM),Vuzenica G3,,,,SI,18.53,Hydro,Run-of-river,,,,1957,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,,46.59257,15.15301
+Soške elektrarne Nova Gorica (SENG),Zadlaščica,,,,SI,8,Hydro,,,,,1989,,https://www.seng.si/en/hydropower-plants/small-hydropower-plants/,,46.21253,13.76141
+Dravske elektrarne Maribor (DEM),Zlatoličje G1,,,,SI,63,Hydro,Run-of-river,,,,1969,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,28W-G-000000090J,46.44793,15.78693
+Dravske elektrarne Maribor (DEM),Zlatoličje G2,,,,SI,63,Hydro,Run-of-river,,,,1969,,http://www.dem.si/en-gb/Power-plants-and-generation/General-data,28W-G-000000090J,46.44793,15.78693

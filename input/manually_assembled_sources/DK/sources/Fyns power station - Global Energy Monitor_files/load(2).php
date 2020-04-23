@@ -1,0 +1,1 @@
+#p-logo > a > img{max-width:100px;margin:10px 0}@media (max-width:768px){#p-logo > a > img{max-width:80px}}

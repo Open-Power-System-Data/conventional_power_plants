@@ -1,0 +1,204 @@
+/************************ global styles - do not change ************************/
+body {
+  padding-right:0px !important;
+  padding-left:0px !important;
+ margin: 0px !important;
+}
+.wrapper-full {
+  padding-right:20px !important;
+  padding-left:20px !important;
+}
+
+/************************** 10/12 span fix *************************/
+
+.span2_4{width:180px;}
+.row-fluid .span2_4{width:15.893617021276595%;*width:15.840425531914894%;}
+
+/************* blue line on top of footer on every page ************/
+#line_12 {
+  border-top: 3px solid #1b60a3; 
+}
+/************* gray line on bottom of jumbotron on every page ************/
+#myCarousel {
+  border-bottom: 6px solid #1a1b1d; 
+}
+
+/************* intro text on index page ************/
+
+#intrologo {
+  float:left; width:250px; border-right:1px solid #898989;
+  margin-top:20px;
+  margin-bottom:20px;
+}
+#introtext{
+  float:left; margin-left:60px; max-width:670px;
+  margin-top:20px;
+  margin-bottom:20px;  
+}
+@media (max-width: 1199px) {
+  #intrologo {
+  border-right:none;
+  }
+  #introtext{
+  margin-left:0px;
+  max-width:730px;
+  margin-top:0px;
+  }
+}
+
+/*********************** news on index page ***********************/
+.newsblock {
+  width: 545px; 
+  height: 319px; 
+  margin-bottom: 20px; 
+  margin-top: 20px;
+  border-left: 1px solid #FFFFFF;
+  padding-left:20px;
+  float:left;
+  overflow: hidden;
+
+}
+.inewstop {
+	text-align:center;
+	color: #4c5d53;
+	padding-top:10px;
+	font-size:18px;
+}
+.inewsdatum {
+  min-width:150px;
+  max-width:200px;
+  float:left;
+}
+.inewstitle {
+  color: #308cb1;
+  font-weight: bold;  
+}
+.inewsscont {
+  float:left;
+  width:390px;
+}
+.iclearnews {
+	clear:both;
+	padding-top:10px;
+	
+}
+.inewsline {
+	border-top: 1px solid #DCDCDC;
+	padding-bottom:10px;
+}
+.snewsscont {
+  float:left;
+}
+.cnewsscont {
+  float:left;
+  max-width:800px;
+}
+@media (max-width: 679px) {
+  .newsblock {
+    margin-bottom: 20px; 
+    margin-top: 20px;
+    border-left: none;
+    float:left;
+    overflow: hidden;
+    width:auto;
+  }
+  .inewsdatum {
+    min-width:auto;
+    max-width:auto;
+    float:none;
+  }
+  .inewsscont {
+    width:auto;
+  }
+}
+/************************ ali ves ************************/
+
+.alives {
+  width: 545px; 
+  margin-bottom: 20px; 
+  margin-top: 20px;
+  padding-left:20px;
+  float:left;
+  overflow: hidden;
+}
+@media (max-width: 679px) {
+  .alives {
+    margin-bottom: 20px; 
+    margin-top: 20px;
+    border-left: none;
+    float:left;
+    overflow: hidden;
+    width:auto;
+  }
+}
+
+/************************ proizvodnja ************************/
+.pblock {
+  border-left: solid 1px white;
+  padding-left:20px;
+}
+.ptitle {
+  float:left;
+}
+.ptitle::before { content: '\A';  white-space: pre; }
+.pcontent::before { content: '\A';  white-space: pre; }
+    
+.pcontent {
+  border-left: solid 1px white;
+  margin-left:300px;
+  padding-left:20px;
+}
+@media (max-width: 679px) {
+  .pblock {
+    border-left: none;
+  }
+  .pcontent {
+    border-left: none;
+    margin-left:-20px;
+    float:left;
+  }
+}
+.pwhite {
+	color:white;
+}
+.pblue {
+	color: #00467c;
+}
+.pblack {
+	color:black;
+}
+/**** round arrow buttons ***/
+.btrg {
+  width:60px;
+  height:60px;
+  background-image: url('/data/images/btn/pg-m.png');
+  display:inline-block;
+}
+.btrg:hover {
+  background-image: url('/data/images/btn/pb-m.png');
+  text-decoration:none;
+}
+
+.btrw {
+  width:60px;
+  height:60px;
+  background-image: url('/data/images/btn/pw-m.png');
+  display:inline-block;
+}
+.btrw:hover {
+  background-image: url('/data/images/btn/pb-m.png');
+  text-decoration:none;
+}
+
+a[rel="prettyPhoto[pp_gal]"] img {
+	margin-top:5px;
+}
+
+/************************ linki na vrhu ************************/
+
+.tln { color:white; text-decoration:none; }
+.tln:link { color:white; text-decoration:none;  }
+.tln:visited { color: white; text-decoration:none; }
+.tln:hover { color: #0088cc; text-decoration:none; }
+
+/************************ add custom styles below ************************/
