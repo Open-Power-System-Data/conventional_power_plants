@@ -157,7 +157,7 @@ def getmatchinglist():
     """
     # read matching list
     result = pd.read_csv(
-        os.path.join('input', 'matching_bnetza_uba.csv'),
+        os.path.join('input', 'data', 'DE', 'matching_bnetza_uba.csv'),
         skiprows=0,
         sep=',',  # CSV field separator, default is ','
         thousands=',',  # Thousands separator, default is ','

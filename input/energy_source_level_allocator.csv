@@ -1,0 +1,10 @@
+fuel,energy_source_level_1,energy_source_level_2,energy_source_level_3
+"Biomass and biogas","Renewable energy","Bioenergy","Biomass and biogas"
+"Hard coal","Fossil fuels","Hard coal",""
+"Hydro","Renewable energy","Hydro",""
+"Lignite","Fossil fuels","Lignite",""
+"Natural gas","Fossil fuels","Natural gas",""
+"Nuclear","Nuclear","",""
+"Oil","Fossil fuels","Oil",""
+"Other fuels","Other","Other fuels",""
+"Waste","Other or unspecified energy sources","Waste",""

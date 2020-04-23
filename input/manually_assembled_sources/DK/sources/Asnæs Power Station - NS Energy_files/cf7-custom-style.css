@@ -1,6 +1,0 @@
-/********* Additional-options - Removes labels for checkboxes **********/
-.wpcf7-form .additional-options span.wpcf7-list-item-label {
-    display: none !important;
-}
-
-#sectordiv, #primary_taxonomydiv{display:none;}
