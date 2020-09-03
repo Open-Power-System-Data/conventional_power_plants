@@ -43,8 +43,8 @@ resources:
     - name: opsd_conventional_power_plants_DE
       profile: tabular-data-resource
       title: List of conventional power plants in Germany
-      bytes: 300999
-      hash: 31b94b386913b05f451814141cdc6a315bd68c2b2b1bf3eb55595aafe39c80b9
+      bytes: 317387
+      hash: bfb1f2c0cc80afb663ab732726ea21a821f401c33d296c52bae7884c8ae80c41
       path: conventional_power_plants_DE.csv
       format: csv
       mediatype: text/csv
@@ -177,8 +177,8 @@ resources:
     - name: opsd_conventional_power_plants_DE
       profile: tabular-data-resource
       title: List of conventional power plants in Germany
-      bytes: 160749
-      hash: db8578101ad8b8ee82bcf2abfce0e950a1138fa0a2a7fd910d3c348948c48b4b
+      bytes: 161938
+      hash: 213083045ee28d08922ecc223ee2b8b444381657041afae04461e15fb740567d
       path: conventional_power_plants_DE.xlsx
       format: xlsx
       mediatype: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
@@ -305,8 +305,8 @@ resources:
     - name: opsd_conventional_power_plants_EU
       profile: tabular-data-resource
       title: List of conventional power plants in Europe
-      bytes: 798241
-      hash: 0c4f9fb7ca2ef2fde265ae96d28dcda24b12773ebb2cce023b1028d60018f2d4
+      bytes: 677688
+      hash: 98fb2a2fd1f744e49a43b33b41e312500c98a9f418aa916cf0610ab928517b68
       path: conventional_power_plants_EU.csv
       format: csv
       mediatype: text/csv
@@ -390,8 +390,8 @@ resources:
     - name: opsd_conventional_power_plants_EU
       profile: tabular-data-resource
       title: List of conventional power plants in Europe
-      bytes: 407268
-      hash: 08c13d0d44a85b35adcd3e003d313bb41272b57f598cf25d7950c90b76a4dcac
+      bytes: 349482
+      hash: 0adc81076f92a59876bda94a70eefcab6e834996c7a500567d94e46019892701
       path: conventional_power_plants_EU.xlsx
       format: xlsx
       mediatype: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet  
