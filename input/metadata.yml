@@ -485,9 +485,9 @@ sources:
       path: http://www.energiavirasto.fi/en/path/energy-authority/power-plant-register
     - title: RTE List of production units with more than 100MW (FR)
       path: https://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp
-    - title: TERNA Installed generation capacity 2014 (IT)
+    - title: TERNA Installed generation capacity (IT)
       path: http://www.terna.it/it-it/sistemaelettrico/transparencyreport/generation/installedgenerationcapacity.aspx
-    - title: TenneT Available capacity 2016 (NL)
+    - title: TenneT Available capacity (NL)
       path: http://www.tennet.org/english/operational_management/export_data.aspx
     - title: Nordpool Power plant units (NO)
       path: http://www.nordpoolspot.com/globalassets/download-center/tso/generation-capacity_norway_valid-from-2-december-2013_larger-than-100mw.pdf
