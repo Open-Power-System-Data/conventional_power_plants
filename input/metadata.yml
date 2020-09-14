@@ -1,3 +1,4 @@
+hide: yes
 name: opsd-conventional_power_plants
 title: Conventional power plants
 description: List of conventional power plants in Germany and European countries
@@ -472,9 +473,9 @@ sources:
     - title: ELIA Generation facilities (BE)
       path: http://www.elia.be/en/grid-data/power-generation/generating-facilities
     - title: BFE Statistik der Wasserkraftanlagen der Schweiz (CH)
-      path: http://www.bfe.admin.ch/themen/00490/00491/index.html?lang=de&dossier_id=01049
+      path: https://www.bfe.admin.ch/bfe/en/home/supply/renewable-energy/hydropower.html
     - title: BFE Nuclear Energy (CH)
-      path: http://www.bfe.admin.ch/themen/00511/index.html?lang=en
+      path: https://www.bfe.admin.ch/bfe/en/home/supply/statistics-and-geodata/geoinformation/geodata/nuclear-energy/nuclear-power-plants.html
     - title: CEPS Available capacity (CZ)
       path: http://www.ceps.cz/en/all-data#AvailableCapacity
     - title: Energinet.dk List of power plants (DK) (link inactive)
@@ -482,15 +483,15 @@ sources:
     - title: SEDE Productores (ES)
       path: https://sedeaplicaciones.minetur.gob.es/electra/BuscarDatos.aspx
     - title: Energy authority Power plant register (FI)
-      path: http://www.energiavirasto.fi/en/path/energy-authority/power-plant-register
+      path: https://energiavirasto.fi/toimitusvarmuus
     - title: RTE List of production units with more than 100MW (FR)
       path: https://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp
     - title: TERNA Installed generation capacity (IT)
       path: http://www.terna.it/it-it/sistemaelettrico/transparencyreport/generation/installedgenerationcapacity.aspx
     - title: TenneT Available capacity (NL)
       path: http://www.tennet.org/english/operational_management/export_data.aspx
-    - title: Nordpool Power plant units (NO)
-      path: http://www.nordpoolspot.com/globalassets/download-center/tso/generation-capacity_norway_valid-from-2-december-2013_larger-than-100mw.pdf
+    - title: NVE Power Generation (NO)
+      path: https://www.nve.no/energiforsyning/kraftproduksjon/
     - title: GPI List of generation units (PL)
       path: http://gpi.tge.pl/en/wykaz-jednostek;jsessionid=C2472043DF326CED2F9C0840B503F5B0.gpi-app1
     - title: Nordpool Power plant units (SE)
