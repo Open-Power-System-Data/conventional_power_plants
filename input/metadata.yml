@@ -85,7 +85,7 @@ resources:
             - name: state
               description: State as specified in the BNetzA power plant list
               type: string
-            - name: country_code
+            - name: country
               description: Two-letter ISO code
               type: string
             - name: capacity_net_bnetza
@@ -94,7 +94,7 @@ resources:
             - name: capacity_gross_uba
               description: Gross installed capacity according to UBA data
               type: number
-            - name: fuel
+            - name: energy_source
               description: Used fuel or energy source
               type: string
             - name: technology
