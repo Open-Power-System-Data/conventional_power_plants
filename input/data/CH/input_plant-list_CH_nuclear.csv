@@ -1,0 +1,6 @@
+company,name,street,postcode,city,country,capacity,energy_source,technology,additional_info,type,chp,commissioned,comment,source,eic_code,lat,lon
+BKW FMB Energie AG,Mühleberg,,,Mühleberg,CH,390,Nuclear,Steam turbine,,,,1972,,Schweizerische Eidgenossenschaft,12W-0000000057-Z,45.96917,7.26961
+Kernkraftwerk Gösgen-Däniken AG,Gösgen,,,Däniken,CH,1035,Nuclear,Steam turbine,,,,1979,,Schweizerische Eidgenossenschaft,12W-0000000056-1,47.36552,7.96779
+Axpo AG,Beznau 1,,,Döttingen,CH,380,Nuclear,Steam turbine,,,,1969,,Schweizerische Eidgenossenschaft,12W-0000000017-E,47.55198,8.22825
+Axpo AG,Beznau 2,,,Döttingen,CH,380,Nuclear,Steam turbine,,,,1971,,Schweizerische Eidgenossenschaft,12W-0000000017-E,47.55198,8.22825
+Kernkraftwerk Leibstadt AG,Leibstadt,,,Leibstadt,CH,1245,Nuclear,Steam turbine,,,,1984,,Schweizerische Eidgenossenschaft,12W-0000000052-D,47.60109,8.18259

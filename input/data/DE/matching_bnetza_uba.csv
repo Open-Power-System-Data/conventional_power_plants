@@ -1,0 +1,350 @@
+ID BNetzA,uba_match_name,uba_match_fuel
+BNA0005,Ahrensfelde A bis D,Erdgas
+BNA0006,Ahrensfelde A bis D,Erdgas
+BNA0007,Ahrensfelde A bis D,Erdgas
+BNA0008,Ahrensfelde A bis D,Erdgas
+BNA0010a,Albbruck-Dogern,Wasser
+BNA0010b,Albbruck-Dogern,Wasser
+BNA0015,"Altbach/Deizisau GT A-C, E",Erdgas
+BNA0016,"Altbach/Deizisau GT A-C, E",Erdgas
+BNA0017,"Altbach/Deizisau GT A-C, E",Erdgas
+BNA0018,"Altbach/Deizisau GT A-C, E",Erdgas
+BNA0019,Altbach/Deizisau HKW 1,Steinkohle
+BNA0020,Altbach/Deizisau HKW 2,Steinkohle
+BNA0027,Arneburg,Biomasse
+BNA0067,Bergkamen A,Steinkohle
+BNA0074,Berlin-Charlottenburg 4 bis 6,Erdgas
+BNA0081,Berlin-Klingenberg,Erdgas
+BNA0075,Berlin-Lichterfelde 1,Erdgas
+BNA0076,Berlin-Lichterfelde 2,Erdgas
+BNA0080,Berlin-Lichterfelde 3,Erdgas
+BNA0073,Berlin-Mitte HKW GT 1,Erdgas
+BNA0073,Berlin-Mitte HKW GT 2,Erdgas
+BNA0073,Berlin-Mitte HKW DT,Erdgas
+BNA0085a,Berlin-Moabit A,Steinkohle
+BNA0082,Berlin-Reuter C,Steinkohle
+BNA0086,Berlin-Reuter-West D,Steinkohle
+BNA0087,Berlin-Reuter-West E,Steinkohle
+BNA0083,Berlin-Wilmersdorf 1 bis 3,HEL
+BNA0088b,Bernburg,Erdgas
+BNA0088a,Bernburg,Erdgas
+BNA0093,Bexbach,Steinkohle
+BNA0105,Bitterfeld Chemiepark,Erdgas
+BNA0122,Boxberg N,Braunkohle
+BNA0123,Boxberg P,Braunkohle
+BNA0124,Boxberg Q,Braunkohle
+BNA1404,Boxberg R,Braunkohle
+BNA0529,Braunau-Simbach / Inn,Wasser
+BNA0135,Braunschweig-Mitte,"Erdgas, Steinkohle"
+BNA0136,Braunschweig-Mitte,"Erdgas, Steinkohle"
+BNA0138,Braunschweig-Mitte,"Erdgas, Steinkohle"
+BNA0147,Bremen-Farge,Steinkohle
+BNA0146,"Bremen-Hafen 6, (Elfi)",Steinkohle
+BNA0144,Bremen-Hastedt 15,Steinkohle
+BNA0142,Bremen-Mittelsbüren 4,Gichtgas
+BNA0157,Brokdorf (KBR),Uran
+BNA0172a,Burghausen,Erdgas
+BNA0439,Buschhaus (Helmstedt),Braunkohle
+BNA0179,Chemnitz Nord II C/30,Braunkohle
+BNA1487,Darmstadt,Erdgas
+BNA0199,Dormagen,Erdgas
+BNA0207,Dresden Nossener Brücke,Erdgas
+BNA0396,Duisburg-Hamborn 4,Gichtgas
+BNA0397,Duisburg-Hamborn 5,Gichtgas
+BNA0211,Duisburg-Hochfeld HKW I,Steinkohle
+BNA0218,Duisburg-Ruhrort 3,Gichtgas
+BNA0219,Duisburg-Ruhrort 4,Gichtgas
+BNA0216a,Duisburg-Walsum 9,Steinkohle
+BNA0216b,Duisburg-Walsum 10,Steinkohle
+BNA0214,Duisburg-Wanheim HKW III B,Erdgas
+BNA0238a,Eisenhüttenstadt,Konvertergas
+BNA0238b,Eisenhüttenstadt,Konvertergas
+BNA0607,Emsland-Lingen (KLE),Uran
+BNA0604,Emsland B (Lingen) DT,Erdgas
+BNA0603,Emsland B (Lingen) GT 1 u. 2,Erdgas
+BNA0605,Emsland C (Lingen) DT,Erdgas
+BNA0602,Emsland C (Lingen) GT 1 u. 2,Erdgas
+BNA0606,Emsland D (Lingen) DT,Erdgas
+BNA0606,Emsland D (Lingen) GT 1,Erdgas
+BNA0606,Emsland D (Lingen) GT 2,Erdgas
+BNA0253,Ensdorf 1,Steinkohle
+BNA0252,Ensdorf 3,Steinkohle
+BNA0256a,Erfurt-Ost,Erdgas
+BNA0256b,Erfurt-Ost,Erdgas
+BNA0558,Erzhausen 1-4 / Leine,Wasser
+BNA0269,Flensburg K09 bis K12,"Steinkohle, Erdgas"
+BNA0270,Flensburg K09 bis K12,"Steinkohle, Erdgas"
+BNA0271,Flensburg K09 bis K12,"Steinkohle, Erdgas"
+BNA0272,Flensburg K09 bis K12,"Steinkohle, Erdgas"
+BNA1819,Flensburg K09 bis K12,"Steinkohle, Erdgas"
+BNA0744,Franken I-1 (Nürnberg),Erdgas
+BNA0745,Franken I-2 (Nürnberg),Erdgas
+BNA0499,Frankfurt-Hoechst A u. B,"Erdgas, Steinkohle"
+BNA0498,Frankfurt-Hoechst A u. B,"Erdgas, Steinkohle"
+BNA0497,Frankfurt-Hoechst C,Erdgas
+BNA0285,Frankfurt-Niederrad,Erdgas
+BNA0288,Frankfurt-Niederrad,Erdgas
+BNA0289a,Frankfurt-West 2 u. 3,Steinkohle
+BNA0289b,Frankfurt-West 2 u. 3,Steinkohle
+BNA0290,Frankfurt-West 2 u. 3,Steinkohle
+BNA0286,Frankfurt-West 4,Erdgas
+BNA0292,Frechen / Wachtberg,Braunkohle
+BNA0313,Frimmersdorf P,Braunkohle
+BNA0314,Frimmersdorf Q,Braunkohle
+BNA0327,Geesthacht A-C / Elbe,Wasser
+BNA0328,Geesthacht A-C / Elbe,Wasser
+BNA0329,Geesthacht A-C / Elbe,Wasser
+BNA0332,Gelsenkirchen-Scholven B,Steinkohle
+BNA0331,Gelsenkirchen-Scholven C,Steinkohle
+BNA1039,Gersteinwerk F (Werne),Erdgas
+BNA1044,Gersteinwerk F (Werne),Erdgas
+BNA1040,Gersteinwerk G (Werne),Erdgas
+BNA1045,Gersteinwerk G (Werne),Erdgas
+BNA1041,Gersteinwerk H u. I (Werne),Erdgas
+BNA1042,Gersteinwerk H u. I (Werne),Erdgas
+BNA1046b,Gersteinwerk K1 (GT) (Werne),Erdgas
+BNA1046a,Gersteinwerk K2 (DT) (Werne),Steinkohle
+BNA0350,Goldisthal A / Schwarzatal,Wasser
+BNA0351,Goldisthal B / Schwarzatal,Wasser
+BNA0352,Goldisthal C / Schwarzatal,Wasser
+BNA0353,Goldisthal D / Schwarzatal,Wasser
+BNA0696,Grevenbroich - Neurath  A,Braunkohle
+BNA0697,Grevenbroich - Neurath  B,Braunkohle
+BNA0698,Grevenbroich - Neurath  C,Braunkohle
+BNA0699,Grevenbroich - Neurath  D,Braunkohle
+BNA0700,Grevenbroich - Neurath  E,Braunkohle
+BNA1401a,Grevenbroich - Neurath  F (BoA 2),Braunkohle
+BNA1401b,Grevenbroich - Neurath  G (BoA 3),Braunkohle
+BNA0251,Grohnde (KWG),Uran
+BNA0373,Großkayna,HEL
+BNA0381,Gundremmingen B (KRB),Uran
+BNA0382,Gundremmingen C (KRB),Uran
+BNA0389,Hagen-Kabel GuD,Erdgas
+BNA1673,Hamburg-Moorburg A,Steinkohle
+BNA1558,Hamburg-Moorburg B,Steinkohle
+BNA0400,Hamburg-Tiefstack GuD,Erdgas
+BNA0402,Hamburg-Tiefstack HKW,Steinkohle
+BNA0410,Hamm-Uentrop 10,Erdgas
+BNA0411,Hamm-Uentrop 20,Erdgas
+BNA0419,Hannover-Herrenhausen,Erdgas
+BNA0418,Hannover-Linden,Erdgas
+BNA0420,Hannover-Stöcken,Steinkohle
+BNA0421,Hannover-Stöcken,Steinkohle
+BNA0422,Happurg 1 bis 4 / Pegnitz,Wasser
+BNA0426,Häusern 1 bis 4,Wasser
+BNA0427,Hausham GT 1 bis 4,HEL
+BNA0428,Hausham GT 1 bis 4,HEL
+BNA0429,Hausham GT 1 bis 4,HEL
+BNA0430,Hausham GT 1 bis 4,HEL
+BNA0432,Heilbronn 5,Steinkohle
+BNA0433,Heilbronn 6,Steinkohle
+BNA0434,Heilbronn 7,Steinkohle
+BNA0442,Herdecke H3 (Cuno),Erdgas
+BNA0449,Herne 3,Steinkohle
+BNA0450,Herne 4,Steinkohle
+BNA0793,Heyden,Steinkohle
+BNA0467,Hohenwarte II  A bis H,Wasser
+BNA0468,Hohenwarte II  A bis H,Wasser
+BNA0469,Hohenwarte II  A bis H,Wasser
+BNA0470,Hohenwarte II  A bis H,Wasser
+BNA0471,Hohenwarte II  A bis H,Wasser
+BNA0472,Hohenwarte II  A bis H,Wasser
+BNA0473,Hohenwarte II  A bis H,Wasser
+BNA0474,Hohenwarte II  A bis H,Wasser
+BNA0485,Huckingen A,Gichtgas
+BNA0486,Huckingen B,Gichtgas
+BNA0239,Huntorf CAES,Erdgas
+BNA0493,Ibbenbüren,Steinkohle
+BNA0494,Iffezheim 1-5 / Rhein,Wasser
+BNA0378,Ingolstadt 3 - Großmehring,HS
+BNA0379,Ingolstadt 4 - Großmehring,HS
+BNA0993,Irsching 3,Erdgas
+BNA0995,Irsching 4,Erdgas
+BNA0994,Irsching 5,Erdgas
+BNA0263,Isar 2 - Essenbach (KKI) (Ohu),Uran
+BNA0785,Jänschwalde A,Braunkohle
+BNA0786,Jänschwalde B,Braunkohle
+BNA0787,Jänschwalde C,Braunkohle
+BNA0788,Jänschwalde D,Braunkohle
+BNA0789,Jänschwalde E,Braunkohle
+BNA0790,Jänschwalde F,Braunkohle
+BNA0504,Jena-Süd,Erdgas
+BNA0364,Jochenstein / Donau,Wasser
+BNA0514,Karlsruhe-RDK 4s,Erdgas
+BNA0518a,Karlsruhe-RDK 7,Steinkohle
+BNA0518b,Karlsruhe-RDK 8,Steinkohle
+BNA0526,Kiel-Ost (GKK),Steinkohle
+BNA0531,Kirchlengern 1,Erdgas
+BNA0130,Kirchmöser,Erdgas
+BNA0548a,Knapsack - Hürth I,Erdgas
+BNA0548b,Knapsack - Hürth II,Erdgas
+BNA1397a,Köln (Ineos),"HEL, Cracköl"
+BNA1397b,Köln (Ineos),"HEL, Cracköl"
+BNA1397c,Köln (Ineos),"HEL, Cracköl"
+BNA1397d,Köln (Ineos),"HEL, Cracköl"
+BNA1397e,Köln (Ineos),"HEL, Cracköl"
+BNA0547,Köln-Godorf,"Erdgas, Raffineriegas"
+BNA1182,Köln-Merkenich 4+6,"Braunkohle, Erdgas"
+BNA0543,Köln-Merkenich 4+6,"Braunkohle, Erdgas"
+BNA0546,Köln-Merkenich GuD,Erdgas
+BNA0545,Köln-Niehl II,Erdgas
+BNA0443,Koepchenwerk / Ruhr,Wasser
+BNA0557b,Krefeld-Uerdingen N 230,"Steinkohle, Erdgas"
+BNA0337,Langenprozelten / Main,Wasser
+BNA0583,Laufenburg / Rhein,Wasser
+BNA0220,Lausward A (Anton),Erdgas
+BNA0221c,Lausward E (Emil) DT-1,Erdgas
+BNA0221b,Lausward E (Emil) GT-1 u. 2,Erdgas
+BNA0221a,Lausward E (Emil) GT-1 u. 2,Erdgas
+BNA0588,Leipzig-Nord,Erdgas
+BNA0596,Leuna,Raffineriegas
+BNA0592,Leuna GuD,Erdgas
+BNA0593,Leuna GuD,Erdgas
+BNA0594,Leuna GuD,Erdgas
+BNA0595,Leuna GuD,Erdgas
+BNA0600a,Leverkusen G15/G22/X50,"Erdgas, Steinkohle"
+BNA0600b,Leverkusen G15/G22/X50,"Erdgas, Steinkohle"
+BNA0115,Lippendorf R,Braunkohle
+BNA0116,Lippendorf S,Braunkohle
+BNA0614b,Ludwigshafen-Mitte,Erdgas
+BNA0616b,Ludwigshafen-Nord,Erdgas
+BNA0615,Ludwigshafen-Süd,Erdgas
+BNA0618,Lünen 6,Steinkohle
+BNA0619,Lünen 7,Steinkohle
+BNA1508,Lünen Stummhafen,Steinkohle
+BNA0627,Mainz-Wiesbaden 2-1,Erdgas
+BNA0626,Mainz-Wiesbaden 3-1,Erdgas
+BNA0644,Mannheim 6,Steinkohle
+BNA0645,Mannheim 7,Steinkohle
+BNA0646a,Mannheim 8,Steinkohle
+BNA0646b,Mannheim 9,Steinkohle
+BNA0649,Marbach III,HEL
+BNA0648,Marbach III,HEL
+BNA0652,Markersbach A,Wasser
+BNA0653,Markersbach B,Wasser
+BNA0654,Markersbach C,Wasser
+BNA0655,Markersbach D,Wasser
+BNA0656,Markersbach E,Wasser
+BNA0657,Markersbach F,Wasser
+BNA0660,Marl I+II,"Steinkohle, Erdgas"
+BNA0662a,Marl I+II,"Steinkohle, Erdgas"
+BNA0662b,Marl I+II,"Steinkohle, Erdgas"
+BNA0658,Marl III,Erdgas
+BNA0659,Marl III,Erdgas
+BNA0464,Mehrum 3 (C),Steinkohle
+BNA0969b,München-Nord 2,Steinkohle
+BNA0683a,München-Süd GuD 1,Erdgas
+BNA0683b,München-Süd GuD 1,Erdgas
+BNA0683c,München-Süd GuD 1,Erdgas
+BNA0684a,München-Süd GuD 2,Erdgas
+BNA0684b,München-Süd GuD 2,Erdgas
+BNA0684c,München-Süd GuD 2,Erdgas
+BNA0685,Münster/Hafen I,Erdgas
+BNA0686,Neckarwestheim 2 GKN,Uran
+BNA1425,Neuhardenberg,Licht
+BNA1429,Neuhardenberg,Licht
+BNA1432,Neuhardenberg,Licht
+BNA1433,Neuhardenberg,Licht
+BNA1434,Neuhardenberg,Licht
+BNA1435,Neuhardenberg,Licht
+BNA0712,Niederaußem C,Braunkohle
+BNA0705,Niederaußem D,Braunkohle
+BNA0713,Niederaußem E,Braunkohle
+BNA0706,Niederaußem F,Braunkohle
+BNA0708,Niederaußem G,Braunkohle
+BNA0707,Niederaußem H,Braunkohle
+BNA0709,Niederaußem K (BoA 1) ,Braunkohle
+BNA0742,Nürnberg - Sandreuth,Erdgas
+BNA0743,Nürnberg - Sandreuth,Erdgas
+BNA0746,Nürnberg - Sandreuth,Erdgas
+BNA0755a,Obernburg,Erdgas
+BNA0755b,Obernburg,Erdgas
+BNA0802,Philippsburg 2 (KKP),Uran
+BNA0805,Plattling,Erdgas
+BNA0820,Quierschied-Weiher,Steinkohle
+BNA0953,Reisach 1 bis 3,Wasser
+BNA0834,Rheinberg 1 u. 2,Erdgas
+BNA0835,Rheinfelden / Rhein,Wasser
+BNA0268,Rönkhausen 1 u. 2 / Glingetal,Wasser
+BNA0849,Rostock,Steinkohle
+BNA0848,Rostock-Marienehe I-III,Erdgas
+BNA0857,Rüsselsheim,Erdgas
+BNA0861a,Saarbrücken-Römerbrücke,"Steinkohle, Erdgas"
+BNA0861b,Saarbrücken-Römerbrücke,"Steinkohle, Erdgas"
+BNA0046,Säckingen 1 bis 4,Wasser
+BNA0863,Salzgitter-Hallendorf AB,Konvertergas
+BNA0864,Salzgitter-Hallendorf 1,Konvertergas
+BNA0865b,Salzgitter-Hallendorf 2,Konvertergas
+BNA0878,Schkopau A,Braunkohle
+BNA0879,Schkopau B,Braunkohle
+BNA0914,Schwarze Pumpe A,Braunkohle
+BNA0915,Schwarze Pumpe B,Braunkohle
+BNA0893,Schwarzheide,Erdgas
+BNA0894c,Schwedt,Ölrückstand
+BNA0894d,Schwedt,Ölrückstand
+BNA0894e,Schwedt,Ölrückstand
+BNA0894a,Schwedt,Ölrückstand
+BNA0894b,Schwedt,Ölrückstand
+BNA0859,Schwörstadt-Ryburg 1 bis 4 / Rhein,Wasser
+BNA1260,Sindelfingen,Erdgas
+BNA0918b,Stade-Bützfleth,Erdgas
+BNA0922,Staßfurt 1 u. 2,Erdgas
+BNA0374,Staudinger 4 (Großkrotzenburg),Erdgas
+BNA0377,Staudinger 5 (Großkrotzenburg),Steinkohle
+BNA0935,Stuttgart-Münster,"Steinkohle, HEL, Abfall"
+BNA0936,Stuttgart-Münster,"Steinkohle, HEL, Abfall"
+BNA0937,Stuttgart-Münster,"Steinkohle, HEL, Abfall"
+BNA0938,Stuttgart-Münster,"Steinkohle, HEL, Abfall"
+BNA0939b,Stuttgart-Münster,"Steinkohle, HEL, Abfall"
+BNA0939a,Stuttgart-Münster,"Steinkohle, HEL, Abfall"
+BNA0738,Thyrow A bis D,Erdgas
+BNA0739,Thyrow A bis D,Erdgas
+BNA0740,Thyrow A bis D,Erdgas
+BNA0741,Thyrow A bis D,Erdgas
+BNA0734,Thyrow E bis H,Erdgas
+BNA0735,Thyrow E bis H,Erdgas
+BNA0736,Thyrow E bis H,Erdgas
+BNA0737,Thyrow E bis H,Erdgas
+BNA0491,Ville / Berrenrath (Hürth),Braunkohle
+BNA0999,Völklingen-Fenne HKV,Steinkohle
+BNA0998,Völklingen-Fenne MKV,Steinkohle
+BNA0540,Walchensee / Isar,Wasser
+BNA0228,Waldeck I / Eder,Wasser
+BNA0229,Waldeck II / Eder,Wasser
+BNA1003,Waldshut 1 bis 4,Wasser
+BNA1005,Walheim 1,Steinkohle
+BNA1006,Walheim 2,Steinkohle
+BNA1004,Walheim GT D,HEL
+BNA0404,Wedel 1,Steinkohle
+BNA0403,Wedel 2,Steinkohle
+BNA1015,Wedel A und B,HEL
+BNA1016,Wedel A und B,HEL
+BNA1019,Wehr 1,Wasser
+BNA1019,Wehr 2,Wasser
+BNA1019,Wehr 3,Wasser
+BNA1019,Wehr 4,Wasser
+BNA1025,Weisweiler E (4),Braunkohle
+BNA1026,Weisweiler F (5),Braunkohle
+BNA1027,Weisweiler G (6),Braunkohle
+BNA1028,Weisweiler H (7),Braunkohle
+BNA1036,Werdohl-Elverlingsen 1/2,Erdgas
+BNA1037,Werdohl-Elverlingsen 4,Steinkohle
+BNA1279,Wesseling 5-8,"Erdgas, HS, Braunkohle"
+BNA1280,Wesseling 5-8,"Erdgas, HS, Braunkohle"
+BNA0413c,Westfalen E (Hamm-Uentrop),Steinkohle
+BNA1061,Wilhelmshaven (E.ON),Steinkohle
+BNA1674,Wilhelmshaven (Engie),Steinkohle
+BNA0444,Wintershall,Erdgas
+BNA1071,Witznau 1 bis 4,Wasser
+BNA1075a,Wolfsburg Nord,Steinkohle
+BNA1075b,Wolfsburg Nord,Steinkohle
+BNA1076a,Wolfsburg West 1,Steinkohle
+BNA1076b,Wolfsburg West 2,Steinkohle
+BNA1082,Wuppertal-Barmen 1 u. 2,"Erdgas, HEL"
+BNA1083,Wuppertal-Barmen 1 u. 2,"Erdgas, HEL"
+BNA1084,Wuppertal-Elberfeld,Steinkohle
+BNA1085,Würzburg GuD I/II,Erdgas
+BNA1086,Würzburg GuD I/II,Erdgas
+BNA1087,Würzburg GuD I/II,Erdgas
+BNA1088,Würzburg GuD I/II,Erdgas
+BNA1093,Zolling-Leininger 5,Steinkohle

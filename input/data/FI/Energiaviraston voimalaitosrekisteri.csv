@@ -1,0 +1,429 @@
+﻿Name;Company;Business ID;Address;Town;Postal code;Location;Type;Separate power production, Maximum, Total, MW;Separate power production, Maximum, Hour, MW;Separate power production, Decomissioned, Hour, MW;Combined Heat and Power Production, Industry,Maximum, Total, MW;Combined Heat and Power Production, Industry,Hour, Total, MW;Combined Heat and Power Production, Industry, Decomissioned, Total, MW;Combined Heat and Power Production, District Heating, Total, MW;Combined Heat and Power Production, District Heating, Hour, MW;Combined Heat and Power Production, District Heating, Decomissioned, Total, MW;Maximum, total, MW;Hour, total, MW;Decomissioned, Total, MW;Main fuel;Standby fuel ;Standby fuel
+Ahvenkoski;Oy Mankala Ab;0158738-4;Sitikkalantie 189;KAUSALA;47400;Ahvenkoski;Hydro power;24;24;0;0;0;0;0;0;0;24;24;0;;;
+Aittaluoto 1;Pori Energia Oy;0790442-4;PL 9 (Radanvarsi 2);PORI;28101;Pori Aittaluoto 1;Industry CHP;0;0;0;20.8;15.4;0;0;0;0;20.8;15.4;0;Peat;Industrial wood residues;Industrial wood residues
+Aittaluoto 2;Pori Energia Oy;0790442-4;PL 9 (Radanvarsi 2);PORI;28101;Pori Aittaluoto 2;District heating CHP;0;0;0;0;0;0;36;34;0;36;34;0;Peat;Industrial wood residues;Industrial wood residues
+Aittokoski;Fortum Power & Heat , Generation;0109160-2;Keilaniementie 1;PL 100;00048 Fortum;Aittokoski;Hydro power;44.8;44.8;0;0;0;0;0;0;0;44.8;44.8;0;;;
+Ajos Wind Oy;Ajos Wind Oy;2695578-8;Espoontie 21;Espoo;2740;Ajos Wind Oy;Wind power;42.4;42.4;0;0;0;0;0;0;0;42.4;42.4;0;;;
+Alakoski;Alakoski Oy;0153780-3;PL166; Mikkeli;50101;Alakoski, Tampere;Hydro power;4.6;4.6;0;0;0;0;0;0;0;4.6;4.6;0;;;
+Alholma AK 1;Oy Alholmens Kraft Ab;1102489-2;PB 250;JAKOBSTAD;68601;AK1;Industry CHP;0;0;0;30;20;0;0;0;0;30;20;0;Industrial wood residues;;Heavy distillates
+Alholma AK 2;Oy Alholmens Kraft Ab;1102489-2;PB 250;JAKOBSTAD;68601;AK2;Industry CHP;0;0;0;240;190;0;0;0;0;240;190;0;Peat;Hard coal and anthracite;Industrial wood residues
+Anjalankoski;Stora Enso Publication Papers Oy Ltd;8562104;Anjalan tehtaat;Inkeroinen;46900;Inkeroinen (Kouvola);Industry CHP;0;0;0;160.5;160.5;0;0;0;0;160.5;160.5;0;Industrial wood residues;Mixed fuels;
+Anjalankoski, G1;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Anjalankoski;Hydro power;20;20;0;0;0;0;0;0;0;20;20;0;;;
+Annankangas T1-T10;Suomen Hyötytuuli Oy;1477522-9;PL 305;Pori;28601;Annankangas T1-T10;Wind power;34.5;34.5;0;0;0;0;0;0;0;34.5;34.5;0;;;
+Askala;Koskienergia Koskivoima Oy;2447744-7;Kotakennääntie 31;Äänekoski;44100;Askala, Paimio;Hydro power;1.3;1;0;0;0;0;0;0;0;1.3;1;0;;;
+Atro;Savon Voima Oyj;0171351-2;PL 1024;Toivala;70901;Lapinlahti, Voimalaitoksentie 1, Syvärinpää;Hydro power;6.5;6.5;0;0;0;0;0;0;0;6.5;6.5;0;;;
+Billnäs;Koskienergia Koskivoima Oy;2447744-7;Kotakennääntie 31;Äänekoski;44100;Billnäs, Pohja;Hydro power;1.8;1.8;0;0;0;0;0;0;0;1.8;1.8;0;;;
+Björkfors;Oy HERRFORS Ab;;Storgatan 8;68600 Jakobstad;;Björkfors;Hydro power;1.2;0.4;0;0;0;0;0;0;0;1.2;0.4;0;;;
+Björknäs kraftvärmeverk;Raseborgs stad / Ekenäs Energi;0131297-0;PB 31, Kungsgatan 14;Ekenäs;10601;Björknäs kraftvärmeverk;District heating CHP;0;0;0;0;0;0;3.7;3.7;0;3.7;3.7;0;Forest fuelwood;;
+Elkko;Raahen Tuulienergia Oy;2342631-1;Rantakatu 8 A;Raahen Tuulienergia Oy;92100;Elkko, Raahe;Wind power;6;6;0;0;0;0;0;0;0;6;6;0;;;
+Energia-Tietola;Valkeakosken Energia Oy;10321983;PL 89;Valkeakoski;37601;Energia-Tietola;District heating CHP;0;0;0;0;0;0;11.6;11.6;0;11.6;11.6;0;Natural gas;;
+Finlayson ve;Tampereen Sähkölaitos;0211675-2;PL 175;TAMPERE;33101;Finlayson ve;Hydro power;4.19;3.8;0;0;0;0;0;0;0;4.19;3.8;0;;;
+Forssa kt;Fingrid Oyj;1072894-3;PL 530;Helsinki;101;"Varavoimalantie 6, 30420 Forssa
+";Separate electricity production;352;352;0;0;0;0;0;0;0;352;352;0;Medium heavy distillates;;
+Haapajärven Savinevan Tuulivoimala;Haapajärven Savinevan Tuulivoima Oy;2566301-1;Salomonkatu 17 A;Helsinki;100;Haapajärven Savinevan Tuulivoima;Wind power;23.1;23.1;0;0;0;0;0;0;0;23.1;23.1;0;;;
+Haapajärvi Sauviinmäki;Haapajärvi Sauviinmäki Tuulivoima Oy;2566305-4;Jaakonkatu 3B 7 krs.;Helsinki;100;Haapajärvi Sauviinmäki;Wind power;6.6;6.6;0;0;0;0;0;0;0;6.6;6.6;0;;;
+Haapakoski;PVO Vesivoima Oy;09404130-0;Virkkulantie 207;91100 Ii;91100;haapakoski;Hydro power;32.5;32.5;0;0;0;0;0;0;0;32.5;32.5;0;;;
+Haapaniemi;Kuopion Energia Oy;2064700-4;PL105;Kuopio;Kuopio;Haapaniemen voimalaitos;District heating CHP;0;0;0;0;0;0;118.1;118.1;0;118.1;118.1;0;Peat;Heavy distillates;Forest fuelwood
+Haapavesi;Kanteleen Voima Oy;2069341-4;PL 47, Turvetie 112;Haapavesi;86600;Haapaveden voimalaitos;Separate electricity production;154;150;0;0;0;0;0;0;0;154;150;0;Peat;Heavy distillates;
+Haapavesi;Vapo Oy;174817;PL 22;Jyväskylä;40101;Forssa;Industry CHP;0;0;0;2.7;2.6;0;0;0;0;2.7;2.6;0;Peat;Forest fuelwood;Medium heavy distillates
+Hailikari;Haminan Energia Oy;0973749-8;Reutsinkatu 12;Hamina;49400;Hailikari;Wind power;3.1;3.1;0;0;0;0;0;0;0;3.1;3.1;0;;;
+Halmekangas;Tuuliwatti Oy;2263278-9;PL 100;Helsinki;`00381;Halmekangas 1;Wind power;38.5;38.5;0;0;0;0;0;0;0;38.5;38.5;0;;;
+Hamari;Korpelan Voima kuntayhtymä;0178464-4;PL 13;Kannus;69101;Hamari, Ylivieska;Hydro power;2.5;2.5;0;0;0;0;0;0;0;2.5;2.5;0;;;
+Hamina, Mäkelänkangas tv;Suomen Voima Oy;2144654-6;Mannerheiminkatu 24;06100 Porvoo;;Hamina, Mäkelänkangas tv;Wind power;8;8;0;0;0;0;0;0;0;8;8;0;;;
+Haminan höyrykattilalaitos;Haminan Energia Oy;0973749-8;Reutsinkatu 12;Hamina;48810;Hamina;Industry CHP;0;0;0;1.5;1.5;0;0;0;0;1.5;1.5;0;Natural gas;;
+Hanasaari B;Helsingin Energia;9000002882;Kampinkuja 2;HELEN;90;Hanasaari B;District heating CHP;0;0;0;0;0;0;212;204;0;212;204;0;Hard coal and anthracite;Heavy distillates;
+Hanhikoski;Vattenfall Sähköntuotanto oy;1076456-5;Maaistraatinportti 4 A;Helsinki;240;Evijärvi / Hanhikoski;Hydro power;1.5;1.5;0;0;0;0;0;0;0;1.5;1.5;0;;;
+Hanko, Sändö tv 1-4;Saba Wind Oy Ab;;c/o Ålands Företagsbyrå, Nygatan 9;Mariehamm;22100;Hanko, Sändö tv 1-4;Wind power;8;8;0;0;0;0;0;0;0;8;8;0;;;
+Harabacka;;0855859-4;;;6100;Harabacka;District heating CHP;0;0;0;0;0;0;9.6;9.4;0;9.6;9.4;0;Natural gas;Medium heavy distillates;
+Harjavalta;Länsi-Suomen Voima Oy;0132548-0;Voimalaitoksentie 70;Harjavalta;29200;Harjavallan voimalaitos;Hydro power;105;102;0;0;0;0;0;0;0;105;102;0;;;
+Harjavalta;Suomen Teollisuuden Energiapalvelut - STEP Oy;2212298-1;PL 9 (Radanvarsi 2);Pori;28101;Harjavalta;Separate electricity production;6.3;2;0;0;0;0;0;0;0;6.3;2;0;Heavy distillates;;
+Hattarfors;Esse Elektro-Kraft Ab;0181952-8;Seinpottvägen 3;Esse;68820;Hattar kraftverk;Hydro power;1.1;1.1;0;0;0;0;0;0;0;1.1;1.1;0;;;
+Haukineva Windfarm;EE Primus Oy;2721479-7;c/o Revico Grant Thornton Oy, Paciuksenkatu 27;Helsinki;271;Haukineva Windfarm;Wind power;6.9;6.9;0;0;0;0;0;0;0;6.9;6.9;0;;;
+Hedet;Hedet Vindpark Ab;2913481-1;c/o Prokon Wind Energy Finland Oy Företagaregatan 13;Vaasa;65380;Närpiö, Hedet H1-H18;Separate electricity production;79;79;0;0;0;0;0;0;0;79;79;0;;;
+Heinola;Adven Oy;2379598-5;Äyritie 18;Vantaa;1510;Heinola Vuorikatu 24 c;Industry CHP;0;0;0;0;0;3;0;0;0;0;0;3;Industrial wood residues;Medium heavy distillates;Petroleum gases
+Heinola vp;Stora Enso Oyj Heinolan Flutingtehdas;1039050-8;PL 5;Heinola;18101;Heinolan Flutigtehdas;Industry CHP;0;0;0;19;19;0;0;0;0;19;19;0;Peat;Industrial wood residues;Black liquor and concentrated liquors
+Hietamankoski;Vattenfall Sähköntuotanto oy;1076456-5;Maaistraatinportti 4 A;Helsinki;240;Äänekoski / Hietamankoski;Hydro power;6.7;6.7;0;0;0;0;0;0;0;6.7;6.7;0;;;
+Hilmonkoski;Vattenfall Sähköntuotanto oy;1076456-5;Maaistraatinportti 4 A;Helsinki;240;Kannonkoski / Hilmonkoski;Hydro power;6.8;6.8;0;0;0;0;0;0;0;6.8;6.8;0;;;
+Hilskansaari;Kansallistuuli Oy;2039087-8;Linnankatu 20 A;Turku;20100;Pori, Hilskansaari;Wind power;1;1;0;0;0;0;0;0;0;1;1;0;;;
+Hilskansaari;Pohjantuulen Voima Oy;2397004-2;Rovakatu 13 A 39;Rovaniemi;96100;Merituulentie 11, Pori;Wind power;2;2;0;0;0;0;0;0;0;2;2;0;;;
+Hinkismäki;KSS Energia Oy;0877511-8;Paimenpolku 3;Kouvola;45100;Kouvola / Hinkismäki;Industry CHP;0;0;0;0;0;0;45;45;0;45;45;0;Natural gas;Medium heavy distillates;
+Hinkua;Vattenfall Sähköntuotanto oy;1076456-5;Maaistraatinportti 4 A;Helsinki;240;Haapajärvi / Hinkua;Hydro power;6.3;6.3;0;0;0;0;0;0;0;6.3;6.3;0;;;
+Hirvikoski;Vattenfall Sähköntuotanto oy;1076456-5;Maaistraatinportti 4 A;Helsinki;240;Nurmo / Hirvikoski;Hydro power;8.5;8.5;0;0;0;0;0;0;0;8.5;8.5;0;;;
+Hoikankangas, Kajaanin sähkölaitos;Puolustushallinnon rakennuslaitos;0988874-7;Unioninkatu 8, PL 199;Helsinki;131;Hoikankangas, Kajaanin sähkölaitos;Separate electricity production;1.5;1.5;0;0;0;0;0;0;0;1.5;1.5;0;Light distillates;;
+Hovinsaari;Kotkan Energia Oy;1778863-1;Kotkantie 2;Kotka;48100;Hovinsaari;District heating CHP;0;0;0;0;0;0;51;51;0;51;51;0;Peat;;Natural gas
+Huikku Hailuoto;Huikku Tuulivoima Oy;26410518;;;;Huikku Hailuoto;Wind power;2;2;0;0;0;0;0;0;0;2;2;0;;;
+Huittinen, Pahkionvuori tv;Lännen Lintu Oy;1598796;Matomäentie 100;32710 Sampu;;Pahkionvuori, Huittinen;Wind power;3.6;3.6;0;0;0;0;0;0;0;3.6;3.6;0;;;
+Huutokoski kt;Fingrid Oyj;1072894-3;PL 530 ( Arkadiakatu 23 B);Helsinki;100;Huutokoski kt 1, 2, 3, 4, 5, 6;Separate electricity production;180;180;0;0;0;0;0;0;0;180;180;0;Medium heavy distillates;;
+Hyötyvoimalaitos;Kotkan Energia Oy;1778863-1;Kotkantie 2;Kotka;48100;Hyötyvoimalaitos;Industry CHP;0;0;0;7;7;0;0;0;0;7;7;0;Other by-products and wastes used as fuel;Natural gas;
+Hämeenkyrö lä;Hämeenkyrön voima Oy;2042003-7;Töölönkatu 4;Helsinki;100;Metsä Board, Kyron tehdasalue Hämeenkyrö;Industry CHP;0;0;0;20;20;38.4;0;0;0;20;20;38.4;Forest fuelwood;Natural gas;
+Hämeenkyrö ve;KYRÖSKOSKEN VOIMA OY;2003084-8;PL 12 /co Vatajankosken Sähkö Oy, vakka suomen voima;Kankaanpää;38701;Kyröskoski;Hydro power;12.9;12.9;1.6;0;0;0;0;0;0;12.9;12.9;1.6;;;
+Hämeenlinna;Elenia Lämpö Oy;0991065-1;Voimatie 32;Hämeenlinna;13110;Hämeenlinna;District heating CHP;0;0;0;0;0;0;65;65;0;65;65;0;Natural gas;Medium heavy distillates;
+Högsara, Kemiönsaari tv;Via Wind Oy Ltd;17209070;Hannuksentie 1 ;Espoo;2270;Högsara, Kemiönsaari;Wind power;6;6;0;0;0;0;0;0;0;6;6;0;;;
+Ii, Kuivaniemi tv;Vapo Oy;1748176;PL 22;Jyväskylä;40100;Ii, Kuivaniemi tv;Wind power;7;7;0;0;0;0;0;0;0;7;7;0;;;
+Ii, Olhava tv;Aalto Wind No 2 Ltd. Oy;2902290-8;Bulevardi 1 A;Helsinki;100;Ii Olhava;Wind power;33.9;33.9;0;0;0;0;0;0;0;33.9;33.9;0;;;
+Ii, Viinamäki;Tuuliwatti Oy;2263278-9;Purotie 1;Helsinki;380;Viinamäki Ii;Wind power;21;21;0;0;0;0;0;0;0;21;21;0;;;
+Iisalmi;Savon Voima Oyj;0171351-2;PL 1024;Toivala;70901;Iisalmi, Energiakuja 3;District heating CHP;0;0;0;0;0;0;15;15;0;15;15;0;Peat;;
+Ikaalinen;Leppäkosken Sähkö Oy;;PL 1;Ikaalinen;39501;Ikaalinen;Industry CHP;0;0;0;0;0;0;6;4.5;0;6;4.5;0;Natural gas;;
+Ilmatar Leppävirta Voimalaitos 1,2,3;Ilmatar Leppävirta Oy;2793068-9;Bulevardi 7;Helsinki;120;Voimalaitos 1,2,3;Wind power;10.5;10.5;0;0;0;0;0;0;0;10.5;10.5;0;;;
+Ilomantsin pellettitehdas;Vapo Oy;174817;PL 22;Jyväskylä;40101;Ilomantsi;Industry CHP;0;0;0;2.8;2.7;0;0;0;0;2.8;2.7;0;Peat;Medium heavy distillates;Forest fuelwood
+Imatra;Fortum Power & Heat OY;0109160-2;Keilaniementie 1;PL 100;00048 Fortum;Imatra;Hydro power;192;192;0;0;0;0;0;0;0;192;192;0;;;
+Imatran Energia;Imatran Energia Oy;0679710-2;Karhumäenkatu 2;Imatra;55120;Piikatu 16, 55120 Imatra;District heating CHP;0;0;0;0;0;0;10;9;0;10;9;0;Natural gas;;
+Inkeroinen ve;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Inkeroinen;Hydro power;17;17;0;0;0;0;0;0;0;17;17;0;;;
+Inkoo, Barösund tv;Saba Wind Oy Ab;;c/o Ålands Företagsbyrå, Nygatan 9;Mariehamm;22100;Inkoo Barösund tv;Wind power;2;2;0;0;0;0;0;0;0;2;2;0;;;
+Isohaara;PVO Vesivoima Oy;09404130-0;Virkkulantie 207;91100 Ii;91100;isohaara;Hydro power;106;106;0;0;0;0;0;0;0;106;106;0;;;
+Isonnevanmäki;Tuuliveikot Oy;2486154-2;Mattilantie 34;Kortesjärvi;62420;Isonnevanmäki, Kauhava;Wind power;2.5;2.5;0;0;0;0;0;0;0;2.5;2.5;0;;;
+Jalasjoki/Niiles;Koskienergia Koskivoima Oy;2447744-7;Kotakennääntie 31;Äänekoski;44100;Jalasjoki (Niiles), Kurikka;Hydro power;1;1;0;0;0;0;0;0;0;1;1;0;;;
+Jeppo Windfarm;EE Primus Oy;2721479-7;c/o Revico Grant Thornton Oy, Paciuksenkatu 27;Helsinki;271;Jeppo Windfarm;Wind power;6.9;6.9;0;0;0;0;0;0;0;6.9;6.9;0;;;
+Joensuu;Fortum Power and Heat Oy;0109160-2;PL 100;FORTUM;48;Joensuun voimalaitos;District heating CHP;0;0;0;0;0;0;68;46;0;68;46;0;Peat;Industrial wood residues;Forest fuelwood
+Jokelan tuulipuisto 1;wpd Jokelan Tuulipuisto Oy;2508184-7;c/o wpd Finland Oy Keilaranta 13;Espoo;2150;Jokelan tuulipuisto 1;Wind power;12;12;0;0;0;0;0;0;0;12;12;0;;;
+Jokelan tuulipuisto 2;wpd Jokelan Tuulipuisto Oy;2508184-7;c/o wpd Finland Oy Keilaranta 13;Espoo;2150;Jokelan tuulipuisto 2;Wind power;12;12;0;0;0;0;0;0;0;12;12;0;;;
+Jokelan tuulipuisto 3;wpd Jokelan Tuulipuisto Oy;2508184-7;c/o wpd Finland Oy Keilaranta 13;Espoo;2150;Jokelan tuulipuisto 3;Wind power;12;12;0;0;0;0;0;0;0;12;12;0;;;
+Joukhaisselän Tuulipuisto;Joukhaisselän Tuulipuisto Oy;2528873-3;c/o wpd windmanager Scandinavia Oy, Sepänkatu 20;Oulu;90100;Joukhaisselän Tuulipuisto, Sodankylä;Wind power;27;27;0;0;0;0;0;0;0;27;27;0;;;
+Joutseno;Metsä Fibre Oy;0791416-3;Revontulentie 6;Espoo;2100;Metsä Fibre Joutsenon tehdas;Industry CHP;0;0;0;85;70;0;0;0;0;85;70;0;Black liquor and concentrated liquors;Natural gas;
+Joutseno;FC Power;0939845-9;PL 1;Ikaalinen;39501;Joutseno;Industry CHP;0;0;0;3.9;1.6;0;0;0;0;3.9;1.6;0;Other non-specified energy sources;;
+Jouttikallio;Vattenfall Sähköntuotanto oy;1076456-5;Maaistraatinportti 4 A;Helsinki;240;Lapua / Jouttikallio;Separate electricity production;3.1;3.1;0;0;0;0;0;0;0;3.1;3.1;0;Medium heavy distillates;;
+Jouttikallio Wind Oy;Jouttikallio Wind Oy;2695582-5;Lapinlahdenkatu 1 C;Helsinki;180;Jouttikallio Wind Oy;Wind power;20.7;20.7;0;0;0;0;0;0;0;20.7;20.7;0;;;
+Juankoski;Savon Voima Oyj;0171351-2;PL 1024;Toivala;70901;Juankoski, Juankoskentie 7A;Hydro power;5.5;5.5;0;0;0;0;0;0;0;5.5;5.5;0;;;
+Jumisko;PVO Vesivoima Oy;09404130-0;Virkkulantie 207;91100 Ii;91100;jumisko;Hydro power;26;25;0;0;0;0;0;0;0;26;25;0;;;
+Juntola;Koskienergia Koskivoima Oy;2447744-7;Kotakennääntie 31;Äänekoski;44100;Juntola, Paimio;Hydro power;1.8;1.8;0;0;0;0;0;0;0;1.8;1.8;0;;;
+Juotas;Keski-Lapin voima Oy;1680110-1;PL  49;Kemijärvi;98101;Juotas;Hydro power;3.7;3.7;0;0;0;0;0;0;0;3.7;3.7;0;;;
+Juva;Koskienergia Koskivoima Oy;2447744-7;Kotakennääntie 31;Äänekoski;44100;Juva, Tarvasjoki;Hydro power;1.4;1.4;0;0;0;0;0;0;0;1.4;1.4;0;;;
+Jylhämä;Fortum Power & Heat , Generation;0109160-2;Keilaniementie 1;PL 100;00048 Fortum;Jylhämä;Hydro power;55;55;0;0;0;0;0;0;0;55;55;0;;;
+Jämsänkoski bv;UPM-Kymmene Oyj;1041090-0;PL35;Jämsänkoski;42301;Jämsänkosken tehtaan voimalaitos;Industry CHP;0;0;0;43;43;0;0;0;0;43;43;0;Forest fuelwood;Peat;Heavy distillates
+Järvelän vaneritehdas;Koskipower Oy;1890317-9;Tehdastie 2;JÄRVELÄ;16600;Koskisen Oy, Järvelän levyteollisuus;Industry CHP;0;0;0;1.6;1;0;0;0;0;1.6;1;0;Industrial wood residues;Forest fuelwood;Heavy distillates
+Järvenpää;Fortum Power and Heat Oy;FI 01091602;PL 100;Fortum;48;Voimalankatu, 04430 Järvenpää;District heating CHP;0;0;0;0;0;0;23.8;23.8;0;23.8;23.8;0;Forest fuelwood;;
+Kaaranneskoski;Tornionlaakson Voima Oy-;0361356-6;Myllytie 1;Pello;95700;Kaaranneskoski;Hydro power;2.8;2.2;0;0;0;0;0;0;0;2.8;2.2;0;;;
+Kaarni;Rovakairan Tuotanto Oy;1637861-4;PL 8013;Rovaniemi;96101;Kaarni;Hydro power;1.2;1.1;0;0;0;0;0;0;0;1.2;1.1;0;;;
+Kaihua;Rovakairan Tuotanto Oy;1637861-4;PL 8013;Rovaniemi;96101;Kaihua I ja II;Hydro power;5.4;5.3;0;0;0;0;0;0;0;5.4;5.3;0;;;
+Kaipola;UPM-Kymmene Oyj;10410900;Ky-35;Kuusankoski;45700;Kaipola VP3;Industry CHP;0;0;0;25;25;0;0;0;0;25;25;0;Industrial wood residues;Peat;Forest fuelwood
+Kaitfors;Oy Perhonjoki Ab;;Storgatan 8;68600 Jakobstad;;Kaitfors;Hydro power;7.6;2.6;0;0;0;0;0;0;0;7.6;2.6;0;;;
+Kalajärvi;Seinäjoen Energia Oy;0974008-0;Varastotie 5;Seinäjoki;60100;Kalajärvi, Seinäjoki;Hydro power;1.8;1.6;0;0;0;0;0;0;0;1.8;1.6;0;;;
+Kallioinen;UPM Energy Oy;2760639-5;Ky-35;Kuusankoski;45700;Kallioinen;Hydro power;12;12;0;0;0;0;0;0;0;12;12;0;;;
+Kaltimo;UPM Energy Oy;2760639-5;KY-35;Kuusankoski;45700;Kaltimo;Hydro power;32;30;0;0;0;0;0;0;0;32;30;0;;;
+Kankaanpää;Vatajankosken Sähkö Oy;;Vuohiniityntie 2;Kankaanpää;;Kankaanpää;Separate electricity production;1;1;0;0;0;0;6;6;0;7;7;0;Medium heavy distillates;;
+Kankaanpäänmäki;SPC1- Kankaanpäänmäki Oy;2591921-6;Sydänmaantie 340;;;Kankaanpäänmäki;Wind power;7.5;7.5;0;0;0;0;0;0;0;7.5;7.5;0;;;
+Kantti;Kantin Tuulipuisto Ky;2700714-9;Kluuvikatu 3;Helsinki;`00100;Kantti;Wind power;24;24;0;0;0;0;0;0;0;24;24;0;;;
+Kantvik;Voimavasu Oy;1503851-1;PL 22;Jyväskylä;40101;Kantvik;Industry CHP;0;0;0;4.2;4.2;0;0;0;0;4.2;4.2;0;Hard coal and anthracite;;
+Karhusaaren tuulivoimapuisto;Huikku Tuulivoima Oy;2641051-8;Soratie 2;Nastola;15550;Karhusaaren tuulivoimapuisto;Wind power;3.45;3.45;0;0;0;0;0;0;0;3.45;3.45;0;;;
+Karjalankoski;Savon Voima Oyj;0171351-2;PL 1024;Toivala;70901;Juankoski, Pohjolantie 10;Hydro power;4.5;4.5;0;0;0;0;0;0;0;4.5;4.5;0;;;
+Karvetti;Naantalin Energia Oy;0960388-7;PL 33;Naantali;21101;Rautakatu 7 Naantali;Separate electricity production;1.1;1;0;0;0;0;0;0;0;1.1;1;0;Medium heavy distillates;Medium heavy distillates;
+Kaskinen lv ja vp;Metsä Fibre Oy;0791416-3;Revontulentie 6;Espoo;2100;Metsä Fibre Kaskisten tehdas;Industry CHP;0;0;0;0;0;7.5;0;0;0;0;0;7.5;Black liquor and concentrated liquors;Heavy distillates;Industrial wood residues
+Katerma;UPM Energy Oy;2760639-5;Ky-35;Kuusankoski;45700;Katerma;Hydro power;11.5;11.5;0;0;0;0;0;0;0;11.5;11.5;0;;;
+Kattilakoski;Oy HERRFORS Ab;;Storgatan 8;68600 Jakobstad;;Kattilakoski;Hydro power;2.1;0.5;0;0;0;0;0;0;0;2.1;0.5;0;;;
+Kaukopää;Stora Enso Oyj;1039050-8;Imatran tehtaat;Imatra;55800;Kaukopää;Industry CHP;0;0;0;134;105;0;0;0;0;134;105;0;Black liquor and concentrated liquors;Industrial wood residues;Natural gas
+Kauttua;Adven Oy;2379598-5;PL 162;Vantaa;1511;Kauttuan voimalaitos;Industry CHP;0;0;0;19;13.5;0;0;0;0;19;13.5;0;Peat;;
+Kavo;Kainuun Voima Oy;0626023-3;Tehdaskatu 17;PL 302;87101 Kajaani;Kavo;Industry CHP;0;0;0;79.2;79.2;0;0;0;0;79.2;79.2;0;Peat;Industrial wood residues;Forest fuelwood
+Keljonlahti;Jyväskylän Voima Oy;2033847-1;PL 4;Jyväskylä;40101;Keljonrannantie 276;District heating CHP;0;0;0;0;0;0;190;140;0;190;140;0;Peat;Forest fuelwood;Industrial wood residues
+Kellosaari;Helsingin Energia;9000002882;Kampinkuja 2;HELEN;90;Kellosaari;Separate electricity production;118;118;0;0;0;0;0;0;0;118;118;0;Medium heavy distillates;;
+Keltti;UPM Energy Oy;2760639-5;ky-35;Kuusankoski;45700;Keltti;Hydro power;19.1;18.7;0;0;0;0;0;0;0;19.1;18.7;0;;;
+Kelukoski;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Kelukoski;Hydro power;9.8;9.8;0;0;0;0;0;0;0;9.8;9.8;0;;;
+Kemi;Metsä Fibre Oy;0791416-3;Revontulentie 6;Espoo;2100;Metsä Fibre Kemin tehdas;Industry CHP;0;0;0;75;70;0;0;0;0;75;70;0;Black liquor and concentrated liquors;Industrial wood residues;Heavy distillates
+Kemi Ajos, Sumituuli;Sumituuli Oy;16390672;Vojakkalan vanhatie 43;Tornio;95500;Kemi Ajos Sumituuli;Wind power;2;2;0;0;0;0;0;0;0;2;2;0;;;
+Kemijärvi;Kemijärven Lämpö ja Vesi Oy;0210506-8;Vapaudenkatu 10-12 A 7;Kemijärvi;98100;Kemijärvi;District heating CHP;0;0;0;0;0;0;4;4;0;4;4;0;Forest fuelwood;Peat;Industrial wood residues
+Kerava;Keravan Energia Oy;0891026-0;PL 37;Kerava;4201;Alikeravan voimalaitos;District heating CHP;0;0;0;0;0;0;3.7;3.7;0;3.7;3.7;0;Natural gas;Medium heavy distillates;
+Kerava;Keravan Lämpövoima Oy;2044050-5;(c/o Keravan Energia Oy) PL 37;Kerava;4201;04260 Kerava, Alikeravantie 83;District heating CHP;0;0;0;0;0;0;19.04;19.04;0;19.04;19.04;0;Peat;Forest fuelwood;Industrial wood residues
+Kierikki;PVO Vesivoima Oy;09404130-0;Virkkulantie 207;91100 Ii;91100;kierikki;Hydro power;38;37;0;0;0;0;0;0;0;38;37;0;;;
+Kiimassuo;Vapo Oy;174817;PL 22;Jyväskylä;40101;Forssa;Industry CHP;0;0;0;13.5;13.3;0;0;0;0;13.5;13.3;0;Peat;Medium heavy distillates;Forest fuelwood
+Killinkoski;Killin Voima Oy;1579405;PL 25;Virrat;34801;Killinkoski;Hydro power;4.5;4.5;0;0;0;0;0;0;0;4.5;4.5;0;;;
+Kiltua;Savon Voima Oyj;0171351-2;PL 1024;Toivala;70901;Sonkajärvi, Kiltuantie 1129 A, Jyrkkä;Hydro power;5.6;5.6;0;0;0;0;0;0;0;5.6;5.6;0;;;
+Kirakkaköngäs;Inergia Oy;0775446-2;Sairaalantie 3;Ivalo;99800;Kirakkaköngäs;Hydro power;1;0.9;0;0;0;0;0;0;0;1;0.9;0;;;
+Kirkkokallio-Honkajoki;Honkajoen Tuulipuisto Ky;2491722-7;c/o Taaleritehdas Oyj, Kluuvikatu 3;Helsinki;100;Kirkkokallio;Wind power;21.6;21.6;0;0;0;0;0;0;0;21.6;21.6;0;;;
+Kirkniemi;Sappi Finland Oy;2219145-0;;Lohja;8800;Kirkniemi, Kirkniemen voimalaitos;Industry CHP;0;0;0;128;128;0;0;0;0;128;128;0;Natural gas;Medium heavy distillates;
+Kissakoski;SUUR-SAVON SÄHKÖ Oy;0215863-7;Otto Mannisen katu 6, PL 3;Mikkeli;50101;Hirvensalmi, Kissakoski;Hydro power;1.6;1.6;0;0;0;0;0;0;0;1.6;1.6;0;;;
+Kivivaara-Peuravaara;Kivivaara-Peuravaaran Tuulipuisto Ky;2641230-2;c/o Taaleritehdas Oyj, Kluuvikatu 3;Helsinki;`00100;Kivivaara-Peuravaaran tuulivoimapuisto 1;Wind power;39;39;0;0;0;0;0;0;0;39;39;0;;;
+Kivivaara-Peuravaara 2A;Kivivaara-Peuravaaran Tuulipuisto 2A Ky;2756754-1;Kluuvikatu 3;Helsinki;100;Kivivaara-Peuravaara 2A;Wind power;18;18;0;0;0;0;0;0;0;18;18;0;;;
+Kivivaara-Peuravaaran tuulivoimapuisto 3;Kivivaara-Peuravaaran Tuulipuisto 2B Ky;2760808-3;Kluuvikatu 3;Helsinki;100;Kivivaara-Peuravaaran tuulivoimapuisto 3;Wind power;33;33;0;0;0;0;0;0;0;33;33;0;;;
+Klåsarö;Oy Mankala Ab;0158738-4;Sitikkalantie 189;KAUSALA;47400;Klåsarö;Hydro power;4.5;4.5;0;0;0;0;0;0;0;4.5;4.5;0;;;
+Koirakari;Haminan Energia Oy;0973749-8;Reutsinkatu 12;Hamina;49400;Koirakari;Wind power;3.1;3.1;0;0;0;0;0;0;0;3.1;3.1;0;;;
+Koivukoski;Kolsin Vesivoimantuotanto Oy;1030375-0;Kolsintie 230;KOKEMÄKI;32800;Koivukosken voimalaitos Kotka;Hydro power;1.8;1;0;0;0;0;0;0;0;1.8;1;0;;;
+Koivukoski 1 ja 2;Kainuun Voima Oy;0626023-3;Tehdaskatu 17;PL 302;87101 Kajaani;Koivukoski 1 ja 2;Hydro power;2.63;2.63;0;0;0;0;0;0;0;2.63;2.63;0;;;
+Koivukoski 3;Kainuun Voima Oy;0626023-3;Tehdaskatu 17;PL 302;87101 Kajaani;Koivukoski 3;Hydro power;24.3;24.3;0;0;0;0;0;0;0;24.3;24.3;0;;;
+Kokkola;Kokkolan Energia Oy;2276581-3;PL 165;Kokkola;67101;Kokkolan voimalaitos;Industry CHP;0;0;120;30;27;0;0;0;0;30;27;120;Peat;Heavy distillates;
+Kokkola;Kokkolan Voima Oy;0991411-9;Voimalantie 17;Kokkola;67900;Kokkola;District heating CHP;0;0;0;0;0;0;19.5;18.5;0;19.5;18.5;0;Peat;Industrial wood residues;
+Kokkosniva;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Kokkosniva;Hydro power;25;25;0;0;0;0;0;0;0;25;25;0;;;
+Kolsi;Kolsin Vesivoimantuotanto Oy;1030375-0;Kolsintie 230;KOKEMÄKI;32800;Kolsin voimalaitos Kokemäki;Hydro power;45;42;0;0;0;0;0;0;0;45;42;0;;;
+Koneharju kt;Lahti Energia Oy;0804847-1;;;15141;Koneharju Koneharjunkatu, Lahti;District heating CHP;0;0;0;0;0;0;4.6;4.6;0;4.6;4.6;0;Natural gas;Medium heavy distillates;
+Kooninkallio;Kooninkallion Tuulipuisto Ky;2603991-5;c/o Taaleritehtaan Sijoitustehdas, Kluuvikatu 3;Helsinki;100;Kooninkallio;Wind power;27;27;0;0;0;0;0;0;0;27;27;0;;;
+Korkeakoski;Kolsin Vesivoimantuotanto Oy;1030375-0;Kolsintie 230;KOKEMÄKI;32800;Korkeakosken voimalaitos Kotka;Hydro power;8.5;6.5;0;0;0;0;0;0;0;8.5;6.5;0;;;
+Koskensaari;Helsingin Rauta Oy;176744-9;Naulatehtaantie 27;KINTAUS;41920;Koskensaaren voimalaitos;Separate electricity production;1.2;0.8;0;0;0;0;0;0;0;1.2;0.8;0;Medium heavy distillates;;
+Koskenvarsi;Alajärven Sähkö Oy;0177564-1;Kauppakatu 1;Alajärvi;62900;Koskenvarren vesivoimalaitos;Hydro power;0.9;0.8;0;0;0;0;0;0;0;0.9;0.8;0;;;
+Kotka;Kotka Mills Oy;82742413;PL 62-63;Kotka;48101;Kotka;Industry CHP;0;0;0;72;72;0;0;0;0;72;72;0;Black liquor and concentrated liquors;Natural gas;
+Kristiina 1;PVO-Lämpövoima Oy;0904132-7;Frilundintie 7;Vaasa;65170;Kristiina 1;Separate electricity production;0;0;210;0;0;0;0;0;0;0;0;210;Heavy distillates;Medium heavy distillates;
+Kristiina 2;PVO-Lämpövoima Oy;0904132-7;Frilundintie 7;Vaasa;65170;Kristiina 2;Separate electricity production;0;0;242;0;0;0;0;0;0;0;0;242;Hard coal and anthracite;Heavy distillates;
+Kristiinankaupunki kt;Fingrid Oyj;1072894-3;PL 530 ( Arkadiakatu 23 B);Helsinki;100;Kristiinankaupunki kt 1, 2;Separate electricity production;60;60;0;0;0;0;0;0;0;60;60;0;Medium heavy distillates;;
+Kuhankoski;Koskienergia Oy;10140492-9;PL166; Mikkeli;50101;Kuhankoski, Laukaa;Hydro power;3.2;3.2;0;0;0;0;0;0;0;3.2;3.2;0;;;
+Kuhmon Lämpö;Kuhmon Lämpö Oy;0370917-0;Hyryntie 40;Kuhmo;88900;Kuhmo;Industry CHP;0;0;0;4;4;0;0;0;0;4;4;0;Industrial wood residues;Industrial wood residues;Peat
+Kumpuniemi;Kumpuniemen Voima Oy;8359798;PL 43;Suolahti;44201;Vaneritehtaankatu 1 Suolahti;Industry CHP;0;0;0;1.9;1.5;0;0.6;0.4;0;2.5;1.9;0;Industrial wood residues;;
+Kuokkastenkoski;Pohjois-Karjalan Sähkö Oy;0214732-1;Rantakatu 29;Joensuu;80100;Nurmes, Kuokkastenkoski;Hydro power;2;0.7;0;0;0;0;0;0;0;2;0.7;0;;;
+Kuolavaara-Keulakkopään tuulipuisto;Kuolavaara-Keulakkopään Tuulipuisto Oy;2551489-2;c/o wpd windmanager Scandinavia Oy, Sepänkatu 20;Oulu;90100;Kuolavaara-Keulakkopää;Wind power;51;51;0;0;0;0;0;0;0;51;51;0;;;
+Kuopio, Savon Sellu;Savon Sellu OY;1927906-4;PL57  (Käyntiosoite Sorsasalo);KUOPIO;70101;Savon Sellu Vastapainevoimalaitos;Industry CHP;0;0;0;20.5;11.9;0;0;0;0;20.5;11.9;0;Black liquor and concentrated liquors;Peat;Industrial wood residues
+Kurittukoski;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Kurittukoski;Hydro power;15;15;0;0;0;0;0;0;0;15;15;0;;;
+Kurkiaska;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Kurkiaska;Hydro power;27;27;0;0;0;0;0;0;0;27;27;0;;;
+Kuurna;Kuurnan Voima Oy;0169018-9;Rantakatu 29 ;Joensuu;80100;Kontiolahti, Kuurna;Hydro power;21.2;6.9;0;0;0;0;0;0;0;21.2;6.9;0;;;
+Kuuronkallion tuulipuisto;wpd Kannuksen tuulipuisto oy;2514820-4;Keilaranta 19;Espoo;2150;Kuuronkallion tuulipuisto;Wind power;25.2;25.2;0;0;0;0;0;0;0;25.2;25.2;0;;;
+Kuusaanniemi;UPM-Kymmene Oyj;10410900;Ky-35;Kuusankoski;45700;Kuusanniemi;Industry CHP;0;0;0;64;45;0;0;0;0;64;45;0;By-products from wood processing industry;Natural gas;Heavy distillates
+Kuusamo;Adven Oy;2379598-5;PL 162;Vantaa;1511;Kuusamon voimalaitos;District heating CHP;0;0;0;0;0;0;6;5.2;0;6;5.2;0;Industrial wood residues;Peat;
+Kuusankoski bv;Kymin Voima Oy;0763405-7;Selluntie 3;Kuusankoski;45700;Kuusankoski;Industry CHP;0;0;0;76;76;0;0;0;0;76;76;0;Industrial wood residues;Natural gas;Heavy distillates
+Kuusankoski ve;UPM Energy Oy;2760639-5;Ky-35;Kuusankoski;45700;Kuusankoski;Hydro power;30;30;0;0;0;0;0;0;0;30;30;0;;;
+Kymijärvi;Lahti Energia Oy;0804847-1;;;15141;Kymijärvi Voimakatu 16, Lahti;District heating CHP;0;0;0;0;0;0;45;45;125;45;45;125;Hard coal and anthracite;Natural gas;Gasified waste
+Kymijärvi 2;Lahti Energia Oy;0804847-1;;;15141;Kymijärvi2 Voimakatu 16, Lahti;District heating CHP;0;0;0;0;0;0;40;40;0;40;40;0;Gasified waste;Natural gas;
+Kyrkösjärvi;Seinäjoen Energia Oy;0974008-0;Varastotie 5;Seinäjoki;60100;Kyrkösjärvi, Seinäjoki;Hydro power;7.8;7.5;0;0;0;0;0;0;0;7.8;7.5;0;;;
+Kytölä;Kytölän Tuulipuisto Ky;2659988-3;c/o Taaleritehdas Oy, Kluuvikatu 3;Helsinki;100;Kytölä;Wind power;19.8;19.8;0;0;0;0;0;0;0;19.8;19.8;0;;;
+Käenkoski;Killin Voima Oy;1579405;PL 25;Virrat;34801;Käenkoski;Hydro power;2;2;0;0;0;0;0;0;0;2;2;0;;;
+Lakiakangas 1;CPC Lakiakangas 1 Oy;2571601-3;PL 8;Isojoki;64901;Lakiakangas 1, Isojoki;Wind power;7;7;0;0;0;0;0;0;0;7;7;0;;;
+Lappeenranta TG9;UPM-Kymmene Oyj;10410900;Ky-35;Kuusankoski;45700;Lappeenranta TG9;Industry CHP;0;0;0;67.3;67.3;0;0;0;0;67.3;67.3;0;Black liquor and concentrated liquors;Heavy distillates;
+Lappeenranta, Kaukaan tehdas;Kaukaan Voima Oy;1762575-2;Kaukaantie 16;Lappeenranta;53200;;District heating CHP;0;0;0;56;56;0;63;63;0;119;119;0;Industrial wood residues;Natural gas;
+Lapua;Kiviristin Lämpö Oy;0180601-4;Makasiinintie 7;Lapua;62100;Lapua;District heating CHP;0;0;0;0;0;0;4;4;0;4;4;0;Peat;Forest fuelwood;Industrial wood residues
+Larsmo tv;Ab Larsmo Vindkraft Oy;1720341-0;Risöhällvägen 18;Larsmo;68570;Larsmo Vindkraftverk;Wind power;1;1;0;0;0;0;0;0;0;1;1;0;;;
+Latamäki;Ilmatar Luhanka Oy;2465881-9;Bulevardi 7;Helsinki;120;Latamäki, Luhanka;Wind power;18;18;0;0;0;0;0;0;0;18;18;0;;;
+Leipiö 2;Tuuliwatti Oy;2263278-9;PL 100;Helsinki;`00381;Leipiö 2;Wind power;45.5;45.5;0;0;0;0;0;0;0;45.5;45.5;0;;;
+Leppikoski;Fortum Power & Heat , Generation;0109160-2;Keilaniementie 1;PL 100;00048 Fortum;Leppikoski;Hydro power;24;24;0;0;0;0;0;0;0;24;24;0;;;
+Lestijärvi;Verkko Korpela Oy;2045704-0;PL 13;Kannus;69101;Lestijärvi;Separate electricity production;1.3;1.3;0;0;0;0;0;0;0;1.3;1.3;0;;;
+Leuhunkoski;Vattenfall Sähköntuotanto oy;1076456-5;Maaistraatinportti 4 A;Helsinki;240;Saarijärvi / Leuhunkoski;Hydro power;3.2;3.2;0;0;0;0;0;0;0;3.2;3.2;0;;;
+Lieksa Kevätniemi;Vapo Oy;174817;PL 22;Jyväskylä;40101;Lieksa;Industry CHP;0;0;0;7;7;0;0;0;0;7;7;0;Peat;Medium heavy distillates;Industrial wood residues
+Lieksankoski;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Lieksankoski;Hydro power;18;18;0;0;0;0;0;0;0;18;18;0;;;
+Lielahti;Tampereen Sähkölaitos;0211675-2;PL 175;TAMPERE;33101;Lielahti;District heating CHP;0;0;0;0;0;0;142;142;0;142;142;0;Natural gas;Medium heavy distillates;
+Limakko;Limakon Tuulipuisto Ky;2700715-7;Kluuvikatu 3;Helsinki;`00100;Limakko;Wind power;27;27;0;0;0;0;0;0;0;27;27;0;;;
+Liunankoski;Savon Voima Oyj;0171351-2;PL 1024;Toivala;70901;Joroinen, Liunantie 79;Hydro power;1.2;1;0;0;0;0;0;0;0;1.2;1;0;;;
+Loviisa kt;Fingrid Oyj;1072894-3;PL 530 ( Arkadiakatu 23 B);Helsinki;100;Loviisa kt 1, 2;Separate electricity production;40;40;0;0;0;0;0;0;0;40;40;0;Medium heavy distillates;;
+Loviisa Y1;Fortum Power & Heat , Power;0109160-2;Keilaniementie 1;PL 100;48;Loviisa I;Nuclear energy;507;507;0;0;0;0;0;0;0;507;507;0;Nuclear energy;;
+Loviisa Y2;Fortum Power & Heat , Power;0109160-2;Keilalahdentie 2-4;PL 100;00048 Fortum;Loviisa 2;Nuclear energy;507;507;0;0;0;0;0;0;0;507;507;0;Nuclear energy;;
+Lumijoki;Lumituuli Oy;1454032-3;Eerikinkatu 27;Helsinki;180;Lumijoki;Wind power;1.6;1.6;0;0;0;0;0;0;0;1.6;1.6;0;;;
+LW Jouttikallio;Kyyttö Energy Oy;2834718-8;Vasunmäentie 1399;Mäki-Paavola;62185;LW Jouttikallio;Wind power;4.2;4.2;0;0;0;0;0;0;0;4.2;4.2;0;;;
+LW Koskenkylä;Koskenkylän Tuulienergia Oy;2564965-8;Kurikantie 255;Kauhajoki;61850;LW Koskenkylä;Wind power;2.35;2.35;0;0;0;0;0;0;0;2.35;2.35;0;;;
+LW Mustaisneva 6;Suotuuli Oy;2622755-3;Kokonkyläntie 257;Kauhajoki;61800;Halmeen metsätie 29;Wind power;3;3;0;0;0;0;0;0;0;3;3;0;;;
+LW Pensala;Årvas Wind Ab;2685183-1;Backasvägen 4;Pensala;66840;Norrpiggvägen;Wind power;3;3;0;0;0;0;0;0;0;3;3;0;;;
+Långfors;Oy HERRFORS Ab;;Storgatan 8;68600 Jakobstad;;Långfors;Hydro power;1.2;0.3;0;0;0;0;0;0;0;1.2;0.3;0;;;
+Maalismaa;PVO Vesivoima Oy;09404130-0;Virkkulantie 207;91100 Ii;91100;maalismaa;Hydro power;38.5;38.5;0;0;0;0;0;0;0;38.5;38.5;0;;;
+Maavesi;Savon Voima Oyj;0171351-2;PL 1024;Toivala;70901;Joroinen, Katajamäentie 1461, Maavesi;Hydro power;1.9;1.8;0;0;0;0;0;0;0;1.9;1.8;0;;;
+Mankala;Oy Mankala Ab;0158738-4;Sitikkalantie 189;KAUSALA;47400;Mankala;Hydro power;30;25.5;0;0;0;0;0;0;0;30;25.5;0;;;
+Martinlaakso;Vantaan Energia Oy;0124461-3;Peltolantie 27;Vantaa;1300;Martinlaakso;District heating CHP;2.1;2.1;0;0;0;0;197;189;0;199.1;191.1;0;Forest fuelwood;Natural gas;Medium heavy distillates
+Matarakoski;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Matarakoski;Hydro power;11;11;0;0;0;0;0;0;0;11;11;0;;;
+Melo;PVO Vesivoima Oy;09404130-0;Virkkulantie 207;91100 Ii;91100;melo;Hydro power;70;70;0;0;0;0;0;0;0;70;70;0;;;
+Merikoski;Oulun Energia;0187690-1;Kasarmintie 6, PL 116;Oulu ;90101;Koskitie 30, Oulu, Merikosken voimalaitos;Hydro power;42;41.5;0;0;0;0;0;0;0;42;41.5;0;;;
+Meri-Pori;Fortum Power & Heat , Generation;0109160-2;Keilaniementie 1;PL 100;00048 Fortum;Meri-Pori;Separate electricity production;565;565;0;0;0;0;0;0;0;565;565;0;Hard coal and anthracite;Heavy distillates;Heavy distillates
+Mertaniemi 1 ja 2 ;Lappeenrannan Lämpövoima Oy;0161983-3;PL 191;Lappeenranta;53101;Mertaniemi 2;Separate electricity production;102;102;0;0;0;0;0;0;64;102;102;64;Medium heavy distillates;Natural gas;
+Metsälän tuulivoimapuisto;EPV Tuulivoima Oy;2152955-2;Kirkkopuistikko 0;Vaasa;65100;Metsälän tuulivoimapuisto;Wind power;117.3;117.3;0;0;0;0;0;0;0;117.3;117.3;0;;;
+Montta;Fortum Power & Heat , Generation;0109160-2;Keilaniementie 1;PL 100;00048 Fortum;Montta;Hydro power;47.3;47.3;0;0;0;0;0;0;0;47.3;47.3;0;;;
+Muntila;Muntilan Tuulivoima Oy;2581506-2;Salomonkatu 17a 12.kerros;Helsinki;100;Muntila;Wind power;9;9;0;0;0;0;0;0;0;9;9;0;;;
+Mussalon tuulivoimalat;Kotkan Energia Oy;1778863-1;Liitulahdentie 1;Kotka;48101;Tuulivoimalat;Wind power;5.7;5.7;1;0;0;0;0;0;0;5.7;5.7;1;;;
+Mustaisneva 1-5 ja 7-9;SPC 2-Mustaisneva Oy;2592006-5;Zuiderinslag 4D;Hoevelaken 3871 MR;;Mustaisneva 1-5 ja 7-9;Wind power;20;20;0;0;0;0;0;0;0;20;20;0;;;
+Mustilankangas;Tuuliwatti Oy ;2263278-9;Purotie 1;PL 100;(00)381;Kalajoki Mustilankangas;Wind power;92.4;92.4;0;0;0;0;0;0;0;92.4;92.4;0;;;
+Mustio;Koskienergia Koskivoima Oy;2447744-7;Kotakennääntie 31;Äänekoski;44100;Mustio, Karjaa;Hydro power;1.8;1.8;0;0;0;0;0;0;0;1.8;1.8;0;;;
+Myllykangas;Myllykankaan tuulipuisto Ky;25780592;Tuulijärventie 1338;Kuivaniemi;95100;Myllykangas;Wind power;45.6;45.6;0;0;0;0;0;0;0;45.6;45.6;0;;;
+Myllykangas 3;Myllykankaan Tuulipuisto II Ky;2641226-5;c/o Taaleri Oyj, Kluuvikatu 3;Helsinki;100;Myllykangas 3;Wind power;8.4;8.4;0;0;0;0;0;0;0;8.4;8.4;0;;;
+Myllykoski;Koskienergia Koskivoima Oy;2447744-7;Kotakennääntie 31;Äänekoski;44100;Myllykoski;Hydro power;1.3;1.3;0;0;0;0;0;0;0;1.3;1.3;0;;;
+Myllykoski ve;Myllykoski Paper Oy;0103132-3;Myllykoskentie 1;Anjalankoski;46800;Myllykosken vesivoimalaitos;Hydro power;25;25;0;0;0;0;0;0;0;25;25;0;;;
+Myllykoski vp;UPM;0755267-6;Hatanpään Valtatie;Tampere;240;Myllykoskentie 1, Anjalankoski;Industry CHP;0;0;0;32.8;29.5;0;0;0;0;32.8;29.5;0;Industrial wood residues;Medium heavy distillates;Heavy distillates
+Mäkikankaan tuulipuisto ;wpd Mäkikankaan tuulipuisto Oy;2402612-5;Keilaranta 13;Espoo;2150;Mäkikankaan tuulipuisto, Pyhäjoki;Wind power;33;33;0;0;0;0;0;0;0;33;33;0;;;
+Mäkipää Diesel;Vaasan Sähköverkko Oy;1993667-7;PL 26;Vaasa;65101;Mäkipää Diesel;Separate electricity production;1;1;0;0;0;0;0;0;0;1;1;0;Medium heavy distillates;;
+Mänttä lä;Mäntän Energia Oy;0869547-6;Lampilinnantie 4;Mänttä;35800;Tehtaankatu 20 Mänttä;Industry CHP;0;0;0;12;12;0;0;0;0;12;12;0;Peat;Forest fuelwood;Heavy distillates
+Mänttä ve;Mäntän Energia Oy;0869547-6;Lampilinnantie 4;Mänttä;35800;Mäntänkoskentie 15 Mänttä;Hydro power;1.5;1.5;0;0;0;0;0;0;0;1.5;1.5;0;;;
+Naantali;Turun Seudun Energiantuotanto Oy;1730092-3;PL 547;FORTUM;48;Naantalin voimalaitos;District heating CHP;0;0;0;0;0;0;450;450;0;450;450;0;Hard coal and anthracite;Heavy distillates;Forest fuelwood
+Naantali kt;Fingrid Oyj;1072894-3;PL 530 ( Arkadiakatu 23 B);Helsinki;100;Naantali kt 1, 2;Separate electricity production;40;40;0;0;0;0;0;0;0;40;40;0;Medium heavy distillates;;
+Nahkakallio;Puhuri Oy;2316411-2;Turvetie 112;Haapavesi;86600;Nahkakallio;Wind power;26.4;26.4;0;0;0;0;0;0;0;26.4;26.4;0;;;
+Naistenlahti 1;Tampereen Sähkölaitos;0211675-2;PL 175;TAMPERE;33101;Naistenlahti 1;District heating CHP;0;0;0;0;0;0;129;129;0;129;129;0;Natural gas;Medium heavy distillates;
+Naistenlahti 2;Tampereen Sähkölaitos;0211675-2;PL 175;TAMPERE;33101;Naistenlahti 2;District heating CHP;0;0;0;0;0;0;62.2;62.2;0;62.2;62.2;0;Peat;Forest fuelwood;Industrial wood residues
+Nastola kt;Lahti Energia Oy;0804847-1;;;15141;Nastola Rakokiventie 23;District heating CHP;0;0;0;0;0;0;4.6;4.6;0;4.6;4.6;0;Natural gas;Medium heavy distillates;
+Nikkarinkaarto;Suomen Hyötytuuli Oy;1477522-9;PL 305; Pori;28601;Nikkarinkaarto T1-T10;Wind power;33;33;0;0;0;0;0;0;0;33;33;0;;;
+Nikkilä;Keravan Energia Oy;0891026-0;PL 37;Kerava;4201;Nikkilän voimalaitos;District heating CHP;0;0;0;0;0;0;5.4;5.4;0;5.4;5.4;0;Natural gas;Medium heavy distillates;
+Nivala;Nivalan Kaukolämpö Oy;0291676-8;Hyttitie 5;Nivala ;85500;Lämpölä/Hyttitie 5 Nivala;District heating CHP;0;0;0;0;0;0;5.3;5.3;0;5.3;5.3;0;Forest fuelwood;Heavy distillates;
+Nokia kombi;Leppäkosken Sähkö Oy;0133023-9;Eino Salmelaisen katu 23;Ikaalinen;39501;Nokia, Kerhokatu 10;Industry CHP;0;0;0;72;72;0;0;0;0;72;72;0;Natural gas;Medium heavy distillates;
+Nuojua;Fortum Power & Heat , Generation;0109160-2;Keilaniementie 1;PL 100;00048 Fortum;Nuojua;Hydro power;85.2;85.2;0;0;0;0;0;0;0;85.2;85.2;0;;;
+Nurmon Aurinko;Nurmon Aurinko Oy;2765911-2;Hermiankatu 6-8 D;Tampere;60550;Nurmon Aurinko, Atriantie 1, 60550 Seinäjoki;Solar;1;1;0;0;0;0;0;0;0;1;1;0;;;
+Nyby-Ii;Nybyn Tuulipuisto Ky;2504071-1;c/o Taaleritehdas Oyj, Kluuvikatu 3;Helsinki;100;Nyby;Wind power;19.2;19.2;0;0;0;0;0;0;0;19.2;19.2;0;;;
+Oksava;Vattenfall Sähköntuotanto oy;1076456-5;Maaistraatinportti 4 A;Helsinki;240;Haapajärvi / Oksava;Hydro power;3;3;0;0;0;0;0;0;0;3;3;0;;;
+Olkiluoto 1;Teollisuuden Voima Oy;0196656-0;Olkiluoto;Olkiluoto;27160;Olkiluoto 1;Nuclear energy;890;890;0;0;0;0;0;0;0;890;890;0;Nuclear energy;;
+Olkiluoto 2;Teollisuuden Voima Oyj;0196656-0;Olkiluoto;Olkiluoto;27160;Olkiluoto 2;Nuclear energy;890;890;0;0;0;0;0;0;0;890;890;0;Nuclear energy;;
+Olkiluoto kt;Fingrid Oyj;1072894-3;PL 530 (Arkadiankatu 23 B);Helsinki;100;Olkiluoto KT 1 ja 2, Eurajoki;Separate electricity production;100.5;100.5;0;0;0;0;0;0;0;100.5;100.5;0;Medium heavy distillates;;
+Onkalo 2;Tuuliwatti Oy;2263278-9;PL 100;Helsinki;381;Onkalo, Simo;Wind power;10.5;10.5;0;0;0;0;0;0;0;10.5;10.5;0;;;
+Ossauskoski;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Ossauskoski;Hydro power;124;124;0;0;0;0;0;0;0;124;124;0;;;
+Oulu;Stora Enso Oyj, Oulun tehdas;1039050-8;PL 196;Oulu;90101;Oulu;Industry CHP;0;0;0;105;100;0;0;0;0;105;100;0;Black liquor and concentrated liquors;Industrial wood residues;Peat
+Oulu, Laanilan Voima;Laanilan Voima Oy;1997196-6;PL 191  (Typpitie);Oulu;90101;Oulu;Industry CHP;0;0;0;28;28;0;0;0;0;28;28;0;Peat;Industrial wood residues;Heavy distillates
+Oulunsalo Riutunkari tv;Pohjantuulen Voima Oy;23970042;Rovakatu 13 A 39;Rovaniemi;96100;Oulunsalo, Riutunkari T1-T6;Wind power;6;6;0;0;0;0;0;0;0;6;6;0;;;
+Padinki;Korpelan Voima kuntayhtymä;0178464-4;PL 13;Kannus;69101;Padinki, Nivala;Hydro power;1;1;0;0;0;0;0;0;0;1;1;0;;;
+Pahkakoski;PVO Vesivoima Oy;09404130-0;Virkkulantie 207;91100 Ii;91100;pahkakoski;Hydro power;42.1;42.1;0;0;0;0;0;0;0;42.1;42.1;0;;;
+Pajukoski 1 A;Windfarm Ylivieska Pajukoski Ky;26117845-3;Kluuvikatu 3;Helsinki;`00100;Pajukoski 1A;Wind power;6.6;6.6;0;0;0;0;0;0;0;6.6;6.6;0;;;
+Pajukoski 1 B;Pajukosken tuulipuisto Oy;2536731-9;Kluuvikatu 3;Helsinki;`00100;Pajukosken tuulipuisto 1 B;Wind power;23.1;23.1;0;0;0;0;0;0;0;23.1;23.1;0;;;
+Palokki;Pohjois-Karjalan Sähkö Oy;0214732-1;Rantakatu 29;Joensuu;80100;Heinävesi, Palokki;Hydro power;6.8;3;0;0;0;0;0;0;0;6.8;3;0;;;
+Pamilo;Pamilo Oy;0167465-6;Tuohivaarantie 40;Luhtapohja;81330;Pamilon vesivoimalaitos;Hydro power;85;17;0;0;0;0;0;0;0;85;17;0;;;
+Pankakoski;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Pankakoski;Hydro power;15.6;15.6;0;0;0;0;0;0;0;15.6;15.6;0;;;
+Parantalankoski;Koskienergia Oy;10140492-9;PL166; Mikkeli;50101;Parantala Äänekoski;Hydro power;0.9;0.9;0;0;0;0;0;0;0;0.9;0.9;0;;;
+Paskoonharju 1;EPV Tuulivoima Oy;2152955-2;Kirkkopuistikko 0;Vaasa;65100;Paskoonharju 1;Wind power;6.4;6.4;0;0;0;0;0;0;0;6.4;6.4;0;;;
+Patalankoski;UPM-Kymmene Oyj;10410900;Ky-35;Kuusankoski;45700;Patala;Hydro power;2.4;2.4;0;0;0;0;0;0;0;2.4;2.4;0;;;
+Peltokoski;Koskienergia Koskivoima Oy;2447744-7;Kotakennääntie 31;Äänekoski;44100;Peltokoski, Karjaa;Hydro power;2.3;2.3;0;0;0;0;0;0;0;2.3;2.3;0;;;
+Permantokoski;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Permantokoski;Hydro power;13;13;0;0;0;0;0;0;0;13;13;0;;;
+Pettumäen Mylly;Pettumäen Mylly oy;2455052-5;Joentaustantie 291;Teuva;64700;Pettumäki Teuva;Wind power;2.5;2.5;0;0;0;0;0;0;0;2.5;2.5;0;;;
+Petäjäskoski;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Petäjäskoski;Hydro power;182;182;0;0;0;0;0;0;0;182;182;0;;;
+Pieksämäki;Savon Voima Oyj;0171351-2;PL 1024;Toivala;70901;Pieksämäki, Kutteritie 2A;District heating CHP;0;0;0;0;0;0;10;10;0;10;10;0;Peat;;
+Pietarsaari (Wisapower Oy);UPM-Kymmene Oyj Wisaforest;;Ky-35;Kuusankoski;45700;Pietarsaari, Wisapower;Industry CHP;0;0;0;116;116;0;0;0;0;116;116;0;Black liquor and concentrated liquors;Heavy distillates;
+Pihlava;Pori Energia Oy;0790442-4;PL 9 (Radanvarsi 2);PORI;28101;Pori Pihlava;Industry CHP;0;0;0;0;0;1.4;0;0;0;0;0;1.4;Industrial wood residues;Heavy distillates;
+Pirttikoski;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Pirttikoski;Hydro power;152;152;0;0;0;0;0;0;0;152;152;0;;;
+Pirttiselkä;Puhuri Oy;2316411-2;Turvetie 112;Haapavesi;86600;Pirttiselkä;Wind power;27.6;27.6;0;0;0;0;0;0;0;27.6;27.6;0;;;
+Pitkämö;Koskienergia Koskivoima Oy;2447744-7;Kotakennääntie 31;Äänekoski;44100;Pitkämö, Kurikka;Hydro power;6.3;6.3;0;0;0;0;0;0;0;6.3;6.3;0;;;
+Pori;Porin Prosessivoima Oy;1997190-7;Töölönkatu 4;00101 Helsinki;;Titaanitie, 28840 PORI;Industry CHP;0;0;0;81.4;76;0;0;0;0;81.4;76;0;Peat;Medium heavy distillates;Heavy distillates
+Pori Kirrinsanta;Suomen Hyötytuuli Oy;1477522-9;PL 9;Pori;28101;Pori Kirrinsanta;Wind power;6.6;6.6;0;0;0;0;0;0;0;6.6;6.6;0;;;
+Pori Peittoo;Tuuliwatti Oy ;2263278-9;Purotie 1;PL 100;(00)381;Pori Peittoo;Wind power;54;54;0;0;0;0;0;0;0;54;54;0;;;
+Porin tuulipuisto tv 1 - 10;Suomen Hyötytuuli Oy;1477522-9;PL 305;PORI;28601;Pori (Tahkoluoto / Reposaari);Wind power;9;9;0;0;0;0;0;0;0;9;9;0;;;
+Porituuli;Porituuli Oy;1987626-0;Uusikatu 53 / PL 557;Oulu;90120;Tahkoluodon syväsatama Tuulivoimala 10;Wind power;3;3;0;0;0;0;0;0;0;3;3;0;;;
+Portimokoski;Tornionlaakson Voima Oy-;0361356-6;Myllytie 1;Pello;95700;Portimokoski;Hydro power;11;3.4;0;0;0;0;0;0;0;11;3.4;0;;;
+Porttipahta;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Porttipahta;Hydro power;35;35;0;0;0;0;0;0;0;35;35;0;;;
+Porvoo;Kilpilahden Voimalaitos Oy;Y-2709525-7;PL 1001;Porvoo;6401;Porvoo;Separate electricity production;31;30;0;0;0;45;0;0;0;31;30;45;Heavy distillates;Natural gas;Petroleum gases
+Porvoo Kilpilahti;Fingrid Oyj;1072894-3;PL 530 ( Arkadiakatu 23 B);Helsinki;100;Kilpilahti kt vvl;Separate electricity production;27;27;0;0;0;0;0;0;0;27;27;0;Medium heavy distillates;;
+Porvoo kt 2;Kilpilahden Voimalaitos Oy;Y-2709525-7;PL 1001;Porvoo;6401;Porvoo kt 2;Industry CHP;0;0;0;48;48;0;0;0;0;48;48;0;Natural gas;Medium heavy distillates;
+Porvoo kt 3;Kilpilahden Voimalaitos Oy;Y-2709525-7;PL 1001;Porvoo;6401;Porvoo kt 3;Industry CHP;0;0;0;72.6;72.6;0;0;0;0;72.6;72.6;0;Natural gas;Medium heavy distillates;
+Porvoo Tolkkinen;Fingrid Oyj;1072894-3;PL 530 ( Arkadiakatu 23 B);Helsinki;100;Tolkkinen kt 1, 2;Separate electricity production;40;40;0;0;0;0;0;0;0;40;40;0;Medium heavy distillates;;
+Posion CHP-laitos;Posion Vesi ja Lämpö Oy;0191895-6;Kirkkotie 1; POSIO;97900;Posion Voimalaitos Rantatie 3 97900 Posio;District heating CHP;0;0;0;0;0;0;0.6;0.6;0;0.6;0.6;0;Forest fuelwood;Forest fuelwood;
+Posion Energia Oy;Posion Energia Oy;2500790-3;Lapinlahdenkatu 1 C;Helsinki;180;Posion Energia Oy;Wind power;24.2;24.2;0;0;0;0;0;0;0;24.2;24.2;0;;;
+Puntarikoski;Pohjois-Karjalan Sähkö Oy;0214732-1;Rantakatu 29;Joensuu;80100;Kontiolahti, Puntarikoski;Hydro power;6.9;4;0;0;0;0;0;0;0;6.9;4;0;;;
+Pursiala 1;Etelä-Savon Energia Oy;0940955-3;Kanavakatu 2 (PL 166);MIKKELI;50100;Pursiala 1 ;District heating CHP;0;0;0;0;0;0;27;25;0;27;25;0;Forest fuelwood;Industrial wood residues;Peat
+Pursiala 2;Etelä-Savon Energia Oy;0940995-3;Vuorikatu 19;MIKKELI;50100;Pursiala 2;District heating CHP;0;0;0;0;0;0;32;29.2;0;32;29.2;0;Peat;Industrial wood residues;Forest fuelwood
+Puulaakso;Puulaakson Energia Oy;1558986-6;C/O Vattenfall Sähköntuotanto Oy, Maistraatinportti 4;Helsinki;240;Puulaakson Energia Oy  Hongantie 93;Industry CHP;0;0;0;0.9;0.7;0;0;0;0;0.9;0.7;0;Industrial wood residues;;
+Puuska 2;Rajakiiri Oy;21137858;Kirkkopuistikko 0;Vaasa;65100;Puuska 2;Wind power;16.5;16.5;0;0;0;0;0;0;0;16.5;16.5;0;;;
+Pyhäjoki;Tuulipuisto Oy Pyhäjoki;2484807-3;Jaakonkatu 3 B;Helsinki;100;Pyhäjoki;Wind power;26.4;26.4;0;0;0;0;0;0;0;26.4;26.4;0;;;
+Pyhäkoski;Fortum Power & Heat , Generation;0109160-2;Keilaniementie 1;PL 100;00048 Fortum;Pyhäkoski;Hydro power;146;146;0;0;0;0;0;0;0;146;146;0;;;
+Pyhänkoski;CHORUS Wind Pyhänkoski Oy;26166287;Elielinaukio 5B;Helsinki;100;Pyhänkoski;Wind power;13.2;13.2;0;0;0;0;0;0;0;13.2;13.2;0;;;
+Pyhännänkoski;Kainuun Energia Oy;0185353-1;Ahontie 1;Kajaani;87101;Ristijärvi (Pyhännänkoski;Hydro power;2.9;2.6;0;0;0;0;0;0;0;2.9;2.6;0;;;
+Pälli;Fortum Power & Heat , Generation;0109160-2;Keilaniementie 1;PL 100;00048 Fortum;Pälli;Hydro power;50.7;50.7;0;0;0;0;0;0;0;50.7;50.7;0;;;
+Raahe;Raahen Voima Oyj;2604933-9;PL 155;Raahen Voima Oyj;92101;Raahe;Industry CHP;0;0;0;94;94;0;0;0;0;94;94;0;Blast furnace gas;Coke oven gas;Natural gas
+Raahen tuulipuisto tv 1- 9;Suomen Hyötytuuli Oy;1477522-9;Radanvarsi 2;Pori;28100;Raahe tv 1-9;Wind power;20.7;20.7;0;0;0;0;0;0;0;20.7;20.7;0;;;
+Raasakka;PVO Vesivoima Oy;09404130-0;Virkkulantie 207;91100 Ii;91100;raasakka;Hydro power;60;60;0;0;0;0;0;0;0;60;60;0;;;
+Raisio;Raisionkaaren Teollisuuspuisto Oy;2134113-8;PL 101;RAISIO;21201;Raisio;Industry CHP;0;0;0;0;0;0;0;0;0;0;0;0;Heavy distillates;;
+Rasmus 1 ja 2;Koskenkorvan Tuulivoima Oy;2308214-1;c/o Tapani Lehtonen, Tiilitie 210;Koskenkorva ;61330;Rasmus 1 ja 2, Ilmajoki;Wind power;3;3;0;0;0;0;0;0;0;3;3;0;;;
+Ratiperä;Ratiperän Tuulivoima Oy;2789721-7;Salomonkatu 17 A;Helsinki;100;Ratiperä;Wind power;27;27;0;0;0;0;0;0;0;27;27;0;;;
+Rauhalahti;Jyväskylän Energiantuotanto Oy;1030790-3;PL 4;Jyväskylä;40101;Rauhalahti;District heating CHP;0;0;0;0;0;0;80;80;0;80;80;0;Peat;Industrial wood residues;Forest fuelwood
+Rauma;Metsä Fibre Oy;0791416-3;Revontulentie 6;Espoo;2100;Metsä Fibre Rauman tehdas;Industry CHP;0;0;0;75;55;0;0;0;0;75;55;0;Black liquor and concentrated liquors;Heavy distillates;
+Rauma;Rauman Biovoima Oy;1053836-5;Tikkalantie 1;26101 RAUMA;PL 95;Rauma;Industry CHP;0;0;0;71.5;65;0;0;0;0;71.5;65;0;Industrial wood residues;Forest fuelwood;Mixed fuels
+Rengon saha;Biokraft Oy;1931103-6;c/o Vapo Oy;PL 22;40101;Renko;Industry CHP;0;0;0;1.3;1.3;0;0;0;0;1.3;1.3;0;Industrial wood residues;Industrial wood residues;
+RES1;Restuuli Oy;2506525-7;Tervarinne 5;Salo;24280;Märynummi, Salo;Wind power;5;5;0;0;0;0;0;0;0;5;5;0;;;
+Riihimäki (Ekokem);EKOKEM OY AB;0350017-4;PL 181;RIIHIMÄKI;11101;Kuulojankatu 1, 11120 RIIHIMÄKI;District heating CHP;0;0;0;0;0;0;19.6;19.6;0;19.6;19.6;0;Other by-products and wastes used as fuel;Heavy distillates;Medium heavy distillates
+Riikinvoima;Riikinvoima Oy;2530288-1;Riikinnevantie 153;Varkaus;78210;Riikinvoima;District heating CHP;0;0;0;0;0;0;11.8;11.8;0;11.8;11.8;0;Mixed fuels;Medium heavy distillates;
+Ristiina;Järvi-Suomen Voima Oy;163 43 73-7;Töölönkatu 4;Helsinki;100;Ristiina;Industry CHP;0;0;0;8.5;8.5;0;0;0;0;8.5;8.5;0;Industrial wood residues;Heavy distillates;
+Ruskeakoski;Pohjois-Karjalan Sähkö Oy;0214732-1;Rantakatu 29;Joensuu;80100;Joensuu, Ruskeakoski;Hydro power;3.3;1.2;0;0;0;0;0;0;0;3.3;1.2;0;;;
+Ruusutarhat;Ruusutarhat Suutari Oy;016 3385 - 4;Jyrääntie 400;45100   Kouvola;45100;Valkeala;Separate electricity production;1.2;1.2;0;1.5;1.5;0;0;0;0;2.7;2.7;0;Natural gas;Medium heavy distillates;
+Röyttä, Tornion tehtaat, 11 generaattoria;Outokumpu Stainless Oy;0823315-9;Tornion Tehtaat;95400;95400;Tornion Tehtaat Röyttä;Separate electricity production;16;12;0;0;0;0;0;0;0;16;12;0;Medium heavy distillates;;
+Saarenkylän tuulipuisto;Saarenkylä Tuulipuisto Oy;2536739-4;c/o wpd windmanager Scandinavia Oy, Sepänkatu 20;Oulu;90100;Saarenkylän tuulivoimapuisto;Wind power;29.7;29.7;0;0;0;0;0;0;0;29.7;29.7;0;;;
+Saario;Pohjois-Karjalan Sähkö Oy;0214732-1;Rantakatu 29;Joensuu;80100;Tohmajärvi, Saario;Hydro power;1.6;0.7;0;0;0;0;0;0;0;1.6;0.7;0;;;
+Sallila;Sallila Energia Oy;0132029-2;Loimijoentie 65;Alastaro;32440;Sallila (Vampulan kunnassa);Hydro power;1.2;1.2;0;0;0;0;0;0;0;1.2;1.2;0;;;
+Salmisaari B;Helsingin Energia;9000002882;Kampinkuja 2;HELEN;90;Salmisaaren voimalaitos;District heating CHP;0;0;0;0;0;0;163;155;0;163;155;0;Hard coal and anthracite;Heavy distillates;Medium heavy distillates
+Salo;Voimavasu Oy;1503851-1;PL 22;Jyväskylä;40101;Salo;District heating CHP;0;0;0;0;0;0;13.5;13.5;0;13.5;13.5;0;Peat;Industrial wood residues;Heavy distillates
+Salo Märynummi;Tuuliwatti Oy ;2263278-9;Purotie 1;PL 100;(00)381;Salo Märynummi;Wind power;10;10;0;0;0;0;0;0;0;10;10;0;;;
+Santavuori 1;EPV Tuulivoima Oy;2152955-2;Kirkkopuistikko 0;Vaasa;65100;Santavuori 1;Wind power;56.1;56.1;0;0;0;0;0;0;0;56.1;56.1;0;;;
+Sarvankangas;Tuuliwatti Oy;2263278-9;PL 100;Helsinki;381;TW Sarvankangas, Raahe;Wind power;49;49;0;0;0;0;0;0;0;49;49;0;;;
+Savela;Jyväskylän Energiantuotanto Oy;1030790-3;PL 4;Jyväskylä;40101;Savela;Separate electricity production;0;0;33.8;0;0;0;0;0;0;0;0;33.8;Heavy distillates;;
+Savio;Keravan Energia Oy;0891026-0;PL 37;Kerava;4201;Savion voimalaitos;District heating CHP;0;0;0;0;0;0;3.9;3.9;0;3.9;3.9;0;Natural gas;Medium heavy distillates;
+Savonlinna;Järvi-Suomen Voima Oy;163 43 73-7;Töölönkatu 4;Helsinki;100;Savonlinna;District heating CHP;0;0;0;0;0;0;17.5;15.5;0;17.5;15.5;0;Industrial wood residues;Forest fuelwood;Peat
+Seinäjoki (SEVO);Seinäjoen Voima Oy;2887036-6;Kirkkopuistikko 0;Vaasa;65100;Seinäjoki Sevo;;0;0;0;0;0;0;120;120;0;120;120;0;Peat;Heavy distillates;Medium heavy distillates
+Seitakorva;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Seitakorva;Hydro power;144;144;0;0;0;0;0;0;0;144;144;0;;;
+Seitenoikea;Fortum Power & Heat , Generation;0109160-2;Keilaniementie 1;PL 100;00048 Fortum;Seitenoikea;Hydro power;37.9;37.9;0;0;0;0;0;0;0;37.9;37.9;0;;;
+Siikainen Jäneskeidas;Tuuliwatti Oy ;2263278-9;Purotie 1;PL 100;(00)381;Siikainen Jäneskeidas;Wind power;26.4;26.4;0;0;0;0;0;0;0;26.4;26.4;0;;;
+Siikakoski;KSS Energia Oy;0877511-8;Paimenpolku 3;Kouvola;45100;Valkeala / Siikakoski;Hydro power;1.8;1.8;0;0;0;0;0;0;0;1.8;1.8;0;;;
+Siilinjärvi, V1 turb. ja vp turb.;Yara Suomi Oy;0948865-5;Nilsiäntie 501, PL 20;Siilinjärvi;71801;Siilinjärvi;Industry CHP;0;0;0;25.1;22;0;0;0;0;25.1;22;0;Exothermic heat from industry;Heavy distillates;
+Simo Leipiö;Tuuliwatti Oy ;2263278-9;Purotie 1;PL 100;(00)381;Simo Leipiö;Wind power;18;18;0;0;0;0;0;0;0;18;18;0;;;
+Simo, Onkalonperä tv;Aalto Wind No 1 Ltd. Oy;2902288-7;Bulevardi 1 A;Helsinki;100;Simo, Onkaloperä tv;Wind power;9;9;0;0;0;0;0;0;0;9;9;0;;;
+Simo, Putaankangas tv;Aalto Wind No 1 Ltd. Oy;2902288-7;Bulevardi 1 A;Helsinki;100;Simo, Putaankangas;Wind power;9;9;0;0;0;0;0;0;0;9;9;0;;;
+Simpele;Metsä Board Oyj;635366-7;Revontulentie 6;Espoo;2100;Simpele;Industry CHP;9.1;9.1;0;25.4;25.4;0;0;0;0;34.5;34.5;0;Peat;Heavy distillates;
+Siuronkoski;Virolan puutarha;1054374-6;Tiihalantie 194;Kangasala;36270;Siuronkoski, Nokia;Hydro power;0.7;0.7;0;0;0;0;0;0;0;0.7;0.7;0;;;
+Sodankylän varuskunta;Puolustushallinnon rakennuslaitos;0988874-7;Unioninkatu 8, PL 199;Helsinki;131;Sodankylän varuskunta;Separate electricity production;0.9;0.9;0;0;0;0;0;0;0;0.9;0.9;0;Light distillates;;
+Soilu;Koskienergia Koskivoima Oy;2447744-7;Kotakennääntie 31;Äänekoski;44100;Soilu;Hydro power;1.8;1.8;0;0;0;0;0;0;0;1.8;1.8;0;;;
+Soininkoski;Killin Voima Oy;1579405;PL 25;Virrat;34801;Soininkoski;Hydro power;1.42;1.4;0;0;0;0;0;0;0;1.42;1.4;0;;;
+Sopenkorpi;Lahti Energia Oy;0804847-1;;;15141;Sopenkorpi Mestarinkatu 11, Lahti;Separate electricity production;14.5;13.6;0;0;0;0;0;0;0;14.5;13.6;0;Light distillates;;
+Sotkamo;Vapo Oy;174817;PL 22;Jyväskylä;40101;Sotkamo;Industry CHP;0;0;0;1.3;1.3;0;0;0;0;1.3;1.3;0;Peat;Medium heavy distillates;Forest fuelwood
+Stadsforsens Kraftverk;Nykarleby Kraftverk;0183077-8;Kvarnvägen 20;Nykarleby;66900;Stadsforsens Kraftverk;Hydro power;4.6;3;0;0;0;0;0;0;0;4.6;3;0;;;
+Summa tv;Haminan Energia;;Reutsinkatu 12;Hamina;49400;Summa tv;Wind power;12;12;0;0;0;0;0;0;0;12;12;0;;;
+Sunila;Stora Enso Oyj;1600825;Sunilantie 1;Sunila;48900;Kotka, Sunila;Industry CHP;0;0;0;35.7;35.7;0;0;0;0;35.7;35.7;0;Black liquor and concentrated liquors;Industrial wood residues;Natural gas
+Suomenojan voimalaitos;Fortum Power and Heat Oy;0109160-2;PL 100;FORTUM;48;Suomenojan voimalaitos;District heating CHP;0;0;0;0;0;0;358;358;0;358;358;0;Hard coal and anthracite;Natural gas;Heavy distillates
+Suosiola;ROVANIEMEN ENERGIA OY;0730905-1;Koskikatu 27;96101 ROVANIEMI;96100;Lampelankatu 24, Suosiola;District heating CHP;0;0;0;0;0;0;30;30;0;30;30;0;Peat;Industrial wood residues;Forest fuelwood
+Svalskulla;VindIn Svalskulla Ab/Oy;2568851-8;c/o Accounting Services Tilimatic Mannerheimintie 16 A 3;Helsinki;100;Svalskulla, Närpiö;Wind power;15;15;0;0;0;0;0;0;0;15;15;0;;;
+Sysimylly;Sysituuli Oy;2546296-5;Talvitie 333;Luomakylä;61810;Luomankyläntie 591, Luomankylä;Wind power;2.5;2.5;0;0;0;0;0;0;0;2.5;2.5;0;;;
+Sähkäle  II;Lumituuli Oy;1454032-3;Eerikinkatu 27;Helsinki;180;Sähkäle II, Lumijoki;Wind power;1.6;1.6;0;0;0;0;0;0;0;1.6;1.6;0;;;
+Säkylä;Voimavasu Oy;1503851-1;PL 22;Jyväskylä;40101;Säkylä;Industry CHP;0;0;0;8.8;8.8;0;0;0;0;8.8;8.8;0;Heavy distillates;;
+Sälevä;Savon Voima Oyj;0171351-2;PL 1024;Toivala;70901;Lapinlahti, Itäkoskentie 53, Paloinen;Hydro power;3;3;0;0;0;0;0;0;0;3;3;0;;;
+Sänkiaho;Alajärven Sähkö Oy;0177564-1;Kauppakatu 1;Alajärvi;62900;Sänkiahon 110/ 20 kV sähköasema ;Separate electricity production;2.1;1.8;0;0;0;0;0;0;0;2.1;1.8;0;Medium heavy distillates;;
+Tahkoluoto;PVO-Lämpövoima Oy;0904132-7;Frilundintie 7;Vaasa;65170;Tahkoluoto;Separate electricity production;0;0;233;0;0;0;0;0;0;0;0;233;Hard coal and anthracite;Heavy distillates;
+Tahkoluoto kt;Fingrid Oyj;1072894-3;PL 530 ( Arkadiakatu 23 B);Helsinki;100;Tahkoluoto kt 1, 2;Separate electricity production;52;52;0;0;0;0;0;0;0;52;52;0;Medium heavy distillates;;
+Tahkoluoto Offshore tv;Suomen Hyötytuuli Oy;1477522-9;PL 9;Pori;28101;Pori, Tahkoluodon edusta;Wind power;2.3;2.3;0;0;0;0;0;0;0;2.3;2.3;0;;;
+Tahkoluoto T1-T10;Suomen Hyötytuuli Oy;1477522-9;PL 305;Pori;28601;Tahkoluoto T1-T10;Wind power;42;42;0;0;0;0;0;0;0;42;42;0;;;
+Tahkoluoto tv;Tuuliwatti Oy ;2263278-9;Purotie 1;PL 100;(00)381;Pori, Tahkoluoto;Wind power;3;3;0;0;0;0;0;0;0;3;3;0;;;
+Tainionkoski;Fortum Power and Heat Oy;0109160-2;Keilalahdentie 2-4;PL 100;00048 Fortum;Tainionkoski;Hydro power;65.5;65.5;0;0;0;0;0;0;0;65.5;65.5;0;;;
+Taivalkoski;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Taivalkoski;Hydro power;133;133;0;0;0;0;0;0;0;133;133;0;;;
+Tako T2 ja T5;Metsä Board Oyj;635366-7;Revontulentie 6;Espoo;2100;M-real Tako Board kartonkitehdas, Tampere;Industry CHP;5;5;0;11.5;11.5;0;0;0;0;16.5;16.5;0;Natural gas;Heavy distillates;
+Tammerkoski;Tampereen Sähkölaitos;0211675-2;PL 175;TAMPERE;33101;Tammerkoski;Hydro power;8.6;7.1;0;0;0;0;0;0;0;8.6;7.1;0;;;
+Tammervoima;Tammervoima Oy;2444407-9;Voimakatu 17;Tampere;33100;Tammervoima / Hyötyvoimankuja 1;District heating CHP;0;0;0;0;0;0;12.3;11.5;0;12.3;11.5;0;Other by-products and wastes used as fuel;Medium heavy distillates;Biogas
+Tampella ve;Tampereen Sähkölaitos;0211675-2;PL 175;TAMPERE;33101;Tampella ve;Hydro power;3.01;2.8;0;0;0;0;0;0;0;3.01;2.8;0;;;
+Tervakoski lä;Tervakoski Oy;1516296-9;Vähikkäläntie 1;Tervakoski;12400;Tervakoski;Industry CHP;3.9;3.9;0;7.5;7.5;0;0;0;0;11.4;11.4;0;Natural gas;Heavy distillates;
+Tervasaari lä;UPM-Kymmene Oyj;10410900;Ky-35;Kuusankoski;37601;Tervasaari VP2 ja 3;Industry CHP;0;0;0;41;41;0;0;0;0;41;41;0;Black liquor and concentrated liquors;Natural gas;Peat
+Tervasaari ve;UPM-Kymmene Oyj;10410900;Ky-35;Kuusankoski;45700;Tervasaari vesi;Hydro power;3;3;0;0;0;0;0;0;0;3;3;0;;;
+Tervola, Varevaara tv;Tuuliwatti Oy ;2263278-9;Purotie 1;PL 100;(00)381;Tervola Varevaara;Wind power;32.25;32.25;0;0;0;0;0;0;0;32.25;32.25;0;;;
+Tiihala;Virolan puutarha;1054374-6;Tiihalantie 194;Kangasala;36270;Tiihala, Kangasala;Industry CHP;0;0;0;1;1;0;0;0;0;1;1;0;Light distillates;;
+Tohkoja 1;Tohkojan Tuulipuisto Oy;2551481-7;Keilaranta 13;Espoo;2150;Tohkojan tuulipuisto 1;Wind power;13.2;13.2;0;0;0;0;0;0;0;13.2;13.2;0;;;
+Tohkoja 2;Tohkojan Tuulipuisto Oy;2551481-7;Keilaranta 13;Espoo;2150;Tohkojan tuulipuisto 2;Wind power;13.2;13.2;0;0;0;0;0;0;0;13.2;13.2;0;;;
+Tohkoja 3;Tohkojan Tuulipuisto Oy;2551481-7;Keilaranta 13;Espoo;2150;Tohkojan tuulipuisto 3;Wind power;13.2;13.2;0;0;0;0;0;0;0;13.2;13.2;0;;;
+Tohkoja 4;Tohkojan Tuulipuisto Oy;2551481-7;Keilaranta 13;Espoo;2150;Tohkojan tuulipuisto 4;Wind power;9.9;9.9;0;0;0;0;0;0;0;9.9;9.9;0;;;
+Tohkoja 5;Tohkojan Tuulipuisto Oy;2551481-7;Keilaranta 13;Espoo;2150;Tohkojan tuulipuisto 5;Wind power;13.2;13.2;0;0;0;0;0;0;0;13.2;13.2;0;;;
+Tohkoja 6;Tohkojan Tuulipuisto Oy;2551481-7;Keilaranta 13;Espoo;2150;Tohkojan tuulipuisto 6;Wind power;9.9;9.9;0;0;0;0;0;0;0;9.9;9.9;0;;;
+Toholampi;Toholammin Energia Oy;0726682-1;Lampintie 5;Toholampi;69300;Toholampi;District heating CHP;0;0;0;0;0;0;1.3;1.3;0;1.3;1.3;0;Forest fuelwood;Industrial wood residues;Industrial wood residues
+Tolkkinen 1;Porvoon Energia Oy;0855859-4;;;6100;Tolkkinen;District heating CHP;0;0;0;0;0;0;7.8;7.8;0;7.8;7.8;0;Forest fuelwood;Heavy distillates;
+Tolkkinen, Biolaitos;Porvoon Energia Oy;0855859-4;Mannerheiminkatu 24; Porvoo;6100;Tolkkinen, Biolaitos;District heating CHP;0;0;0;0;0;0;11.3;9.5;0;11.3;9.5;0;Forest fuelwood;Industrial wood residues;Peat
+Topinojan Biokaasulaitos;Höyrytys Oy;1966772-9;Palokorvenkatu 2;Kerava;4261;Topinojan Biokaasulaitos;Industry CHP;0;0;0;0.8;0.8;0;0;0;0;0.8;0.8;0;Biogas;Biogas;
+Toppila 1;Oulun Energia Oy;0989376-5;Kasarmintie 6, PL 116;Oulu ;90101;Tervahovintie 10, Oulu, Toppila 1;District heating CHP;0;0;0;0;0;0;65;65;0;65;65;0;Peat;Industrial wood residues;Heavy distillates
+Toppila 2;Oulun Energia Oy;0989376-5;Kasarmintie 6, PL 116;Oulu ;90101;Tervahovintie 10, Oulu, Toppila 2;District heating CHP;0;0;0;0;0;0;98;98;0;98;98;0;Peat;Industrial wood residues;Heavy distillates
+Torkkolan tuulipuisto;EPV Tuulivoima Oy;2152955-2;Kirkkopuistikko 0;Vaasa;65100;Torkkola;Wind power;52.8;52.8;0;0;0;0;0;0;0;52.8;52.8;0;;;
+Tornio;Tornion Voima Oy;1958842-2;c/o Etelä-Pohjanmaan Voima Oy, Frilundintie 7;Vaasa;65170;"Tornio; Tornion voimalaitos";Industry CHP;0;0;0;39.3;36.1;0;0;0;0;39.3;36.1;0;Peat;Forest fuelwood;Mixed fuels
+Tornio Kitkiäisvaara;Tuuliwatti Oy ;2263278-9;Purotie 1;PL 100;(00)381;Tornio Kitkiäisvaara;Wind power;36;36;0;0;0;0;0;0;0;36;36;0;;;
+Tornio tv;Rajakiiri Oy;2113785-8;Frilundintie 7;Vaasa;65170;"Tornio; tuulivoimalaitokset A1-A8";Wind power;28.8;28.8;0;0;0;0;0;0;0;28.8;28.8;0;;;
+TuuliMuukko;TuuliMuukko Ky;2349793-7;Snellmaninkatu 3 B;Lappeenranta;53100;Muukko, Lappeenranta;Wind power;21;21;0;0;0;0;0;0;0;21;21;0;;;
+Tuulipuisto Ristiveto tv;Oy Perhonjoki Ab;0180034-1;Storgatan 8;Pietarsaari;68600;Merjärvi;Wind power;15;15;0;0;0;0;0;0;0;15;15;0;;;
+Tyrinselkä;Tuulivoimapuisto Tyrinselkä Oy;2413693-0;Hiilikatu 3;Helsinki;`00180;Tyrinselkä;Wind power;12.36;12.36;0;0;0;0;0;0;0;12.36;12.36;0;;;
+Tyrvää;UPM Energy Oy;2760639-5;Ky-35;Kuusankoski;37601;Tyrvää;Hydro power;13.5;13.5;0;0;0;0;0;0;0;13.5;13.5;0;;;
+Uimaharju 2 + 1 vp/lv;Stora Enso Oyj Enocellin tehdas;1039050-8;PL 2;Uimaharju;81281;Uimaharjun voimalaitos;Industry CHP;0;0;0;105;80;0;0;0;0;105;80;0;Black liquor and concentrated liquors;Industrial wood residues;Heavy distillates
+Uljua;Vattenfall Sähköntuotanto oy;1076456-5;Maaistraatinportti 4 A;Helsinki;240;Pulkkila / Uljua;Hydro power;3.7;3.7;0;0;0;0;0;0;0;3.7;3.7;0;;;
+Utanen;Fortum Power & Heat , Generation;0109160-2;Keilaniementie 1;PL 100;00048 Fortum;Utanen;Hydro power;57.8;57.8;0;0;0;0;0;0;0;57.8;57.8;0;;;
+Uusikaupunki;Yara Suomi Oy;0948865-5;PL 5 Uusikaupunki;Uusikaupunki;23501;Uusukaupunki, Hangonsaari;Industry CHP;0;0;0;14.2;13.5;0;0;0;0;14.2;13.5;0;Exothermic heat from industry;Heavy distillates;
+Vaaja;SUUR-SAVON SÄHKÖ Oy;0215863-7;Otto Mannisen katu 6;Mikkeli;50101;Vaajakoski, Jyväskylän mlk;Hydro power;3.6;3.6;0;0;0;0;0;0;0;3.6;3.6;0;;;
+Vaasa;Vaasan Sähkö Oy;0209628-8;Kirkkopuistikko 0;Vaasa;65100;Palosaaren sillan voimalaitos;District heating CHP;0;0;0;0;0;0;0;0;13;0;0;13;Heavy distillates;Medium heavy distillates;
+Vajukoski;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Vajukoski;Hydro power;21;21;0;0;0;0;0;0;0;21;21;0;;;
+Valajaskoski;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Valajaskoski;Hydro power;101;101;0;0;0;0;0;0;0;101;101;0;;;
+Valkeisten voima;Mika Manni;1757675-1;Ojajärventie 97;Louko;61190;Seinäjoki;Wind power;1.5;1.5;0;0;0;0;0;0;0;1.5;1.5;0;;;
+Vanaja kt 1;Fingrid Oyj;1072894-3;PL 530 ( Arkadiakatu 23 B);Helsinki;100;Vanaja kt;Separate electricity production;50;50;0;0;0;0;0;0;0;50;50;0;Medium heavy distillates;;
+Vantaan jätevoimala;Vantaan Energia Oy;0124461-3;Peltolantie 27;Vantaa ;1610;Vantaan Jätevoimala;District heating CHP;0;0;0;0;0;0;81.4;76.4;0;81.4;76.4;0;Mixed fuels;Natural gas;Medium heavy distillates
+Vanttauskoski;Kemijoki Oy;0192171-7;PL 8131;ROVANIEMI;96101;Vanttauskoski;Hydro power;95;95;0;0;0;0;0;0;0;95;95;0;;;
+Varissaari;Keuruun Lämpövoima Oy;0208389-0;PL 50;Keuruu;42701;Varissaari;District heating CHP;0;0;0;0;0;0;4.5;4.5;0;4.5;4.5;0;Forest fuelwood;Peat;Medium heavy distillates
+Varkaus lä ;Stora Enso Oyj;1039050-8 ;Satakunnankatu 10;Varkaus;78201;Varkaus;Industry CHP;4.8;4.8;0;47;25;0;0;0;0;51.8;29.8;0;Black liquor and concentrated liquors;Forest fuelwood;Other by-products and wastes used as fuel
+Vartinoja 1;Vartinoja I Ky;2584436-5;PL3;Lähitapiola;2010;Vartinoja 1;Wind power;25.65;25.65;0;0;0;0;0;0;0;25.65;25.65;0;;;
+Wasa Wind ;Wasa Wind Oy;2415208-4;Yrittäjänkatu 13;Vaasa;65380;Myrgrundintie 346 B, 65410 Vaasa;Wind power;3.6;3.6;0;0;0;0;0;0;0;3.6;3.6;0;;;
+Vaskiluoto 2;Vaskiluodon Voima Oy;0198680-1;Frilundintie 7;Vaasa;65170;Vaasa ( Vaskiluoto 2 );District heating CHP;0;0;0;0;0;0;230;230;0;230;230;0;Hard coal and anthracite;Heavy distillates;
+Vaskiluoto 3;PVO-Huippuvoima Oy;1062421-2;Frilundintie 7;Vaasa;65170;Vaasa  ( Vaskiluoto 3 );District heating CHP;0;0;164;0;0;0;0;0;0;0;0;164;Heavy distillates;;
+Vaskiluoto kt;Fingrid Oyj;1072894-3;PL 530 ( Arkadiakatu 23 B);Helsinki;100;Vaskiluoto kt 2;Separate electricity production;26;26;0;0;0;0;0;0;0;26;26;0;Medium heavy distillates;;
+Waskiluoto Validation Center;Wärtsilä Finland Oy;0773744-3;Järvikatu 2-4;Vaasa;65100;Waskiluoto Validation Center;Separate electricity production;5.5;5.5;9;0;0;0;0;0;0;5.5;5.5;9;Heavy distillates;Heavy distillates;Medium heavy distillates
+Vatajankoski;Vatajankosken Sähkö Oy;0398580-2;PL 12;Kankaanpää;38701;Vatajankoski;Hydro power;0.75;0.75;0;0;0;0;0;0;0;0.75;0.75;0;;;
+Vehmaa;Biovakka Suomi Oy;2105973-0;Kalannintie 191;Vehmaa;23200;markku.ahlqvist@biovakka.fi;Industry CHP;0;0;0;1.4;1.4;0;0;0;0;1.4;1.4;0;Biogas;;
+Veitsiluoto;Stora Enso Oyj;1039050-8;Veitsiluodon tehdas;Kemi;94800;Veitsiluoto;Industry CHP;0;0;0;90;90;0;0;0;0;90;90;0;Black liquor and concentrated liquors;Industrial wood residues;Peat
+Venetpalo;Vattenfall Sähköntuotanto oy;1076456-5;Maaistraatinportti 4 A;Helsinki;240;Kärsämäki / Venetpalo;Hydro power;1.8;1.8;0;0;0;0;0;0;0;1.8;1.8;0;;;
+Verla 1 ja 2;KSS Energia Oy;0877511-8;Paimenpolku 3;Kouvola;45100;Valkeala / Verla;Hydro power;3;3;0;0;0;0;0;0;0;3;3;0;;;
+Westenergy jätteenpolttolaitos; Vaasan Sähkö Oy (Westenergy Oy Ab);0209628-8;PL 26;Vaasa ;65101;Energiatie 37, 66530 Koivulahti;District heating CHP;0;0;0;0;0;0;13.2;11.2;0;13.2;11.2;0;Mixed fuels;;
+Vihreäsaari retrofit;Vihreäsaari Wind Oy;2695464-6;c/o Revico Grant Thornton Oy, Paciuksenkatu 27;Helsinki;271;Vihreäsaari retrofit;Wind power;3.45;3.45;0;0;0;0;0;0;0;3.45;3.45;0;;;
+Vihtakoski;Pohjois-Karjalan Sähkö Oy;0214732-1;Rantakatu 29;Joensuu;80100;Joensuu, Vihtakoski;Hydro power;1.5;0.7;0;0;0;0;0;0;0;1.5;0.7;0;;;
+Viikinmäki;Helsingin Vesi;0201256-6;PL 1100;Helsingin kaupunki;99;Viikinmäen jätevedenpuhdistamo;Industry CHP;0;0;0;2.7;2.1;0;0;0;0;2.7;2.1;0;Biogas;Medium heavy distillates;
+Vilppulan saha;Biokraft Oy;1931103-6;c/o Vapo Oy;PL 22;40101;Vilppula;Industry CHP;0;0;0;2.9;2.9;0;0;0;0;2.9;2.9;0;Industrial wood residues;Industrial wood residues;
+Voikkaa ve 1;UPM Energy Oy;2760639-5;Ky-35;Kuusankoski;45700;Voikkaa 1;Hydro power;8.9;8.2;0;0;0;0;0;0;0;8.9;8.2;0;;;
+Voikkaa ve 2;UPM Energy Oy;2760639-5;Ky-35; Valkeakoski;45700;Voikkaa 2;Hydro power;24;23;0;0;0;0;0;0;0;24;23;0;;;
+Voimala 1 - Etelänkylä-Kalajoki;Tuulipuisto Oy Etelänkylä;2570135-6;Tuulipuisto Oy Etelänkylä (c/o Taxpoint Oy), Mannerheimintie 20 B;Helsinki;100;Voimala 1 - Etelänkylä-Kalajoki;Wind power;3.3;3.3;0;0;0;0;0;0;0;3.3;3.3;0;;;
+Voimala 2 - Etelänkylä-Kalajoki;Tuulipuisto Oy Etelänkylä;2570135-6;Tuulipuisto Oy Etelänkylä (c/o Taxpoint Oy), Mannerheimintie 20 B;Helsinki;100;Voimala 2 - Etelänkylä-Kalajoki;Wind power;3.3;3.3;0;0;0;0;0;0;0;3.3;3.3;0;;;
+Vuolenkoski ve;Myllykoski Paper Oy;0103132-3;Myllykoskentie 1;Anjalankoski;46800;Vuolenkosken vesivoimalaitos;Hydro power;9.5;9;0;0;0;0;0;0;0;9.5;9;0;;;
+Vuosaari A;Helsingin Energia;9000002882;Kampinkuja 2;HELEN;90;Vuosaari A-voimalaitos;District heating CHP;0;0;0;0;0;0;163;160;0;163;160;0;Natural gas;Medium heavy distillates;
+Vuosaari B;Helsingin Energia;9000002882;Kampinkuja 2;HELEN;90;Vuosaari B-voimalaitos;District heating CHP;0;0;0;0;0;0;485;470;0;485;470;0;Natural gas;Medium heavy distillates;
+Värnå;Esse Elektro-Kraft Ab;0181952-8;Seinpottvägen 3;Esse;68820;Värnå 1, Värnå 2;Hydro power;1.2;1.2;0;0;0;0;0;0;0;1.2;1.2;0;;;
+Wärtsilä tehdas;Wärtsilä Finland Oy;0773744-3;Järvikatu 2-4;Vaasa;65100;Wärtsilä Engine Laboratory;Separate electricity production;10.4;10.4;0;0;0;0;0;0;0;10.4;10.4;0;Heavy distillates;Heavy distillates;Medium heavy distillates
+Vääräkoski;Pohjois-Karjalan Sähkö Oy;0214732-1;Rantakatu 29;Joensuu;80100;Tohmajärvi, Vääräkoski;Hydro power;1.8;0.7;0;0;0;0;0;0;0;1.8;0.7;0;;;
+Ykspihlaja Wind Oy;Ykspihlaja Wind Oy;2785595-7;Lapinlahdenkatu 1 C;Helsinki;180;Ykspihlaja Wind Oy;Wind power;14.4;14.4;0;0;0;0;0;0;0;14.4;14.4;0;;;
+Ylivieska;Oy Perhonjoki AB;1657717-0;Isokatu 8;68600 Pietarsaari;100;Tulolantien voimalaitos, Ylivieska, Vieskan Voima;District heating CHP;0;0;0;0;0;0;6.2;6.2;0;6.2;6.2;0;Peat;;
+Åminnefors;Koskienergia Koskivoima Oy;2447744-7;Kotakennääntie 31;Äänekoski;44100;Åminnefors, Pohja;Hydro power;1;1;0;0;0;0;0;0;0;1;1;0;;;
+Äetsä;UPM Energy Oy;2760639-5;Ky-35;Kuusankoski;45700;Äetsä;Hydro power;19.7;14.6;0;0;0;0;0;0;0;19.7;14.6;0;;;
+Ämmä;Fortum Power & Heat , Generation;0109160-2;Keilaniementie 1;PL 100;00048 Fortum;Ämmä;Hydro power;14;14;0;0;0;0;0;0;0;14;14;0;;;
+Ämmäkoski;Kainuun Voima Oy;0626023-3;Tehdaskatu 17;PL 302;87101 Kajaani;Ämmäkoski;Hydro power;1.57;1.57;0;0;0;0;0;0;0;1.57;1.57;0;;;
+Ämmässuo;Helsingin seudun ympäristöpalvelut -kuntayhtymä (HSY);2274241-9;PL 100;HSY;66;Ämmässuon jätteenkäsittelykeskus;District heating CHP;0;0;0;0;0;0;15.65;15.65;0;15.65;15.65;0;Biogas;;
+Ämmässuo 2;Helsingin seudun ympäristöpalvelut -kuntayhtymä (HSY);2274241-9;PL 100;HSY;66;Ämmässuon jätteenkäsittelykeskus;District heating CHP;0;0;0;0;0;0;3.13;3.13;0;3.13;3.13;0;Biogas;;
+Äänekoski ht;Äänevoima Oy;1634090-7;PL 200;ÄÄNEKOSKI;44101;Äänevoima Oy;Industry CHP;0;0;0;35;35;0;0;0;0;35;35;0;Industrial wood residues;Forest fuelwood;Peat
+Äänekoski ve;Metsä Board Oyj;635366-7;Revontulentie 6;Espoo;2100;Metsä Board Äänekosken vesivoimalaitos;Hydro power;6;6;0;0;0;0;0;0;0;6;6;0;;;
+Äänekoski, Biotuotetehdas;Metsä Fibre;0791416-3;Revontulenpuisto 2 C;Espoo;2100;Äänekoski, Biotuotetehdas;Industry CHP;0;0;0;280;280;0;0;0;0;280;280;0;Black liquor and concentrated liquors;;

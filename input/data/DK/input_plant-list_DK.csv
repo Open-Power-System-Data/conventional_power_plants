@@ -1,0 +1,29 @@
+company,name,street,postcode,city,country,capacity,energy_source,technology,additional_info,type,chp,commissioned,comment,source,availability,eic_code,lat,lon
+HOFOR,Amager Power Station (Unit 1),,,Copenhagen,DK ,70,Biomass and biogas,,Zone: East (DK2),,,2009,,https://www.gem.wiki/Amager_power_station,1,45V000000000012C,55.68583,12.62621
+HOFOR,Amager Power Station (Unit 3),,,Copenhagen,DK ,263,Mixed fossil fuels,,Zone: East (DK2),,,1989,,https://www.gem.wiki/Amager_power_station,1,45V000000000012C,55.68583,12.62621
+Orsted,Asnæs Power Station (Unit 2),,,Kalundborg,DK ,147,Mixed fossil fuels,,Zone: East (DK2),,,1961,,https://www.nsenergybusiness.com/projects/asnaes-power,1,45V000000000011E,55.66252,11.08156
+Orsted,Asnæs Power Station (Unit 5),,,,DK ,640,Mixed fossil fuels,,Zone: East (DK2),,,1981,,Energinet DK,partly,45V000000000011E,55.66252,11.08156
+Orsted,Avedøre Power Station (Unit 1),,,Avedøre,DK ,254,Mixed fossil fuels,,Zone: East (DK2),,,1990,,https://orsted.com/en/Media/Newsroom/News/2017/10/Denmarks-largest-power-station-replaces-coal-with-wood-pellets,1,45V0000000000091,55.60358,12.48127
+Orsted,Avedøre Power Station (Unit 2),,,Avedøre,DK ,394,Mixed fossil fuels,,Zone: East (DK2),,,2002,,https://orsted.com/en/Media/Newsroom/News/2017/10/Denmarks-largest-power-station-replaces-coal-with-wood-pellets,1,45V0000000000091,55.60358,12.48127
+Orsted,Esbjerg Power Station (Unit 3),,,Esbjerg,DK ,407,Mixed fossil fuels,,Zone: West (DK1),,,1992,,https://www.gem.wiki/Esbjerg_power_station,1,45V0000000000164,55.45632,8.45523
+Vattenfall,Fyn Power Station (Unit 7),,,Odense,DK ,410,Hard coal,Steam turbine,Zone: West (DK1),,,1991,,https://www.gem.wiki/Fyns_power_station,1,45V000000000013A,55.42938,10.41203
+Vattenfall,Fyn Power Station (Unit 8),,,Odense,DK ,35,Biomass and biogas,,Zone: West (DK1),,,2009,,https://www.gem.wiki/Fyns_power_station,1,45V000000000013A,55.42938,10.41203
+Orsted,H.C. Ørsted Power Station (Unit 7),,,Copenhagen,DK ,75,Natural gas,,Zone: East (DK2),,,1985,Not updated,Energinet DK,1,,55.65757,12.55563
+Orsted,H.C. Ørsted Power Station (Unit 8),,,Copenhagen,DK ,25,Natural gas,,Zone: East (DK2),,,2004,Not updated,Energinet DK,1,,55.65757,12.55563
+Orsted,H.C. Ørsted Power Station. Sec. 2 (Unit 1-4),,,Copenhagen,DK ,10,Natural gas,,Zone: East (DK2),,,1954,,Energinet DK,0,,55.65757,12.55563
+Orsted,Herning Power Station,,,Herning,DK ,89,Biomass and biogas,,Zone: West (DK1),,,1982,,https://www.bwsc.com/references/herning-power-plant,1,,56.12128,9.0064
+Orsted,Kyndby Power Station (Unit 21),,,Hornsherred,DK ,260,Oil,,Zone: East (DK2),,,1974,,http://ipaper.ipapercms.dk/DONGENERGY/Internet/DK/ThermalPower/KYVbrochure2012DK/?page=12,1,45V0000000000083,55.81028,11.87987
+Orsted,Kyndby Power Station (Unit 22),,,Hornsherred,DK ,260,Oil,,Zone: East (DK2),,,1976,,http://ipaper.ipapercms.dk/DONGENERGY/Internet/DK/ThermalPower/KYVbrochure2012DK/?page=12,1,45V0000000000083,55.81028,11.87987
+Orsted,Kyndby Power Station (Unit 41),,,Hornsherred,DK ,20,Oil,,Zone: East (DK2),,,1974,,http://ipaper.ipapercms.dk/DONGENERGY/Internet/DK/ThermalPower/KYVbrochure2012DK/?page=12,1,45V0000000000083,55.81028,11.87987
+Orsted,Kyndby Power Station (Unit 51+52),,,,DK ,125,Oil,,Zone: East (DK2),,,1973,,http://ipaper.ipapercms.dk/DONGENERGY/Internet/DK/ThermalPower/KYVbrochure2012DK/?page=12,1,45V0000000000083,55.81028,11.87987
+Vordingborg Forsyning,Masnedø Power Station (Unit 31),,,Masnedø,DK ,70,Other or unspecified energy sources,,Zone: East (DK2),,,1975,,https://www.bwsc.com/references/masnedoe-power-plant,1,,54.99552,11.88538
+Aalborg Kommune,Nordjylland Power Station (Gas Turbine Unit),,,Vodskov,DK ,25,Hard coal,Steam turbine,Zone: West (DK1),,,1976,,https://www.bwsc.com/references/nordjylland-power-plant,1,45V0000000000156,57.0726,10.04252
+Aalborg Kommune,Nordjylland Power Station (Unit 2),,,Vodskov,DK ,305,Hard coal,Steam turbine,Zone: West (DK1),,,1977,,https://www.bwsc.com/references/nordjylland-power-plant,partly,45V0000000000156,57.0726,10.04252
+Aalborg Kommune,Nordjylland Power Station (Unit 3),,,Vodskov,DK ,415,Hard coal,Steam turbine,Zone: West (DK1),,,1998,,https://www.bwsc.com/references/nordjylland-power-plant,1,45V0000000000156,57.0726,10.04252
+,Østkraft,,,Bornholm,DK ,90,Other or unspecified energy sources,,Zone: East (DK2),,,2014,Not updated,Energinet DK,1,,55.09371,14.69715
+Orsted,Skærbæk Power Station (Unit 3),,,Fredericia,DK ,392,Natural gas,,Zone: West (DK1),,,1997,,Energinet DK,1,45V000000000010G,55.51132,9.61331
+Orsted,Studstrup Power Station (Unit 3),,,Studstrup,DK ,375,Hard coal,Steam turbine,Zone: West (DK1),,,1984,,http://globalenergyobservatory.org/geoid/44220,1,45V0000000000148,56.24895,10.34725
+Orsted,Studstrup Power Station (Unit 4),,,Studstrup,DK ,375,Hard coal,Steam turbine,Zone: West (DK1),,,1985,,http://globalenergyobservatory.org/geoid/44220,partly,45V0000000000148,56.24895,10.34725
+Orsted,Studstrup Power Station (Unit 5),,,Studstrup,DK ,15,Hard coal,Steam turbine,Zone: West (DK1),,,1986,Not updated,Energinet DK,1,45V0000000000148,56.24895,10.34725
+Orsted,Svanemølle Power Station (Unit 1-3),,,Copenhagen,DK ,10,Mixed fossil fuels,,Zone: East (DK2),,,1953,,Not updated,0,,55.71259,12.58786
+Orsted,Svanemølle Power Station (Unit 7),,,Copenhagen,DK ,60,Mixed fossil fuels,,Zone: East (DK2),,,1995,,https://www.bwsc.com/references/svanemoelle-power-plant,0,,55.71259,12.58786

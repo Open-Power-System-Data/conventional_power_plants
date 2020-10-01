@@ -1,0 +1,28 @@
+fuel,technology,efficiency_intercept,efficiency_slope
+"Biomass and biogas","Steam turbine",0.38,0
+"Biomass and biogas","Combustion Engine",-2.358,0.0014
+"Hard coal","Steam turbine",-4.575,0.0025
+"Hard coal","Combined cycle",-8.46,0.0045
+"Natural gas","Combustion Engine",-2.358,0.0014
+"Natural gas","Combined cycle",-8.46,0.0045
+"Natural gas","Gas turbine",-4.82,0.0026
+"Natural gas",hp,0.95,0
+"Natural gas",ic,0.38,0
+"Natural gas","Steam turbine",-1.815,0.0011
+Lignite,"Steam turbine",-4.4,0.0024
+Oil,"Combustion Engine",-2.358,0.0014
+Oil,"Gas turbine",-4.82,0.0026
+Oil,"Combined cycle",0.38,0
+Oil,ic,0.38,0
+Oil,"Steam turbine",-1.815,0.0011
+Nuclear,"Steam turbine",0.33,0
+Waste,"Gas turbine",0.33,0
+Waste,"Steam turbine",0.33,0
+Waste,"Combined cycle",0.33,0
+Hydro,"Pumped storage",0.75,0
+Hydro,"Reservoir",0.8,0
+Hydro,"Run-of-river",0.8,0
+"Other fossil fuels","Gas turbine",0.33,0
+"Other fossil fuels","Combined cycle",0.33,0
+"Other fossil fuels","Steam turbine",0.33,0
+"Other fossil fuels","Combustion Engine",-2.358,0.0014
